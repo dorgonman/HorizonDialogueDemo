@@ -4,3 +4,6 @@
 [submodule "Plugins/HorizonPlugin/HorizonUIPlugin"]
 	path = Plugins/HorizonPlugin/HorizonUIPlugin
 	url = https://dorgon@bitbucket.org/horizonstudio/horizonuiplugin.git
+[submodule "Plugins/HorizonPlugin/HorizonDialoguePlugin"]
+	path = Plugins/HorizonPlugin/HorizonDialoguePlugin
+	url = git@bitbucket.org:horizonstudio/horizondialogueplugin.git
