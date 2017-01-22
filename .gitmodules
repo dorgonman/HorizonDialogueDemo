@@ -1,0 +1,18 @@
+[submodule "Plugins/HorizonTweenPlugin"]
+	path = Plugins/HorizonTweenPlugin
+	url = https://hsgame.visualstudio.com/UE4HorizonPlugin/_git/HorizonTweenPlugin
+[submodule "Plugins/HorizonUIPlugin"]
+	path = Plugins/HorizonUIPlugin
+	url = https://hsgame.visualstudio.com/UE4HorizonPlugin/_git/HorizonUIPlugin
+[submodule "Plugins/HorizonDialoguePlugin"]
+	path = Plugins/HorizonDialoguePlugin
+	url = https://hsgame.visualstudio.com/UE4HorizonPlugin/_git/HorizonDialoguePlugin
+[submodule "Plugins/HorizonFrameworkPlugin"]
+	path = Plugins/HorizonFrameworkPlugin
+	url = https://hsgame.visualstudio.com/UE4HorizonPlugin/_git/HorizonFrameworkPlugin
+[submodule "ue_ci_scripts"]
+	path = ue_ci_scripts
+	url = https://hsgame.visualstudio.com/UEHorizonBuildScript/_git/ue_ci_scripts
+[submodule "horizon_ci_scripts"]
+	path = horizon_ci_scripts
+	url = https://hsgame.visualstudio.com/UEHorizonBuildScript/_git/horizon_ci_scripts

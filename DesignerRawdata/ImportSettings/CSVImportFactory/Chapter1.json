@@ -1,0 +1,21 @@
+{
+  "ImportGroups": [
+    {
+      "GroupName": "Chapter1",
+      "Filenames": [
+        "D:/work/vsts-hsgame/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.csv",
+        "D:/work/vsts-hsgame/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.csv",
+        "D:/work/vsts-hsgame/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/ChapterTest.csv"
+      ],
+      "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/Chapter1/",
+      "bReplaceExisting": "true",
+      "bSkipReadOnly": "true",
+      "FactoryName": "CSVImportFactory",
+      "ImportSettings": {
+        "ImportRowStruct": "HorizonDialogueTextTableData",
+        "ImportType": "ECSV_DataTable",
+        "ImportCurveInterpMode": "RCIM_Linear"
+      }
+    }
+  ]
+}

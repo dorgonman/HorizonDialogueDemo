@@ -1,0 +1,19 @@
+{
+  "ImportGroups": [
+    {
+      "GroupName": "DialogueTalkerName",
+      "Filenames": [
+        "D:/work/vsts-hsgame/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.csv"
+      ],
+      "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/",
+      "bReplaceExisting": "true",
+      "bSkipReadOnly": "true",
+      "FactoryName": "CSVImportFactory",
+      "ImportSettings": {
+        "ImportRowStruct": "HorizonDialogueTalkerNameTableData",
+        "ImportType": "ECSV_DataTable",
+        "ImportCurveInterpMode": "RCIM_Linear"
+      }
+    }
+  ]
+}

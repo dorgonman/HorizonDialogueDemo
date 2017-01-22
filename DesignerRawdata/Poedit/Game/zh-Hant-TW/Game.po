@@ -1,0 +1,2442 @@
+﻿# Game Chinese (Traditional, Taiwan) translation.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2018-05-26 10:02\n"
+"PO-Revision-Date: 2018-05-26 10:02\n"
+"Language-Team: \n"
+"Language: zh-Hant-TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	0D06BD084B3F8311AD51D1BA9F04EE93
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/Widget/WBP_GameDialogueScene.WBP_GameDialogueScene_C:WidgetTree.TextBlockHistoryLog.Text
+#: /Game/HorizonDialogueDemo/Blueprints/Widget/WBP_GameDialogueScene.WBP_GameDialogueScene_C:WidgetTree.TextBlockHistoryLog.Text
+msgctxt ",0D06BD084B3F8311AD51D1BA9F04EE93"
+msgid "LOG"
+msgstr "LOG"
+
+#. Key:	464891564E43FF7F130417998BCEA21B
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.Default__BP_ChapterTestWidget_C.NewVar_1.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.Default__BP_ChapterTestWidget_C.NewVar_1.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+msgctxt ",464891564E43FF7F130417998BCEA21B"
+msgid "MyChoice02"
+msgstr "MyChoice02"
+
+#. Key:	50CC1B6645823BE5DBDFBCBE0D865D0C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.BP_ChapterTestWidget_C:ExecuteUbergraph_BP_ChapterTestWidget [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.BP_ChapterTestWidget_C:ExecuteUbergraph_BP_ChapterTestWidget [Script Bytecode]
+msgctxt ",50CC1B6645823BE5DBDFBCBE0D865D0C"
+msgid "You select choice 00: second event"
+msgstr "You select choice 00: second event"
+
+#. Key:	664F68254A40E14AF01490897338E1D0
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/Widget/SubScene/WBP_DialogueChoiceButton.WBP_DialogueChoiceButton_C:WidgetTree.TextBlock_1.Text
+#: /Game/HorizonDialogueDemo/Blueprints/Widget/SubScene/WBP_DialogueChoiceButton.WBP_DialogueChoiceButton_C:WidgetTree.TextBlock_1.Text
+msgctxt ",664F68254A40E14AF01490897338E1D0"
+msgid "Choice02"
+msgstr "Choice02"
+
+#. Key:	7C4F5FCC418A6EDB69CDC88D720F601C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.Default__BP_ChapterTestWidget_C.NewVar_1.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.Default__BP_ChapterTestWidget_C.NewVar_1.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+msgctxt ",7C4F5FCC418A6EDB69CDC88D720F601C"
+msgid "MyChoice01"
+msgstr "MyChoice01"
+
+#. Key:	8BDD4B6A4BA8FB842C9EF0A0688BCE63
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_Chapter1-1_HelloWorld.BP_Chapter1-1_HelloWorld_C:ExecuteUbergraph_BP_Chapter1-1_HelloWorld [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_Chapter1-1_HelloWorld.BP_Chapter1-1_HelloWorld_C:ExecuteUbergraph_BP_Chapter1-1_HelloWorld [Script Bytecode]
+msgctxt ",8BDD4B6A4BA8FB842C9EF0A0688BCE63"
+msgid "大家好！"
+msgstr "大家好！"
+
+#. Key:	BA1071A74F535C0514510492EBFCB489
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.BP_ChapterTestWidget_C:ExecuteUbergraph_BP_ChapterTestWidget [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.BP_ChapterTestWidget_C:ExecuteUbergraph_BP_ChapterTestWidget [Script Bytecode]
+msgctxt ",BA1071A74F535C0514510492EBFCB489"
+msgid "You select choice 00"
+msgstr "You select choice 00"
+
+#. Key:	C0794D474D21A4F6AF4994BB8A02A180
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/Widget/SubScene/WBP_DialogueChoiceButton.WBP_DialogueChoiceButton_C:WidgetTree.TextBlock_97.Text
+#: /Game/HorizonDialogueDemo/Blueprints/Widget/SubScene/WBP_DialogueChoiceButton.WBP_DialogueChoiceButton_C:WidgetTree.TextBlock_97.Text
+msgctxt ",C0794D474D21A4F6AF4994BB8A02A180"
+msgid "Choice00"
+msgstr "Choice00"
+
+#. Key:	C7CF59B34D92EE33DD6F9F931B509889
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/Widget/SubScene/WBP_DialogueChoiceButton.WBP_DialogueChoiceButton_C:WidgetTree.TextBlock_0.Text
+#: /Game/HorizonDialogueDemo/Blueprints/Widget/SubScene/WBP_DialogueChoiceButton.WBP_DialogueChoiceButton_C:WidgetTree.TextBlock_0.Text
+msgctxt ",C7CF59B34D92EE33DD6F9F931B509889"
+msgid "Choice01"
+msgstr "Choice01"
+
+#. Key:	CE4F414548C42CDD41593595218917CD
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.Default__BP_ChapterTestWidget_C.NewVar_1.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.Default__BP_ChapterTestWidget_C.NewVar_1.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+msgctxt ",CE4F414548C42CDD41593595218917CD"
+msgid "MyChoice00"
+msgstr "MyChoice00"
+
+#. Key:	D01CCB9947325883A9CBDE989698F1FD
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.BP_ChapterTestWidget_C:ExecuteUbergraph_BP_ChapterTestWidget [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter1/BP_ChapterTestWidget.BP_ChapterTestWidget_C:ExecuteUbergraph_BP_ChapterTestWidget [Script Bytecode]
+msgctxt ",D01CCB9947325883A9CBDE989698F1FD"
+msgid "You select choice 01"
+msgstr "You select choice 01"
+
+#. Key:	id_001_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.Chapter1-1.id_001.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.Chapter1-1.id_001.DialogueText
+msgctxt "Chapter1-1,id_001_DialogueText"
+msgid "這個demo專案會展示HorizonDialogue Plugin內的一些主要的功能。"
+msgstr "這個demo專案會展示HorizonDialogue Plugin內的一些主要的功能。"
+
+#. Key:	id_002_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.Chapter1-1.id_002.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.Chapter1-1.id_002.DialogueText
+msgctxt "Chapter1-1,id_002_DialogueText"
+msgid "由於這個Plugin會用到HorizonUI Plugin、HorizonTween Plugin跟HorizonFramework Plugin中的功能，因此在開始使用這個Plugin之前，先去了解相依的三個Plugin怎麼使用，將能夠幫助我們更快的理解這個Plugin的各項功能該怎麼使用。"
+msgstr "由於這個Plugin會用到HorizonUI Plugin、HorizonTween Plugin跟HorizonFramework Plugin中的功能，因此在開始使用這個Plugin之前，先去了解相依的三個Plugin怎麼使用，將能夠幫助我們更快的理解這個Plugin的各項功能該怎麼使用。"
+
+#. Key:	id_003_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.Chapter1-1.id_003.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.Chapter1-1.id_003.DialogueText
+msgctxt "Chapter1-1,id_003_DialogueText"
+msgid "那麼，讓我們來看看這個Plugin能夠做到那些事吧！"
+msgstr "那麼，讓我們來看看這個Plugin能夠做到那些事吧！"
+
+#. Key:	id_001_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_001.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_001.DialogueText
+msgctxt "Chapter1-2,id_001_DialogueText"
+msgid "Hello! 有人在嗎？"
+msgstr "Hello! 有人在嗎？"
+
+#. Key:	id_002_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_002.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_002.DialogueText
+msgctxt "Chapter1-2,id_002_DialogueText"
+msgid "你是來學"
+msgstr "你是來學"
+
+#. Key:	id_003_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_003.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_003.DialogueText
+msgctxt "Chapter1-2,id_003_DialogueText"
+msgid "這個教學會展示如何將 DialogueEvent 加到 HorizonDialogueScene 中。"
+msgstr "這個教學會展示如何將 DialogueEvent 加到 HorizonDialogueScene 中。"
+
+#. Key:	id_004_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_004.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_004.DialogueText
+msgctxt "Chapter1-2,id_004_DialogueText"
+msgid "這個教學會展示如何將 DialogueEvent 加到 HorizonDialogueScene 中。"
+msgstr "這個教學會展示如何將 DialogueEvent 加到 HorizonDialogueScene 中。"
+
+#. Key:	id_005_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_005.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_005.DialogueText
+msgctxt "Chapter1-2,id_005_DialogueText"
+msgid "第一種是CreateEventDialogueMsg，擁有比較少的參數需求。這個事件會試著將文字顯示在設置於DialogueScene.中的「DefaultDialogueMsgTextBlockWidgetName」。"
+msgstr "第一種是CreateEventDialogueMsg，擁有比較少的參數需求。這個事件會試著將文字顯示在設置於DialogueScene.中的「DefaultDialogueMsgTextBlockWidgetName」。"
+
+#. Key:	id_chapter_title_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_chapter_title.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.Chapter1-2.id_chapter_title.DialogueText
+msgctxt "Chapter1-2,id_chapter_title_DialogueText"
+msgid "教學一：基本用法"
+msgstr "教學一：基本用法"
+
+#. Key:	id_chapter_title_DialogueText
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/Chapter1/ChapterTest.ChapterTest.id_chapter_title.DialogueText
+#: /Game/HorizonDialogueDemo/DataTable/Chapter1/ChapterTest.ChapterTest.id_chapter_title.DialogueText
+msgctxt "ChapterTest,id_chapter_title_DialogueText"
+msgid "測試：Widget"
+msgstr "測試：Widget"
+
+#. Key:	00AA8D344331D34F5C8B3AA6907B738A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_110_Dialogue.Shinbi_Emote_110_Dialogue
+#. InfoMetaData:	"AudioFile" : "00AA8D344331D34F5C8B3AA6907B738A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_110_Dialogue.Shinbi_Emote_110_Dialogue
+msgctxt "Dialogue,00AA8D344331D34F5C8B3AA6907B738A_CFCFF08A00000000"
+msgid "That's right! Bring it."
+msgstr "That's right! Bring it."
+
+#. Key:	019FA526404DAFE1CA618081C8E77A23_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Boast_030_Dialogue.Shinbi_Intro_Boast_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "019FA526404DAFE1CA618081C8E77A23_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Boast_030_Dialogue.Shinbi_Intro_Boast_030_Dialogue
+msgctxt "Dialogue,019FA526404DAFE1CA618081C8E77A23_CFCFF08A00000000"
+msgid "Don't bother recording. This performance will be over before you know it."
+msgstr "Don't bother recording. This performance will be over before you know it."
+
+#. Key:	01DEBF784F4212FFDA37329E334D7CB5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_060_Dialogue.Shinbi_Emote_060_Dialogue
+#. InfoMetaData:	"AudioFile" : "01DEBF784F4212FFDA37329E334D7CB5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_060_Dialogue.Shinbi_Emote_060_Dialogue
+msgctxt "Dialogue,01DEBF784F4212FFDA37329E334D7CB5_CFCFF08A00000000"
+msgid "Great game guys! One of the best."
+msgstr "Great game guys! One of the best."
+
+#. Key:	02157A674F9271982F7C8CAD80D3708A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileDizzy_010_Dialogue.Shinbi_ProfileDizzy_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "02157A674F9271982F7C8CAD80D3708A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileDizzy_010_Dialogue.Shinbi_ProfileDizzy_010_Dialogue
+msgctxt "Dialogue,02157A674F9271982F7C8CAD80D3708A_CFCFF08A00000000"
+msgid "I don't know about this new music video. Romando Blanq? Was this your idea?"
+msgstr "I don't know about this new music video. Romando Blanq? Was this your idea?"
+
+#. Key:	033EC01B47B76DECD0869FAEB9A56869_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Critical_020_Dialogue.Shinbi_Health_Critical_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "033EC01B47B76DECD0869FAEB9A56869_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Critical_020_Dialogue.Shinbi_Health_Critical_020_Dialogue
+msgctxt "Dialogue,033EC01B47B76DECD0869FAEB9A56869_CFCFF08A00000000"
+msgid "A little help here?"
+msgstr "A little help here?"
+
+#. Key:	03CEDC264B7269B41BD99790BA21B3E8_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftSelect_020_Dialogue.Shinbi_DraftSelect_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "03CEDC264B7269B41BD99790BA21B3E8_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftSelect_020_Dialogue.Shinbi_DraftSelect_020_Dialogue
+msgctxt "Dialogue,03CEDC264B7269B41BD99790BA21B3E8_CFCFF08A00000000"
+msgid "We'll go together!"
+msgstr "We'll go together!"
+
+#. Key:	047101134510CBFEB7E90DA587923344_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_OrbPrimeActivated_010_Dialogue.Shinbi_Status_OrbPrimeActivated_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "047101134510CBFEB7E90DA587923344_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_OrbPrimeActivated_010_Dialogue.Shinbi_Status_OrbPrimeActivated_010_Dialogue
+msgctxt "Dialogue,047101134510CBFEB7E90DA587923344_CFCFF08A00000000"
+msgid "We got it! Time to fight!"
+msgstr "We got it! Time to fight!"
+
+#. Key:	04B91C824F5D4A846C38EF85754CCBC1_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LowMana_010_Dialogue.Shinbi_Ability_LowMana_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "04B91C824F5D4A846C38EF85754CCBC1_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LowMana_010_Dialogue.Shinbi_Ability_LowMana_010_Dialogue
+msgctxt "Dialogue,04B91C824F5D4A846C38EF85754CCBC1_CFCFF08A00000000"
+msgid "Not enough energy."
+msgstr "Not enough energy."
+
+#. Key:	0536147A46705B6B419DEAA6CE3B53C7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_040_Dialogue.Shinbi_Death_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "0536147A46705B6B419DEAA6CE3B53C7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_040_Dialogue.Shinbi_Death_040_Dialogue
+msgctxt "Dialogue,0536147A46705B6B419DEAA6CE3B53C7_CFCFF08A00000000"
+msgid "Come on!"
+msgstr "Come on!"
+
+#. Key:	05A45D6B4C8FAEE7C99351BA4C7C615B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LMB_Engage_020_Dialogue.Shinbi_Ability_LMB_Engage_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "05A45D6B4C8FAEE7C99351BA4C7C615B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LMB_Engage_020_Dialogue.Shinbi_Ability_LMB_Engage_020_Dialogue
+msgctxt "Dialogue,05A45D6B4C8FAEE7C99351BA4C7C615B_CFCFF08A00000000"
+msgid "Come on!"
+msgstr "Come on!"
+
+#. Key:	067E349E4350DA696BA01CA4BC9BF9F3_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_E_Engage_010_Dialogue.Shinbi_Ability_E_Engage_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "067E349E4350DA696BA01CA4BC9BF9F3_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_E_Engage_010_Dialogue.Shinbi_Ability_E_Engage_010_Dialogue
+msgctxt "Dialogue,067E349E4350DA696BA01CA4BC9BF9F3_CFCFF08A00000000"
+msgid "Circle up!"
+msgstr "Circle up!"
+
+#. Key:	077C6D6648B47251D1361495998BA71F_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_050_Dialogue.Shinbi_Revive_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "077C6D6648B47251D1361495998BA71F_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_050_Dialogue.Shinbi_Revive_050_Dialogue
+msgctxt "Dialogue,077C6D6648B47251D1361495998BA71F_CFCFF08A00000000"
+msgid "Whoo, that wasn't awesome."
+msgstr "Whoo, that wasn't awesome."
+
+#. Key:	0985214A4FE28DFFC68278A833300D92_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_020_Dialogue.Shinbi_Lore_Kwang_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "0985214A4FE28DFFC68278A833300D92_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_020_Dialogue.Shinbi_Lore_Kwang_020_Dialogue
+msgctxt "Dialogue,0985214A4FE28DFFC68278A833300D92_CFCFF08A00000000"
+msgid "Kwang, just come to one show! You might have fun."
+msgstr "Kwang, just come to one show! You might have fun."
+
+#. Key:	09A6B67F45F9ED83BA265DA605D52636_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_110_Dialogue.Shinbi_Lore_Kwang_110_Dialogue
+#. InfoMetaData:	"AudioFile" : "09A6B67F45F9ED83BA265DA605D52636_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_110_Dialogue.Shinbi_Lore_Kwang_110_Dialogue
+msgctxt "Dialogue,09A6B67F45F9ED83BA265DA605D52636_CFCFF08A00000000"
+msgid "Hm. Fold that sword in half, and eat it!"
+msgstr "Hm. Fold that sword in half, and eat it!"
+
+#. Key:	0C3E2DAA43F1F57EF7F28E9F17B5E9F6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_No_010_Dialogue.Shinbi_Ability_No_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "0C3E2DAA43F1F57EF7F28E9F17B5E9F6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_No_010_Dialogue.Shinbi_Ability_No_010_Dialogue
+msgctxt "Dialogue,0C3E2DAA43F1F57EF7F28E9F17B5E9F6_CFCFF08A00000000"
+msgid "It's not working."
+msgstr "It's not working."
+
+#. Key:	0C7D81014D8443F71F40D9A8BB64B1CF_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_050_Dialogue.Shinbi_Catchphrase_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "0C7D81014D8443F71F40D9A8BB64B1CF_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_050_Dialogue.Shinbi_Catchphrase_050_Dialogue
+msgctxt "Dialogue,0C7D81014D8443F71F40D9A8BB64B1CF_CFCFF08A00000000"
+msgid "Truth is, I still get nervous before I perform. But the moment I step on stage and feel the lights on my face, it all melts away."
+msgstr "Truth is, I still get nervous before I perform. But the moment I step on stage and feel the lights on my face, it all melts away."
+
+#. Key:	0DE5AC764791D5DF90B36E8D06C196A6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftLock_030_Dialogue.Shinbi_DraftLock_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "0DE5AC764791D5DF90B36E8D06C196A6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftLock_030_Dialogue.Shinbi_DraftLock_030_Dialogue
+msgctxt "Dialogue,0DE5AC764791D5DF90B36E8D06C196A6_CFCFF08A00000000"
+msgid "All right, let's go!"
+msgstr "All right, let's go!"
+
+#. Key:	0F3099574A2275F6B2E914A3B0D98833_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_010_Dialogue.Shinbi_Lore_Phase_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "0F3099574A2275F6B2E914A3B0D98833_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_010_Dialogue.Shinbi_Lore_Phase_010_Dialogue
+msgctxt "Dialogue,0F3099574A2275F6B2E914A3B0D98833_CFCFF08A00000000"
+msgid "Hey Phase, you should be in my next music video! It'll be just like old times."
+msgstr "Hey Phase, you should be in my next music video! It'll be just like old times."
+
+#. Key:	0F88B19143B624C6C8F73E9BC6DEF401_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Self_010_Dialogue.Shinbi_Ability_Ultimate_Self_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "0F88B19143B624C6C8F73E9BC6DEF401_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Self_010_Dialogue.Shinbi_Ability_Ultimate_Self_010_Dialogue
+msgctxt "Dialogue,0F88B19143B624C6C8F73E9BC6DEF401_CFCFF08A00000000"
+msgid "The stage is yours!"
+msgstr "The stage is yours!"
+
+#. Key:	0FDF24DB486746A0F2A829AC8EBBA0E9_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_100_Dialogue.Shinbi_Lore_Daiji_100_Dialogue
+#. InfoMetaData:	"AudioFile" : "0FDF24DB486746A0F2A829AC8EBBA0E9_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_100_Dialogue.Shinbi_Lore_Daiji_100_Dialogue
+msgctxt "Dialogue,0FDF24DB486746A0F2A829AC8EBBA0E9_CFCFF08A00000000"
+msgid "You may be fast, but can you outrun my wolves?"
+msgstr "You may be fast, but can you outrun my wolves?"
+
+#. Key:	10A828D143B6C751051ECDB8068598E2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_CriticalSave_020_Dialogue.Shinbi_Health_CriticalSave_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "10A828D143B6C751051ECDB8068598E2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_CriticalSave_020_Dialogue.Shinbi_Health_CriticalSave_020_Dialogue
+msgctxt "Dialogue,10A828D143B6C751051ECDB8068598E2_CFCFF08A00000000"
+msgid "I've never seen moves like that!"
+msgstr "I've never seen moves like that!"
+
+#. Key:	125B494344C237D966F2B385EEEBC946_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_050_Dialogue.Shinbi_Level_Up_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "125B494344C237D966F2B385EEEBC946_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_050_Dialogue.Shinbi_Level_Up_050_Dialogue
+msgctxt "Dialogue,125B494344C237D966F2B385EEEBC946_CFCFF08A00000000"
+msgid "Keep it going!"
+msgstr "Keep it going!"
+
+#. Key:	12FA978A4B7FD54144EA2E9917FEE5EB_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_100_Dialogue.Shinbi_Lore_Kwang_100_Dialogue
+#. InfoMetaData:	"AudioFile" : "12FA978A4B7FD54144EA2E9917FEE5EB_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_100_Dialogue.Shinbi_Lore_Kwang_100_Dialogue
+msgctxt "Dialogue,12FA978A4B7FD54144EA2E9917FEE5EB_CFCFF08A00000000"
+msgid "Let's hear you sing, Kwang!"
+msgstr "Let's hear you sing, Kwang!"
+
+#. Key:	13977E4C4B3DDF455BA72A8441A1A1B5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_040_Dialogue.Shinbi_Status_Victory_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "13977E4C4B3DDF455BA72A8441A1A1B5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_040_Dialogue.Shinbi_Status_Victory_040_Dialogue
+msgctxt "Dialogue,13977E4C4B3DDF455BA72A8441A1A1B5_CFCFF08A00000000"
+msgid "When I have the power of the Ashur, I'll never have to live by anyone else's rules again."
+msgstr "When I have the power of the Ashur, I'll never have to live by anyone else's rules again."
+
+#. Key:	140B60C24707B8207C076485C9217FCA_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Danger_020_Dialogue.Shinbi_Status_Danger_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "140B60C24707B8207C076485C9217FCA_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Danger_020_Dialogue.Shinbi_Status_Danger_020_Dialogue
+msgctxt "Dialogue,140B60C24707B8207C076485C9217FCA_CFCFF08A00000000"
+msgid "I'd better be careful."
+msgstr "I'd better be careful."
+
+#. Key:	143D52F64309B5F02E921A925BA6BCBE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileIdle_030_Dialogue.Shinbi_ProfileIdle_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "143D52F64309B5F02E921A925BA6BCBE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileIdle_030_Dialogue.Shinbi_ProfileIdle_030_Dialogue
+msgctxt "Dialogue,143D52F64309B5F02E921A925BA6BCBE_CFCFF08A00000000"
+msgid "\"Shinbi, come help sweep the shrine!\" I wish I could hear her voice one more time, even if it was just to pester me."
+msgstr "\"Shinbi, come help sweep the shrine!\" I wish I could hear her voice one more time, even if it was just to pester me."
+
+#. Key:	15A21CA348C47BE33BF588AC15BFE054_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LMB_Engage_010_Dialogue.Shinbi_Ability_LMB_Engage_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "15A21CA348C47BE33BF588AC15BFE054_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LMB_Engage_010_Dialogue.Shinbi_Ability_LMB_Engage_010_Dialogue
+msgctxt "Dialogue,15A21CA348C47BE33BF588AC15BFE054_CFCFF08A00000000"
+msgid "Hi!"
+msgstr "Hi!"
+
+#. Key:	15F3BBA442603AB54A19C4BCEAC80E38_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_040_Dialogue.Shinbi_Emote_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "15F3BBA442603AB54A19C4BCEAC80E38_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_040_Dialogue.Shinbi_Emote_040_Dialogue
+msgctxt "Dialogue,15F3BBA442603AB54A19C4BCEAC80E38_CFCFF08A00000000"
+msgid "Oops, I'm sorry."
+msgstr "Oops, I'm sorry."
+
+#. Key:	1624B7AC493FBAFDF4899FA1309F4E64_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Statement_030_Dialogue.Shinbi_Intro_Statement_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "1624B7AC493FBAFDF4899FA1309F4E64_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Statement_030_Dialogue.Shinbi_Intro_Statement_030_Dialogue
+msgctxt "Dialogue,1624B7AC493FBAFDF4899FA1309F4E64_CFCFF08A00000000"
+msgid "One, two, three, four wolves... yep, everyone's here!"
+msgstr "One, two, three, four wolves... yep, everyone's here!"
+
+#. Key:	165E8BD44634E50311EAE9ABE4FBCB4D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_050_Dialogue.Shinbi_Lore_Kwang_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "165E8BD44634E50311EAE9ABE4FBCB4D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_050_Dialogue.Shinbi_Lore_Kwang_050_Dialogue
+msgctxt "Dialogue,165E8BD44634E50311EAE9ABE4FBCB4D_CFCFF08A00000000"
+msgid "Do you still hang out with that friend of yours, Daiji? He was always a little weird."
+msgstr "Do you still hang out with that friend of yours, Daiji? He was always a little weird."
+
+#. Key:	18A56DA844AB81BA3142F68106356D74_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Five_020_Dialogue.Shinbi_Level_Five_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "18A56DA844AB81BA3142F68106356D74_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Five_020_Dialogue.Shinbi_Level_Five_020_Dialogue
+msgctxt "Dialogue,18A56DA844AB81BA3142F68106356D74_CFCFF08A00000000"
+msgid "And there's the All-Kill!"
+msgstr "And there's the All-Kill!"
+
+#. Key:	199DF03F491FD10F60D14AB38AF24EB7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_120_Dialogue.Shinbi_Lore_Daiji_120_Dialogue
+#. InfoMetaData:	"AudioFile" : "199DF03F491FD10F60D14AB38AF24EB7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_120_Dialogue.Shinbi_Lore_Daiji_120_Dialogue
+msgctxt "Dialogue,199DF03F491FD10F60D14AB38AF24EB7_CFCFF08A00000000"
+msgid "Why are you such a creep?"
+msgstr "Why are you such a creep?"
+
+#. Key:	1CEFD222450F49F1817F1899FEC62F12_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Five_030_Dialogue.Shinbi_Level_Five_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "1CEFD222450F49F1817F1899FEC62F12_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Five_030_Dialogue.Shinbi_Level_Five_030_Dialogue
+msgctxt "Dialogue,1CEFD222450F49F1817F1899FEC62F12_CFCFF08A00000000"
+msgid "Ooh, the All-Kill..."
+msgstr "Ooh, the All-Kill..."
+
+#. Key:	1CF8F8A94871D65AE899958D85577EBC_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_090_Dialogue.Shinbi_Lore_Phase_090_Dialogue
+#. InfoMetaData:	"AudioFile" : "1CF8F8A94871D65AE899958D85577EBC_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_090_Dialogue.Shinbi_Lore_Phase_090_Dialogue
+msgctxt "Dialogue,1CF8F8A94871D65AE899958D85577EBC_CFCFF08A00000000"
+msgid "Let's get bubble tea after the match!"
+msgstr "Let's get bubble tea after the match!"
+
+#. Key:	1D82340D41F5007E734DE9A094A260D8_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Assist_020_Dialogue.Shinbi_Kill_Assist_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "1D82340D41F5007E734DE9A094A260D8_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Assist_020_Dialogue.Shinbi_Kill_Assist_020_Dialogue
+msgctxt "Dialogue,1D82340D41F5007E734DE9A094A260D8_CFCFF08A00000000"
+msgid "All right! We did good!"
+msgstr "All right! We did good!"
+
+#. Key:	1FC4B04F4DB5CCD78849DA99B315053F_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_TeamDead_010_Dialogue.Shinbi_Status_TeamDead_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "1FC4B04F4DB5CCD78849DA99B315053F_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_TeamDead_010_Dialogue.Shinbi_Status_TeamDead_010_Dialogue
+msgctxt "Dialogue,1FC4B04F4DB5CCD78849DA99B315053F_CFCFF08A00000000"
+msgid "Oh boy... I'll do what I can!"
+msgstr "Oh boy... I'll do what I can!"
+
+#. Key:	1FDBE6014D77BB0775D32191F0AE6CA7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_060_Dialogue.Shinbi_Lore_Kwang_060_Dialogue
+#. InfoMetaData:	"AudioFile" : "1FDBE6014D77BB0775D32191F0AE6CA7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_060_Dialogue.Shinbi_Lore_Kwang_060_Dialogue
+msgctxt "Dialogue,1FDBE6014D77BB0775D32191F0AE6CA7_CFCFF08A00000000"
+msgid "Aren't you supposed to be at home, taking care of our parents?"
+msgstr "Aren't you supposed to be at home, taking care of our parents?"
+
+#. Key:	207B2F914C8192D19C18209E0713F933_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_060_Dialogue.Shinbi_Lore_Phase_060_Dialogue
+#. InfoMetaData:	"AudioFile" : "207B2F914C8192D19C18209E0713F933_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_060_Dialogue.Shinbi_Lore_Phase_060_Dialogue
+msgctxt "Dialogue,207B2F914C8192D19C18209E0713F933_CFCFF08A00000000"
+msgid "I'm in the middle of writing my next song. It's about us!"
+msgstr "I'm in the middle of writing my next song. It's about us!"
+
+#. Key:	207BFA084F902D9B06DDC996C0F79A4E_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_UsedLastCharge_040_Dialogue.Shinbi_Ability_UsedLastCharge_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "207BFA084F902D9B06DDC996C0F79A4E_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_UsedLastCharge_040_Dialogue.Shinbi_Ability_UsedLastCharge_040_Dialogue
+msgctxt "Dialogue,207BFA084F902D9B06DDC996C0F79A4E_CFCFF08A00000000"
+msgid "Empty for now."
+msgstr "Empty for now."
+
+#. Key:	20C2A705418201FAEF3F5D9158F36AF2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Revenge_030_Dialogue.Shinbi_Kill_Revenge_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "20C2A705418201FAEF3F5D9158F36AF2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Revenge_030_Dialogue.Shinbi_Kill_Revenge_030_Dialogue
+msgctxt "Dialogue,20C2A705418201FAEF3F5D9158F36AF2_CFCFF08A00000000"
+msgid "Feels real good!"
+msgstr "Feels real good!"
+
+#. Key:	214FE7034BEDBCBC587CD79599F50F37_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Idle_030_Dialogue.Shinbi_Status_Idle_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "214FE7034BEDBCBC587CD79599F50F37_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Idle_030_Dialogue.Shinbi_Status_Idle_030_Dialogue
+msgctxt "Dialogue,214FE7034BEDBCBC587CD79599F50F37_CFCFF08A00000000"
+msgid "I need to be out there with my friends! I don't want to watch them die!"
+msgstr "I need to be out there with my friends! I don't want to watch them die!"
+
+#. Key:	216F50764FB63EA94549A2B9F35E1078_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_030_Dialogue.Shinbi_Lore_Phase_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "216F50764FB63EA94549A2B9F35E1078_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_030_Dialogue.Shinbi_Lore_Phase_030_Dialogue
+msgctxt "Dialogue,216F50764FB63EA94549A2B9F35E1078_CFCFF08A00000000"
+msgid "Aw, I miss you! We should hang out and write a song together."
+msgstr "Aw, I miss you! We should hang out and write a song together."
+
+#. Key:	21AE12904A20116F317A33A89638B86F_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_020_Dialogue.Shinbi_Death_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "21AE12904A20116F317A33A89638B86F_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_020_Dialogue.Shinbi_Death_020_Dialogue
+msgctxt "Dialogue,21AE12904A20116F317A33A89638B86F_CFCFF08A00000000"
+msgid "I can't--"
+msgstr "I can't--"
+
+#. Key:	21E8B5814220C0B8B836208C89DB7245_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_SameEnemy_020_Dialogue.Shinbi_Kill_SameEnemy_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "21E8B5814220C0B8B836208C89DB7245_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_SameEnemy_020_Dialogue.Shinbi_Kill_SameEnemy_020_Dialogue
+msgctxt "Dialogue,21E8B5814220C0B8B836208C89DB7245_CFCFF08A00000000"
+msgid "There are easier ways to get an autograph."
+msgstr "There are easier ways to get an autograph."
+
+#. Key:	22C9D3C243A0B2E9801DA095034C19D5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Shinbi_030_Dialogue.Shinbi_Intro_Shinbi_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "22C9D3C243A0B2E9801DA095034C19D5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Shinbi_030_Dialogue.Shinbi_Intro_Shinbi_030_Dialogue
+msgctxt "Dialogue,22C9D3C243A0B2E9801DA095034C19D5_CFCFF08A00000000"
+msgid "Hehe, hi there."
+msgstr "Hehe, hi there."
+
+#. Key:	244250804F51E03FF4018897AC0D3C13_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_QuestionResponse_020_Dialogue.Shinbi_Intro_QuestionResponse_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "244250804F51E03FF4018897AC0D3C13_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_QuestionResponse_020_Dialogue.Shinbi_Intro_QuestionResponse_020_Dialogue
+msgctxt "Dialogue,244250804F51E03FF4018897AC0D3C13_CFCFF08A00000000"
+msgid "Start the beat and let's find out."
+msgstr "Start the beat and let's find out."
+
+#. Key:	25185BDE4BEAA20BCEC0B9A6E10B075A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_050_Dialogue.Shinbi_Lore_Daiji_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "25185BDE4BEAA20BCEC0B9A6E10B075A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_050_Dialogue.Shinbi_Lore_Daiji_050_Dialogue
+msgctxt "Dialogue,25185BDE4BEAA20BCEC0B9A6E10B075A_CFCFF08A00000000"
+msgid "You're different. Did something happen after I left Letha?"
+msgstr "You're different. Did something happen after I left Letha?"
+
+#. Key:	25AF76404CC10A53EE32A489A04A579C_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Shutdown_020_Dialogue.Shinbi_Kill_Shutdown_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "25AF76404CC10A53EE32A489A04A579C_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Shutdown_020_Dialogue.Shinbi_Kill_Shutdown_020_Dialogue
+msgctxt "Dialogue,25AF76404CC10A53EE32A489A04A579C_CFCFF08A00000000"
+msgid "Don't feel bad, you were doing great!"
+msgstr "Don't feel bad, you were doing great!"
+
+#. Key:	2657EECE4D7C3418C4AF3B8C78DF4EB3_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_020_Dialogue.Shinbi_Lore_Phase_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "2657EECE4D7C3418C4AF3B8C78DF4EB3_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_020_Dialogue.Shinbi_Lore_Phase_020_Dialogue
+msgctxt "Dialogue,2657EECE4D7C3418C4AF3B8C78DF4EB3_CFCFF08A00000000"
+msgid "Phase, promise me that you'll direct a video for me!"
+msgstr "Phase, promise me that you'll direct a video for me!"
+
+#. Key:	2708D9C94FA66B31A5A8598A59002A4A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_050_Dialogue.Shinbi_Death_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "2708D9C94FA66B31A5A8598A59002A4A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_050_Dialogue.Shinbi_Death_050_Dialogue
+msgctxt "Dialogue,2708D9C94FA66B31A5A8598A59002A4A_CFCFF08A00000000"
+msgid "Really?"
+msgstr "Really?"
+
+#. Key:	281994FF4EABB2905F0E17B6A17201E1_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_BoughtItem_030_Dialogue.Shinbi_Level_BoughtItem_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "281994FF4EABB2905F0E17B6A17201E1_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_BoughtItem_030_Dialogue.Shinbi_Level_BoughtItem_030_Dialogue
+msgctxt "Dialogue,281994FF4EABB2905F0E17B6A17201E1_CFCFF08A00000000"
+msgid "I like it!"
+msgstr "I like it!"
+
+#. Key:	281D855740132130C9D5699A32BE7D0A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_SameEnemy_010_Dialogue.Shinbi_Kill_SameEnemy_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "281D855740132130C9D5699A32BE7D0A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_SameEnemy_010_Dialogue.Shinbi_Kill_SameEnemy_010_Dialogue
+msgctxt "Dialogue,281D855740132130C9D5699A32BE7D0A_CFCFF08A00000000"
+msgid "Three in a row - aw yeah!"
+msgstr "Three in a row - aw yeah!"
+
+#. Key:	29A48D734D3805C214EC1CA55394680B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_040_Dialogue.Shinbi_Lore_Daiji_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "29A48D734D3805C214EC1CA55394680B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_040_Dialogue.Shinbi_Lore_Daiji_040_Dialogue
+msgctxt "Dialogue,29A48D734D3805C214EC1CA55394680B_CFCFF08A00000000"
+msgid "Tradition is for people with no imagination. I'm done living by those rules."
+msgstr "Tradition is for people with no imagination. I'm done living by those rules."
+
+#. Key:	2B7CFB904373BE3FCEA9179310A7C0BA_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Question_010_Dialogue.Shinbi_Intro_Question_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "2B7CFB904373BE3FCEA9179310A7C0BA_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Question_010_Dialogue.Shinbi_Intro_Question_010_Dialogue
+msgctxt "Dialogue,2B7CFB904373BE3FCEA9179310A7C0BA_CFCFF08A00000000"
+msgid "Okay guys! Ready to do this?"
+msgstr "Okay guys! Ready to do this?"
+
+#. Key:	2BF9064F42C75194CFAA879E758D09AD_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_070_Dialogue.Shinbi_Lore_Kwang_070_Dialogue
+#. InfoMetaData:	"AudioFile" : "2BF9064F42C75194CFAA879E758D09AD_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_070_Dialogue.Shinbi_Lore_Kwang_070_Dialogue
+msgctxt "Dialogue,2BF9064F42C75194CFAA879E758D09AD_CFCFF08A00000000"
+msgid "I do. But this life has offered me so much more."
+msgstr "I do. But this life has offered me so much more."
+
+#. Key:	2CAFB2CA428C8377307D118AFA2CDC99_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Low_020_Dialogue.Shinbi_Health_Low_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "2CAFB2CA428C8377307D118AFA2CDC99_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Low_020_Dialogue.Shinbi_Health_Low_020_Dialogue
+msgctxt "Dialogue,2CAFB2CA428C8377307D118AFA2CDC99_CFCFF08A00000000"
+msgid "Starting to hurt!"
+msgstr "Starting to hurt!"
+
+#. Key:	2E2450B74C1C5737E8B392868016B899_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_OnCooldown_010_Dialogue.Shinbi_Ability_OnCooldown_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "2E2450B74C1C5737E8B392868016B899_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_OnCooldown_010_Dialogue.Shinbi_Ability_OnCooldown_010_Dialogue
+msgctxt "Dialogue,2E2450B74C1C5737E8B392868016B899_CFCFF08A00000000"
+msgid "Just a minute."
+msgstr "Just a minute."
+
+#. Key:	2FF36D33404365B59A739F875FA893FF_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_TeamDead_020_Dialogue.Shinbi_Status_TeamDead_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "2FF36D33404365B59A739F875FA893FF_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_TeamDead_020_Dialogue.Shinbi_Status_TeamDead_020_Dialogue
+msgctxt "Dialogue,2FF36D33404365B59A739F875FA893FF_CFCFF08A00000000"
+msgid "This is bad... But I've handled worse."
+msgstr "This is bad... But I've handled worse."
+
+#. Key:	305B1BAA473E959A9E97FDAC8FBDC1A9_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_010_Dialogue.Shinbi_Death_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "305B1BAA473E959A9E97FDAC8FBDC1A9_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_010_Dialogue.Shinbi_Death_010_Dialogue
+msgctxt "Dialogue,305B1BAA473E959A9E97FDAC8FBDC1A9_CFCFF08A00000000"
+msgid "No!"
+msgstr "No!"
+
+#. Key:	31487D6B472CCA0DCEF550BD80F7AA6B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_No_020_Dialogue.Shinbi_Ability_No_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "31487D6B472CCA0DCEF550BD80F7AA6B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_No_020_Dialogue.Shinbi_Ability_No_020_Dialogue
+msgctxt "Dialogue,31487D6B472CCA0DCEF550BD80F7AA6B_CFCFF08A00000000"
+msgid "Oops, sorry."
+msgstr "Oops, sorry."
+
+#. Key:	3281DABA4C08494BF282959F0070C261_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Phase_010_Dialogue.Shinbi_Lore_Kill_Phase_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "3281DABA4C08494BF282959F0070C261_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Phase_010_Dialogue.Shinbi_Lore_Kill_Phase_010_Dialogue
+msgctxt "Dialogue,3281DABA4C08494BF282959F0070C261_CFCFF08A00000000"
+msgid "Sorry!"
+msgstr "Sorry!"
+
+#. Key:	3308ABF447692546AB43A9B929052B73_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_020_Dialogue.Shinbi_Status_Recall_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "3308ABF447692546AB43A9B929052B73_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_020_Dialogue.Shinbi_Status_Recall_020_Dialogue
+msgctxt "Dialogue,3308ABF447692546AB43A9B929052B73_CFCFF08A00000000"
+msgid "Cut! I'm heading back."
+msgstr "Cut! I'm heading back."
+
+#. Key:	33AA27EF4E190E071D48349315AFC9CE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Phase_030_Dialogue.Shinbi_Lore_Kill_Phase_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "33AA27EF4E190E071D48349315AFC9CE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Phase_030_Dialogue.Shinbi_Lore_Kill_Phase_030_Dialogue
+msgctxt "Dialogue,33AA27EF4E190E071D48349315AFC9CE_CFCFF08A00000000"
+msgid "See you in a bit!"
+msgstr "See you in a bit!"
+
+#. Key:	3526FD2340D9F1D8C72250B27C384693_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Buffed_010_Dialogue.Shinbi_Status_Buffed_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "3526FD2340D9F1D8C72250B27C384693_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Buffed_010_Dialogue.Shinbi_Status_Buffed_010_Dialogue
+msgctxt "Dialogue,3526FD2340D9F1D8C72250B27C384693_CFCFF08A00000000"
+msgid "I'll take that."
+msgstr "I'll take that."
+
+#. Key:	369188C64445B508D6117DBF959D6E41_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Daiji_020_Dialogue.Shinbi_Lore_Kill_Daiji_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "369188C64445B508D6117DBF959D6E41_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Daiji_020_Dialogue.Shinbi_Lore_Kill_Daiji_020_Dialogue
+msgctxt "Dialogue,369188C64445B508D6117DBF959D6E41_CFCFF08A00000000"
+msgid "Ugh, he is so weird."
+msgstr "Ugh, he is so weird."
+
+#. Key:	379C717A48354C91A9A3358B77FAACD7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Ready_010_Dialogue.Shinbi_Ability_Ultimate_Ready_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "379C717A48354C91A9A3358B77FAACD7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Ready_010_Dialogue.Shinbi_Ability_Ultimate_Ready_010_Dialogue
+msgctxt "Dialogue,379C717A48354C91A9A3358B77FAACD7_CFCFF08A00000000"
+msgid "Ready for the All-Kill!"
+msgstr "Ready for the All-Kill!"
+
+#. Key:	37E90D6B46488FE615D212A165C02442_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_ScoredCrit_030_Dialogue.Shinbi_Ability_ScoredCrit_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "37E90D6B46488FE615D212A165C02442_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_ScoredCrit_030_Dialogue.Shinbi_Ability_ScoredCrit_030_Dialogue
+msgctxt "Dialogue,37E90D6B46488FE615D212A165C02442_CFCFF08A00000000"
+msgid "I got you good!"
+msgstr "I got you good!"
+
+#. Key:	38EA0CAE4E856BF4533A139EDA90790A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Streak_010_Dialogue.Shinbi_Kill_Streak_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "38EA0CAE4E856BF4533A139EDA90790A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Streak_010_Dialogue.Shinbi_Kill_Streak_010_Dialogue
+msgctxt "Dialogue,38EA0CAE4E856BF4533A139EDA90790A_CFCFF08A00000000"
+msgid "I am on a roll!"
+msgstr "I am on a roll!"
+
+#. Key:	399CADC54D6F99BD2A7F48958DC16CDB_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_040_Dialogue.Shinbi_Lore_Phase_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "399CADC54D6F99BD2A7F48958DC16CDB_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_040_Dialogue.Shinbi_Lore_Phase_040_Dialogue
+msgctxt "Dialogue,399CADC54D6F99BD2A7F48958DC16CDB_CFCFF08A00000000"
+msgid "I'd never let that happen! Where ever you go, I will follow!"
+msgstr "I'd never let that happen! Where ever you go, I will follow!"
+
+#. Key:	3A70F5054030DD0D11CD01BF7963E5B4_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_020_Dialogue.Shinbi_Level_Up_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "3A70F5054030DD0D11CD01BF7963E5B4_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_020_Dialogue.Shinbi_Level_Up_020_Dialogue
+msgctxt "Dialogue,3A70F5054030DD0D11CD01BF7963E5B4_CFCFF08A00000000"
+msgid "I feel it!"
+msgstr "I feel it!"
+
+#. Key:	3D86D6FB40CF26F9067594AC4282CBCF_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_SameEnemy_030_Dialogue.Shinbi_Kill_SameEnemy_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "3D86D6FB40CF26F9067594AC4282CBCF_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_SameEnemy_030_Dialogue.Shinbi_Kill_SameEnemy_030_Dialogue
+msgctxt "Dialogue,3D86D6FB40CF26F9067594AC4282CBCF_CFCFF08A00000000"
+msgid "Aw, you came back! How sweet!"
+msgstr "Aw, you came back! How sweet!"
+
+#. Key:	4040838A43AA6C90B48DE9876364C7C0_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Question_030_Dialogue.Shinbi_Intro_Question_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "4040838A43AA6C90B48DE9876364C7C0_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Question_030_Dialogue.Shinbi_Intro_Question_030_Dialogue
+msgctxt "Dialogue,4040838A43AA6C90B48DE9876364C7C0_CFCFF08A00000000"
+msgid "Are you ready to dance?"
+msgstr "Are you ready to dance?"
+
+#. Key:	419021FD47610B60BE8F6CAE56B13B7D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Statement_010_Dialogue.Shinbi_Intro_Statement_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "419021FD47610B60BE8F6CAE56B13B7D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Statement_010_Dialogue.Shinbi_Intro_Statement_010_Dialogue
+msgctxt "Dialogue,419021FD47610B60BE8F6CAE56B13B7D_CFCFF08A00000000"
+msgid "All right, Agora! Let's get this started!"
+msgstr "All right, Agora! Let's get this started!"
+
+#. Key:	41E525D14E406605C0CE89985F2503E7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_SufferedCrit_020_Dialogue.Shinbi_Health_SufferedCrit_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "41E525D14E406605C0CE89985F2503E7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_SufferedCrit_020_Dialogue.Shinbi_Health_SufferedCrit_020_Dialogue
+msgctxt "Dialogue,41E525D14E406605C0CE89985F2503E7_CFCFF08A00000000"
+msgid "That's not nice!"
+msgstr "That's not nice!"
+
+#. Key:	438B9E074025F4F600A7D1909D2F452D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Five_010_Dialogue.Shinbi_Level_Five_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "438B9E074025F4F600A7D1909D2F452D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Five_010_Dialogue.Shinbi_Level_Five_010_Dialogue
+msgctxt "Dialogue,438B9E074025F4F600A7D1909D2F452D_CFCFF08A00000000"
+msgid "Hey look! It's the All-Kill."
+msgstr "Hey look! It's the All-Kill."
+
+#. Key:	43C72E7747C80D56464230AF2C12BDB5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_OnCooldown_030_Dialogue.Shinbi_Ability_OnCooldown_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "43C72E7747C80D56464230AF2C12BDB5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_OnCooldown_030_Dialogue.Shinbi_Ability_OnCooldown_030_Dialogue
+msgctxt "Dialogue,43C72E7747C80D56464230AF2C12BDB5_CFCFF08A00000000"
+msgid "Not yet."
+msgstr "Not yet."
+
+#. Key:	43EC062E4A7F8FBA8BCB8BA8B99FDAF4_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_E_Engage_020_Dialogue.Shinbi_Ability_E_Engage_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "43EC062E4A7F8FBA8BCB8BA8B99FDAF4_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_E_Engage_020_Dialogue.Shinbi_Ability_E_Engage_020_Dialogue
+msgctxt "Dialogue,43EC062E4A7F8FBA8BCB8BA8B99FDAF4_CFCFF08A00000000"
+msgid "Come on, girls!"
+msgstr "Come on, girls!"
+
+#. Key:	44FDD3AD4B27C6965E1C3BB5CEE2468A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileDizzy_040_Dialogue.Shinbi_ProfileDizzy_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "44FDD3AD4B27C6965E1C3BB5CEE2468A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileDizzy_040_Dialogue.Shinbi_ProfileDizzy_040_Dialogue
+msgctxt "Dialogue,44FDD3AD4B27C6965E1C3BB5CEE2468A_CFCFF08A00000000"
+msgid "Phase directed my first music video. Well, more or less. It's... complicated. Let's just say there were a lot of Tryon helicopters involved."
+msgstr "Phase directed my first music video. Well, more or less. It's... complicated. Let's just say there were a lot of Tryon helicopters involved."
+
+#. Key:	462B32EC49C80CA314354C97B92254DC_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_070_Dialogue.Shinbi_Kill_Enemy_070_Dialogue
+#. InfoMetaData:	"AudioFile" : "462B32EC49C80CA314354C97B92254DC_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_070_Dialogue.Shinbi_Kill_Enemy_070_Dialogue
+msgctxt "Dialogue,462B32EC49C80CA314354C97B92254DC_CFCFF08A00000000"
+msgid "Ooh, not your best performance."
+msgstr "Ooh, not your best performance."
+
+#. Key:	47434CB14D187B9BD92ABDAFF9442F91_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Q_Engage_010_Dialogue.Shinbi_Ability_Q_Engage_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "47434CB14D187B9BD92ABDAFF9442F91_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Q_Engage_010_Dialogue.Shinbi_Ability_Q_Engage_010_Dialogue
+msgctxt "Dialogue,47434CB14D187B9BD92ABDAFF9442F91_CFCFF08A00000000"
+msgid "Go get 'em!"
+msgstr "Go get 'em!"
+
+#. Key:	48D0F1FE4A715366118ADA846E08FFBE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Assist_010_Dialogue.Shinbi_Kill_Assist_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "48D0F1FE4A715366118ADA846E08FFBE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Assist_010_Dialogue.Shinbi_Kill_Assist_010_Dialogue
+msgctxt "Dialogue,48D0F1FE4A715366118ADA846E08FFBE_CFCFF08A00000000"
+msgid "We make a pretty good team."
+msgstr "We make a pretty good team."
+
+#. Key:	497037BD406C598E0E0A4DAEC8AEBD1F_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Death_Daiji_010_Dialogue.Shinbi_Lore_Death_Daiji_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "497037BD406C598E0E0A4DAEC8AEBD1F_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Death_Daiji_010_Dialogue.Shinbi_Lore_Death_Daiji_010_Dialogue
+msgctxt "Dialogue,497037BD406C598E0E0A4DAEC8AEBD1F_CFCFF08A00000000"
+msgid "Daiji!"
+msgstr "Daiji!"
+
+#. Key:	4A0C1E9B4D30F74D35C6E09F76DC36A9_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftLock_040_Dialogue.Shinbi_DraftLock_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "4A0C1E9B4D30F74D35C6E09F76DC36A9_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftLock_040_Dialogue.Shinbi_DraftLock_040_Dialogue
+msgctxt "Dialogue,4A0C1E9B4D30F74D35C6E09F76DC36A9_CFCFF08A00000000"
+msgid "Catch me if you can!"
+msgstr "Catch me if you can!"
+
+#. Key:	4B153786418E4D246A76CF96B70DA50E_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_050_Dialogue.Shinbi_Status_Victory_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "4B153786418E4D246A76CF96B70DA50E_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_050_Dialogue.Shinbi_Status_Victory_050_Dialogue
+msgctxt "Dialogue,4B153786418E4D246A76CF96B70DA50E_CFCFF08A00000000"
+msgid "Sorry Kwang, but I'm never coming home."
+msgstr "Sorry Kwang, but I'm never coming home."
+
+#. Key:	4C339D3A48233DD82BDFEB9CEEE29CB4_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_060_Dialogue.Shinbi_Death_060_Dialogue
+#. InfoMetaData:	"AudioFile" : "4C339D3A48233DD82BDFEB9CEEE29CB4_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_060_Dialogue.Shinbi_Death_060_Dialogue
+msgctxt "Dialogue,4C339D3A48233DD82BDFEB9CEEE29CB4_CFCFF08A00000000"
+msgid "Grandmother..."
+msgstr "Grandmother..."
+
+#. Key:	4CD7640443F3E9B2172C9BAA821853F6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_010_Dialogue.Shinbi_Level_AbilityLevelConfirm_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "4CD7640443F3E9B2172C9BAA821853F6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_010_Dialogue.Shinbi_Level_AbilityLevelConfirm_010_Dialogue
+msgctxt "Dialogue,4CD7640443F3E9B2172C9BAA821853F6_CFCFF08A00000000"
+msgid "That works."
+msgstr "That works."
+
+#. Key:	4CEFD8494A2F4FA404F1C79D0136C3B9_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Shutdown_030_Dialogue.Shinbi_Kill_Shutdown_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "4CEFD8494A2F4FA404F1C79D0136C3B9_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Shutdown_030_Dialogue.Shinbi_Kill_Shutdown_030_Dialogue
+msgctxt "Dialogue,4CEFD8494A2F4FA404F1C79D0136C3B9_CFCFF08A00000000"
+msgid "Sorry, it's over."
+msgstr "Sorry, it's over."
+
+#. Key:	4F5F2A3448FAA1085ECBA289BE718B03_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Q_Engage_030_Dialogue.Shinbi_Ability_Q_Engage_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "4F5F2A3448FAA1085ECBA289BE718B03_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Q_Engage_030_Dialogue.Shinbi_Ability_Q_Engage_030_Dialogue
+msgctxt "Dialogue,4F5F2A3448FAA1085ECBA289BE718B03_CFCFF08A00000000"
+msgid "Hit it!"
+msgstr "Hit it!"
+
+#. Key:	4FDB1E6C4C52AC79414953BD736D0373_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_OnCooldown_020_Dialogue.Shinbi_Ability_OnCooldown_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "4FDB1E6C4C52AC79414953BD736D0373_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_OnCooldown_020_Dialogue.Shinbi_Ability_OnCooldown_020_Dialogue
+msgctxt "Dialogue,4FDB1E6C4C52AC79414953BD736D0373_CFCFF08A00000000"
+msgid "It's got to recharge."
+msgstr "It's got to recharge."
+
+#. Key:	5100A9E8472B464C5EA3EF831EA11FFE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_CardPoints_020_Dialogue.Shinbi_Level_CardPoints_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "5100A9E8472B464C5EA3EF831EA11FFE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_CardPoints_020_Dialogue.Shinbi_Level_CardPoints_020_Dialogue
+msgctxt "Dialogue,5100A9E8472B464C5EA3EF831EA11FFE_CFCFF08A00000000"
+msgid "Hm, I need some new gear."
+msgstr "Hm, I need some new gear."
+
+#. Key:	515F21BA451DD2E56EE7BEBB939F8465_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Low_010_Dialogue.Shinbi_Health_Low_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "515F21BA451DD2E56EE7BEBB939F8465_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Low_010_Dialogue.Shinbi_Health_Low_010_Dialogue
+msgctxt "Dialogue,515F21BA451DD2E56EE7BEBB939F8465_CFCFF08A00000000"
+msgid "This doesn't feel good."
+msgstr "This doesn't feel good."
+
+#. Key:	51867EC54536AC40D28D76BFE55FB985_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_050_Dialogue.Shinbi_Level_AbilityLevelConfirm_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "51867EC54536AC40D28D76BFE55FB985_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_050_Dialogue.Shinbi_Level_AbilityLevelConfirm_050_Dialogue
+msgctxt "Dialogue,51867EC54536AC40D28D76BFE55FB985_CFCFF08A00000000"
+msgid "That'll help!"
+msgstr "That'll help!"
+
+#. Key:	51F15ED84AD02D1D67CDDA90C38DFA5B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Ready_030_Dialogue.Shinbi_Ability_Ultimate_Ready_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "51F15ED84AD02D1D67CDDA90C38DFA5B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Ready_030_Dialogue.Shinbi_Ability_Ultimate_Ready_030_Dialogue
+msgctxt "Dialogue,51F15ED84AD02D1D67CDDA90C38DFA5B_CFCFF08A00000000"
+msgid "All-Kill coming up!"
+msgstr "All-Kill coming up!"
+
+#. Key:	521AF8F34D77EC5FBD27D59F6A56B9EE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_ScoredCrit_010_Dialogue.Shinbi_Ability_ScoredCrit_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "521AF8F34D77EC5FBD27D59F6A56B9EE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_ScoredCrit_010_Dialogue.Shinbi_Ability_ScoredCrit_010_Dialogue
+msgctxt "Dialogue,521AF8F34D77EC5FBD27D59F6A56B9EE_CFCFF08A00000000"
+msgid "Critical!"
+msgstr "Critical!"
+
+#. Key:	53C61F5B4446CC07100C239B843487A0_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Boast_010_Dialogue.Shinbi_Intro_Boast_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "53C61F5B4446CC07100C239B843487A0_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Boast_010_Dialogue.Shinbi_Intro_Boast_010_Dialogue
+msgctxt "Dialogue,53C61F5B4446CC07100C239B843487A0_CFCFF08A00000000"
+msgid "Hm, I wonder who runs faster--them, or my spirit wolves?"
+msgstr "Hm, I wonder who runs faster--them, or my spirit wolves?"
+
+#. Key:	53D59F964E5EDCAFAE8C809703708CC6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Idle_020_Dialogue.Shinbi_Status_Idle_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "53D59F964E5EDCAFAE8C809703708CC6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Idle_020_Dialogue.Shinbi_Status_Idle_020_Dialogue
+msgctxt "Dialogue,53D59F964E5EDCAFAE8C809703708CC6_CFCFF08A00000000"
+msgid "I don't want to stand here and do nothing while my friends get hurt!"
+msgstr "I don't want to stand here and do nothing while my friends get hurt!"
+
+#. Key:	548EC8A243B3DC9ADA985D8936DCE637_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_030_Dialogue.Shinbi_Revive_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "548EC8A243B3DC9ADA985D8936DCE637_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_030_Dialogue.Shinbi_Revive_030_Dialogue
+msgctxt "Dialogue,548EC8A243B3DC9ADA985D8936DCE637_CFCFF08A00000000"
+msgid "And we're back."
+msgstr "And we're back."
+
+#. Key:	54D62DFA4B8FBF90D9B65397A775107F_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Buffed_020_Dialogue.Shinbi_Status_Buffed_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "54D62DFA4B8FBF90D9B65397A775107F_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Buffed_020_Dialogue.Shinbi_Status_Buffed_020_Dialogue
+msgctxt "Dialogue,54D62DFA4B8FBF90D9B65397A775107F_CFCFF08A00000000"
+msgid "Nice boost!"
+msgstr "Nice boost!"
+
+#. Key:	55309C8F4DD0683BBBD8ECBA98D83C11_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Defeat_010_Dialogue.Shinbi_Status_Defeat_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "55309C8F4DD0683BBBD8ECBA98D83C11_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Defeat_010_Dialogue.Shinbi_Status_Defeat_010_Dialogue
+msgctxt "Dialogue,55309C8F4DD0683BBBD8ECBA98D83C11_CFCFF08A00000000"
+msgid "Okay, what did we miss?"
+msgstr "Okay, what did we miss?"
+
+#. Key:	556276C74BB029EF55B1DE9803C7651B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_070_Dialogue.Shinbi_Lore_Daiji_070_Dialogue
+#. InfoMetaData:	"AudioFile" : "556276C74BB029EF55B1DE9803C7651B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_070_Dialogue.Shinbi_Lore_Daiji_070_Dialogue
+msgctxt "Dialogue,556276C74BB029EF55B1DE9803C7651B_CFCFF08A00000000"
+msgid "Uh... thanks? I think?"
+msgstr "Uh... thanks? I think?"
+
+#. Key:	5616A9B64B6995BE5E634FB62FF0FF56_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_010_Dialogue.Shinbi_Status_Victory_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "5616A9B64B6995BE5E634FB62FF0FF56_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_010_Dialogue.Shinbi_Status_Victory_010_Dialogue
+msgctxt "Dialogue,5616A9B64B6995BE5E634FB62FF0FF56_CFCFF08A00000000"
+msgid "Good job, everyone! That was fun!"
+msgstr "Good job, everyone! That was fun!"
+
+#. Key:	56170FCE4D7A1E1CE2260AB20CC39AB2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Statement_020_Dialogue.Shinbi_Intro_Statement_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "56170FCE4D7A1E1CE2260AB20CC39AB2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Statement_020_Dialogue.Shinbi_Intro_Statement_020_Dialogue
+msgctxt "Dialogue,56170FCE4D7A1E1CE2260AB20CC39AB2_CFCFF08A00000000"
+msgid "The beginning of a new adventure."
+msgstr "The beginning of a new adventure."
+
+#. Key:	56A8F26248BC4273B71CEBAF8CA746B0_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_010_Dialogue.Shinbi_Emote_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "56A8F26248BC4273B71CEBAF8CA746B0_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_010_Dialogue.Shinbi_Emote_010_Dialogue
+msgctxt "Dialogue,56A8F26248BC4273B71CEBAF8CA746B0_CFCFF08A00000000"
+msgid "Thanks!"
+msgstr "Thanks!"
+
+#. Key:	576D3EAD40FA6496078131988BDCAB54_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_070_Dialogue.Shinbi_Emote_070_Dialogue
+#. InfoMetaData:	"AudioFile" : "576D3EAD40FA6496078131988BDCAB54_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_070_Dialogue.Shinbi_Emote_070_Dialogue
+msgctxt "Dialogue,576D3EAD40FA6496078131988BDCAB54_CFCFF08A00000000"
+msgid "Who's Omeda's favorite pop star? Oh, it's me."
+msgstr "Who's Omeda's favorite pop star? Oh, it's me."
+
+#. Key:	5775A934497301787E81168A31E8DEC5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_040_Dialogue.Shinbi_Revive_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "5775A934497301787E81168A31E8DEC5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_040_Dialogue.Shinbi_Revive_040_Dialogue
+msgctxt "Dialogue,5775A934497301787E81168A31E8DEC5_CFCFF08A00000000"
+msgid "Dying... not a fan."
+msgstr "Dying... not a fan."
+
+#. Key:	57D2E09544FC24BB8981A78599639D60_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_090_Dialogue.Shinbi_Emote_090_Dialogue
+#. InfoMetaData:	"AudioFile" : "57D2E09544FC24BB8981A78599639D60_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_090_Dialogue.Shinbi_Emote_090_Dialogue
+msgctxt "Dialogue,57D2E09544FC24BB8981A78599639D60_CFCFF08A00000000"
+msgid "Can't stop me!"
+msgstr "Can't stop me!"
+
+#. Key:	58281B1B4448282B99B084B6CC6F1063_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_040_Dialogue.Shinbi_Level_Up_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "58281B1B4448282B99B084B6CC6F1063_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_040_Dialogue.Shinbi_Level_Up_040_Dialogue
+msgctxt "Dialogue,58281B1B4448282B99B084B6CC6F1063_CFCFF08A00000000"
+msgid "I love getting stronger!"
+msgstr "I love getting stronger!"
+
+#. Key:	58A1BC23451274B926D129BDB9E472D2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Phase_020_Dialogue.Shinbi_Lore_Kill_Phase_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "58A1BC23451274B926D129BDB9E472D2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Phase_020_Dialogue.Shinbi_Lore_Kill_Phase_020_Dialogue
+msgctxt "Dialogue,58A1BC23451274B926D129BDB9E472D2_CFCFF08A00000000"
+msgid "Better luck next time!"
+msgstr "Better luck next time!"
+
+#. Key:	58D23E8B4F3CE09D8B39009516B83587_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_010_Dialogue.Shinbi_Level_Up_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "58D23E8B4F3CE09D8B39009516B83587_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_010_Dialogue.Shinbi_Level_Up_010_Dialogue
+msgctxt "Dialogue,58D23E8B4F3CE09D8B39009516B83587_CFCFF08A00000000"
+msgid "Ooh, getting better!"
+msgstr "Ooh, getting better!"
+
+#. Key:	59FDFA1849B6800866E81EA578F474BE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Ace_030_Dialogue.Shinbi_Status_Ace_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "59FDFA1849B6800866E81EA578F474BE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Ace_030_Dialogue.Shinbi_Status_Ace_030_Dialogue
+msgctxt "Dialogue,59FDFA1849B6800866E81EA578F474BE_CFCFF08A00000000"
+msgid "Ha, that's it? "
+msgstr "Ha, that's it? "
+
+#. Key:	5DB8D18D4CAC27362F203988A88CAC73_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_030_Dialogue.Shinbi_Death_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "5DB8D18D4CAC27362F203988A88CAC73_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_030_Dialogue.Shinbi_Death_030_Dialogue
+msgctxt "Dialogue,5DB8D18D4CAC27362F203988A88CAC73_CFCFF08A00000000"
+msgid "Ow!"
+msgstr "Ow!"
+
+#. Key:	5DFB2115421E4204C4D30BBD0B0FA371_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftSelect_030_Dialogue.Shinbi_DraftSelect_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "5DFB2115421E4204C4D30BBD0B0FA371_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftSelect_030_Dialogue.Shinbi_DraftSelect_030_Dialogue
+msgctxt "Dialogue,5DFB2115421E4204C4D30BBD0B0FA371_CFCFF08A00000000"
+msgid "Ready to shine!"
+msgstr "Ready to shine!"
+
+#. Key:	601A99594941BACC6973F992D63A58E0_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_Taunt_040_Dialogue.Shinbi_Emote_Taunt_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "601A99594941BACC6973F992D63A58E0_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_Taunt_040_Dialogue.Shinbi_Emote_Taunt_040_Dialogue
+msgctxt "Dialogue,601A99594941BACC6973F992D63A58E0_CFCFF08A00000000"
+msgid "Oof. You could use some brand management."
+msgstr "Oof. You could use some brand management."
+
+#. Key:	6176696F415F0B5B52CB70B12F8D0A67_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_070_Dialogue.Shinbi_ProfilePoke_070_Dialogue
+#. InfoMetaData:	"AudioFile" : "6176696F415F0B5B52CB70B12F8D0A67_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_070_Dialogue.Shinbi_ProfilePoke_070_Dialogue
+msgctxt "Dialogue,6176696F415F0B5B52CB70B12F8D0A67_CFCFF08A00000000"
+msgid "Kwang means well. He's just trying to be a good brother. But if he thinks he can tell me what to do, he's got another thing coming!"
+msgstr "Kwang means well. He's just trying to be a good brother. But if he thinks he can tell me what to do, he's got another thing coming!"
+
+#. Key:	617C3B7E4168CFB4D7354185D6C5A500_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileIdle_040_Dialogue.Shinbi_ProfileIdle_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "617C3B7E4168CFB4D7354185D6C5A500_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileIdle_040_Dialogue.Shinbi_ProfileIdle_040_Dialogue
+msgctxt "Dialogue,617C3B7E4168CFB4D7354185D6C5A500_CFCFF08A00000000"
+msgid "Most of my songs are the ones my grandmother used to sing. Whenever I perform them, I think of her."
+msgstr "Most of my songs are the ones my grandmother used to sing. Whenever I perform them, I think of her."
+
+#. Key:	63360A2E4209D2A6353A62B7BA6C2ED6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_050_Dialogue.Shinbi_Emote_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "63360A2E4209D2A6353A62B7BA6C2ED6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_050_Dialogue.Shinbi_Emote_050_Dialogue
+msgctxt "Dialogue,63360A2E4209D2A6353A62B7BA6C2ED6_CFCFF08A00000000"
+msgid "Hi there!"
+msgstr "Hi there!"
+
+#. Key:	649836DE4B9AD0A69A640BBB8D018381_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_030_Dialogue.Shinbi_Lore_Daiji_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "649836DE4B9AD0A69A640BBB8D018381_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_030_Dialogue.Shinbi_Lore_Daiji_030_Dialogue
+msgctxt "Dialogue,649836DE4B9AD0A69A640BBB8D018381_CFCFF08A00000000"
+msgid "Well, on Omeda, they call them pop stars. Strange, right?"
+msgstr "Well, on Omeda, they call them pop stars. Strange, right?"
+
+#. Key:	65EADA7E45BDB1BA61456D8F935B95E9_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_BoastResponse_010_Dialogue.Shinbi_Intro_BoastResponse_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "65EADA7E45BDB1BA61456D8F935B95E9_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_BoastResponse_010_Dialogue.Shinbi_Intro_BoastResponse_010_Dialogue
+msgctxt "Dialogue,65EADA7E45BDB1BA61456D8F935B95E9_CFCFF08A00000000"
+msgid "Ooh, good luck! Don't die."
+msgstr "Ooh, good luck! Don't die."
+
+#. Key:	66BFC0E14DF350E86C2E57994B546E48_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Enemy_010_Dialogue.Shinbi_Ability_Ultimate_Enemy_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "66BFC0E14DF350E86C2E57994B546E48_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Enemy_010_Dialogue.Shinbi_Ability_Ultimate_Enemy_010_Dialogue
+msgctxt "Dialogue,66BFC0E14DF350E86C2E57994B546E48_CFCFF08A00000000"
+msgid "Mwah! All Kill!"
+msgstr "Mwah! All Kill!"
+
+#. Key:	6728ACC14888AF5A43447A980659DB3E_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_010_Dialogue.Shinbi_Revive_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "6728ACC14888AF5A43447A980659DB3E_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_010_Dialogue.Shinbi_Revive_010_Dialogue
+msgctxt "Dialogue,6728ACC14888AF5A43447A980659DB3E_CFCFF08A00000000"
+msgid "Okay, take it from the top."
+msgstr "Okay, take it from the top."
+
+#. Key:	67DA8DEB448244DA932B56BFCD439CD5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_010_Dialogue.Shinbi_Lore_Daiji_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "67DA8DEB448244DA932B56BFCD439CD5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_010_Dialogue.Shinbi_Lore_Daiji_010_Dialogue
+msgctxt "Dialogue,67DA8DEB448244DA932B56BFCD439CD5_CFCFF08A00000000"
+msgid "Oh! Daiji. It's... great to see you."
+msgstr "Oh! Daiji. It's... great to see you."
+
+#. Key:	68F6C7FB414C881506F30190BB2B04D2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_040_Dialogue.Shinbi_Catchphrase_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "68F6C7FB414C881506F30190BB2B04D2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_040_Dialogue.Shinbi_Catchphrase_040_Dialogue
+msgctxt "Dialogue,68F6C7FB414C881506F30190BB2B04D2_CFCFF08A00000000"
+msgid "Take my hand. We'll go together!"
+msgstr "Take my hand. We'll go together!"
+
+#. Key:	6B12AC324272A6C071FE939D63EF3971_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_050_Dialogue.Shinbi_ProfilePoke_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "6B12AC324272A6C071FE939D63EF3971_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_050_Dialogue.Shinbi_ProfilePoke_050_Dialogue
+msgctxt "Dialogue,6B12AC324272A6C071FE939D63EF3971_CFCFF08A00000000"
+msgid "Oh well. Can't say I didn't warn you. Get 'em, girls!"
+msgstr "Oh well. Can't say I didn't warn you. Get 'em, girls!"
+
+#. Key:	6B34908E4761CD69F74D0CBE9A774E7A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LMB_Engage_030_Dialogue.Shinbi_Ability_LMB_Engage_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "6B34908E4761CD69F74D0CBE9A774E7A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LMB_Engage_030_Dialogue.Shinbi_Ability_LMB_Engage_030_Dialogue
+msgctxt "Dialogue,6B34908E4761CD69F74D0CBE9A774E7A_CFCFF08A00000000"
+msgid "Bring it!"
+msgstr "Bring it!"
+
+#. Key:	6BB3823745DEDD8921F523AE7CBEC68F_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_030_Dialogue.Shinbi_Kill_Enemy_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "6BB3823745DEDD8921F523AE7CBEC68F_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_030_Dialogue.Shinbi_Kill_Enemy_030_Dialogue
+msgctxt "Dialogue,6BB3823745DEDD8921F523AE7CBEC68F_CFCFF08A00000000"
+msgid "Sorry!"
+msgstr "Sorry!"
+
+#. Key:	6CB5ABE344D777FAA97716A691AA8764_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_BoughtItem_010_Dialogue.Shinbi_Level_BoughtItem_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "6CB5ABE344D777FAA97716A691AA8764_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_BoughtItem_010_Dialogue.Shinbi_Level_BoughtItem_010_Dialogue
+msgctxt "Dialogue,6CB5ABE344D777FAA97716A691AA8764_CFCFF08A00000000"
+msgid "Ooh, that one looks nice."
+msgstr "Ooh, that one looks nice."
+
+#. Key:	6D32B13C4B960AE5862BAD8695837A0B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_020_Dialogue.Shinbi_Kill_Enemy_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "6D32B13C4B960AE5862BAD8695837A0B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_020_Dialogue.Shinbi_Kill_Enemy_020_Dialogue
+msgctxt "Dialogue,6D32B13C4B960AE5862BAD8695837A0B_CFCFF08A00000000"
+msgid "That's too bad!"
+msgstr "That's too bad!"
+
+#. Key:	6E1916C248B922E27A3BDEB3572726F1_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_UsedLastCharge_030_Dialogue.Shinbi_Ability_UsedLastCharge_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "6E1916C248B922E27A3BDEB3572726F1_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_UsedLastCharge_030_Dialogue.Shinbi_Ability_UsedLastCharge_030_Dialogue
+msgctxt "Dialogue,6E1916C248B922E27A3BDEB3572726F1_CFCFF08A00000000"
+msgid "I'm all out."
+msgstr "I'm all out."
+
+#. Key:	6F6C13D64218949C6177B38F9FD8A3F5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_110_Dialogue.Shinbi_Lore_Daiji_110_Dialogue
+#. InfoMetaData:	"AudioFile" : "6F6C13D64218949C6177B38F9FD8A3F5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_110_Dialogue.Shinbi_Lore_Daiji_110_Dialogue
+msgctxt "Dialogue,6F6C13D64218949C6177B38F9FD8A3F5_CFCFF08A00000000"
+msgid "Sure! Today you get wolves!"
+msgstr "Sure! Today you get wolves!"
+
+#. Key:	6F7E15C3468F1EE900CAFD962148FD58_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_030_Dialogue.Shinbi_Status_Recall_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "6F7E15C3468F1EE900CAFD962148FD58_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_030_Dialogue.Shinbi_Status_Recall_030_Dialogue
+msgctxt "Dialogue,6F7E15C3468F1EE900CAFD962148FD58_CFCFF08A00000000"
+msgid "I'm going to take five."
+msgstr "I'm going to take five."
+
+#. Key:	70350C9C4216C9E930423D9E206EA3EE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_020_Dialogue.Shinbi_ProfilePoke_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "70350C9C4216C9E930423D9E206EA3EE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_020_Dialogue.Shinbi_ProfilePoke_020_Dialogue
+msgctxt "Dialogue,70350C9C4216C9E930423D9E206EA3EE_CFCFF08A00000000"
+msgid "Do you want an autograph? "
+msgstr "Do you want an autograph? "
+
+#. Key:	716F534C4357791A9DF648B6ACBB751C_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Idle_010_Dialogue.Shinbi_Status_Idle_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "716F534C4357791A9DF648B6ACBB751C_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Idle_010_Dialogue.Shinbi_Status_Idle_010_Dialogue
+msgctxt "Dialogue,716F534C4357791A9DF648B6ACBB751C_CFCFF08A00000000"
+msgid "Come on!"
+msgstr "Come on!"
+
+#. Key:	71D0894445C8CCF3E997E9BC603D4B09_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Healed_010_Dialogue.Shinbi_Health_Healed_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "71D0894445C8CCF3E997E9BC603D4B09_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Healed_010_Dialogue.Shinbi_Health_Healed_010_Dialogue
+msgctxt "Dialogue,71D0894445C8CCF3E997E9BC603D4B09_CFCFF08A00000000"
+msgid "Thank you!"
+msgstr "Thank you!"
+
+#. Key:	72CD92A645CC241CBA6B328F974A8388_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LowMana_020_Dialogue.Shinbi_Ability_LowMana_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "72CD92A645CC241CBA6B328F974A8388_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LowMana_020_Dialogue.Shinbi_Ability_LowMana_020_Dialogue
+msgctxt "Dialogue,72CD92A645CC241CBA6B328F974A8388_CFCFF08A00000000"
+msgid "My mana's too low."
+msgstr "My mana's too low."
+
+#. Key:	739A72204B5EE2DA5F4D618E3957D916_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_BoastResponse_030_Dialogue.Shinbi_Intro_BoastResponse_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "739A72204B5EE2DA5F4D618E3957D916_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_BoastResponse_030_Dialogue.Shinbi_Intro_BoastResponse_030_Dialogue
+msgctxt "Dialogue,739A72204B5EE2DA5F4D618E3957D916_CFCFF08A00000000"
+msgid "You've got the attitude, I'll give you that."
+msgstr "You've got the attitude, I'll give you that."
+
+#. Key:	74BFC20142DCFFB0F7968BB645065F6C_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_050_Dialogue.Shinbi_Status_Recall_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "74BFC20142DCFFB0F7968BB645065F6C_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_050_Dialogue.Shinbi_Status_Recall_050_Dialogue
+msgctxt "Dialogue,74BFC20142DCFFB0F7968BB645065F6C_CFCFF08A00000000"
+msgid "See you in a bit!"
+msgstr "See you in a bit!"
+
+#. Key:	756632E447DBD583E112B4AD4A4423B2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileDizzy_020_Dialogue.Shinbi_ProfileDizzy_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "756632E447DBD583E112B4AD4A4423B2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileDizzy_020_Dialogue.Shinbi_ProfileDizzy_020_Dialogue
+msgctxt "Dialogue,756632E447DBD583E112B4AD4A4423B2_CFCFF08A00000000"
+msgid "I think... I need a break."
+msgstr "I think... I need a break."
+
+#. Key:	7680191142FF32CD164DD8B5DC3502C2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Daiji_030_Dialogue.Shinbi_Lore_Kill_Daiji_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "7680191142FF32CD164DD8B5DC3502C2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Daiji_030_Dialogue.Shinbi_Lore_Kill_Daiji_030_Dialogue
+msgctxt "Dialogue,7680191142FF32CD164DD8B5DC3502C2_CFCFF08A00000000"
+msgid "Don't come back!"
+msgstr "Don't come back!"
+
+#. Key:	78239B644158ECEE96CE049AB3553BCF_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Ace_010_Dialogue.Shinbi_Status_Ace_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "78239B644158ECEE96CE049AB3553BCF_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Ace_010_Dialogue.Shinbi_Status_Ace_010_Dialogue
+msgctxt "Dialogue,78239B644158ECEE96CE049AB3553BCF_CFCFF08A00000000"
+msgid "Five down! Go go go!"
+msgstr "Five down! Go go go!"
+
+#. Key:	782A5CF644D54142BB2CBB81BD76D4B6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_Taunt_010_Dialogue.Shinbi_Emote_Taunt_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "782A5CF644D54142BB2CBB81BD76D4B6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_Taunt_010_Dialogue.Shinbi_Emote_Taunt_010_Dialogue
+msgctxt "Dialogue,782A5CF644D54142BB2CBB81BD76D4B6_CFCFF08A00000000"
+msgid "Did you want an autograph? Sorry."
+msgstr "Did you want an autograph? Sorry."
+
+#. Key:	78A996F046B6955E63A47A87ACB1E360_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Kwang_010_Dialogue.Shinbi_Lore_Kill_Kwang_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "78A996F046B6955E63A47A87ACB1E360_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Kwang_010_Dialogue.Shinbi_Lore_Kill_Kwang_010_Dialogue
+msgctxt "Dialogue,78A996F046B6955E63A47A87ACB1E360_CFCFF08A00000000"
+msgid "Sorry, brother!"
+msgstr "Sorry, brother!"
+
+#. Key:	795ADEDE4BBACE345A97038756CC1011_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_RMB_Engage_030_Dialogue.Shinbi_Ability_RMB_Engage_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "795ADEDE4BBACE345A97038756CC1011_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_RMB_Engage_030_Dialogue.Shinbi_Ability_RMB_Engage_030_Dialogue
+msgctxt "Dialogue,795ADEDE4BBACE345A97038756CC1011_CFCFF08A00000000"
+msgid "Punch it!"
+msgstr "Punch it!"
+
+#. Key:	7A9C15DD49038335FECF3FB82C6FB8BF_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_120_Dialogue.Shinbi_Lore_Phase_120_Dialogue
+#. InfoMetaData:	"AudioFile" : "7A9C15DD49038335FECF3FB82C6FB8BF_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_120_Dialogue.Shinbi_Lore_Phase_120_Dialogue
+msgctxt "Dialogue,7A9C15DD49038335FECF3FB82C6FB8BF_CFCFF08A00000000"
+msgid "It's okay! Still friends forever!"
+msgstr "It's okay! Still friends forever!"
+
+#. Key:	7BC1D7EA4FD1A3A6E615F899DFCB30DA_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_110_Dialogue.Shinbi_Lore_Phase_110_Dialogue
+#. InfoMetaData:	"AudioFile" : "7BC1D7EA4FD1A3A6E615F899DFCB30DA_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_110_Dialogue.Shinbi_Lore_Phase_110_Dialogue
+msgctxt "Dialogue,7BC1D7EA4FD1A3A6E615F899DFCB30DA_CFCFF08A00000000"
+msgid "Hi Phase!"
+msgstr "Hi Phase!"
+
+#. Key:	7C8C4F2A436F72B246945895FE08E684_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Streak_030_Dialogue.Shinbi_Kill_Streak_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "7C8C4F2A436F72B246945895FE08E684_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Streak_030_Dialogue.Shinbi_Kill_Streak_030_Dialogue
+msgctxt "Dialogue,7C8C4F2A436F72B246945895FE08E684_CFCFF08A00000000"
+msgid "That's how you do it with style."
+msgstr "That's how you do it with style."
+
+#. Key:	7DFB93E84FBF26D6BB32F4B8D2F63735_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_UsedLastCharge_020_Dialogue.Shinbi_Ability_UsedLastCharge_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "7DFB93E84FBF26D6BB32F4B8D2F63735_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_UsedLastCharge_020_Dialogue.Shinbi_Ability_UsedLastCharge_020_Dialogue
+msgctxt "Dialogue,7DFB93E84FBF26D6BB32F4B8D2F63735_CFCFF08A00000000"
+msgid "That's the last one."
+msgstr "That's the last one."
+
+#. Key:	7F10CFDB41ECDD14159D2A82A039EB1E_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_CriticalSave_030_Dialogue.Shinbi_Health_CriticalSave_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "7F10CFDB41ECDD14159D2A82A039EB1E_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_CriticalSave_030_Dialogue.Shinbi_Health_CriticalSave_030_Dialogue
+msgctxt "Dialogue,7F10CFDB41ECDD14159D2A82A039EB1E_CFCFF08A00000000"
+msgid "That was incredible! "
+msgstr "That was incredible! "
+
+#. Key:	81505A634BBEA4D37B883199E9F24EF5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Revenge_020_Dialogue.Shinbi_Kill_Revenge_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "81505A634BBEA4D37B883199E9F24EF5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Revenge_020_Dialogue.Shinbi_Kill_Revenge_020_Dialogue
+msgctxt "Dialogue,81505A634BBEA4D37B883199E9F24EF5_CFCFF08A00000000"
+msgid "Haha, in your face!"
+msgstr "Haha, in your face!"
+
+#. Key:	83767C7B455A1E6334ACF6A7A62295F7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Daiji_010_Dialogue.Shinbi_Lore_Kill_Daiji_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "83767C7B455A1E6334ACF6A7A62295F7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Daiji_010_Dialogue.Shinbi_Lore_Kill_Daiji_010_Dialogue
+msgctxt "Dialogue,83767C7B455A1E6334ACF6A7A62295F7_CFCFF08A00000000"
+msgid "What happened to you?"
+msgstr "What happened to you?"
+
+#. Key:	838C03F6402B0C3BF28410B46BC3FEF0_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_030_Dialogue.Shinbi_Catchphrase_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "838C03F6402B0C3BF28410B46BC3FEF0_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_030_Dialogue.Shinbi_Catchphrase_030_Dialogue
+msgctxt "Dialogue,838C03F6402B0C3BF28410B46BC3FEF0_CFCFF08A00000000"
+msgid "Singing runs in the family. Kwang's got a good voice, but he would never admit it."
+msgstr "Singing runs in the family. Kwang's got a good voice, but he would never admit it."
+
+#. Key:	844BBA3A408A03ACFFDAEDB5AC17275D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Ally_010_Dialogue.Shinbi_Ability_Ultimate_Ally_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "844BBA3A408A03ACFFDAEDB5AC17275D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Ally_010_Dialogue.Shinbi_Ability_Ultimate_Ally_010_Dialogue
+msgctxt "Dialogue,844BBA3A408A03ACFFDAEDB5AC17275D_CFCFF08A00000000"
+msgid "Hit the lights! Let's dance!"
+msgstr "Hit the lights! Let's dance!"
+
+#. Key:	84B2AFA44AA8F01F1AFA1FAEE7D1EECB_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_OrbPrimeActivated_020_Dialogue.Shinbi_Status_OrbPrimeActivated_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "84B2AFA44AA8F01F1AFA1FAEE7D1EECB_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_OrbPrimeActivated_020_Dialogue.Shinbi_Status_OrbPrimeActivated_020_Dialogue
+msgctxt "Dialogue,84B2AFA44AA8F01F1AFA1FAEE7D1EECB_CFCFF08A00000000"
+msgid "Let's turn this up!"
+msgstr "Let's turn this up!"
+
+#. Key:	84FCD75B4EA112EC98607DAD39F38EFD_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_060_Dialogue.Shinbi_ProfilePoke_060_Dialogue
+#. InfoMetaData:	"AudioFile" : "84FCD75B4EA112EC98607DAD39F38EFD_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_060_Dialogue.Shinbi_ProfilePoke_060_Dialogue
+msgctxt "Dialogue,84FCD75B4EA112EC98607DAD39F38EFD_CFCFF08A00000000"
+msgid "One time when we were kids, I got my wolves to steal Kwang's pants and take them to the spirit realm. I still don't know if he's forgiven me for that."
+msgstr "One time when we were kids, I got my wolves to steal Kwang's pants and take them to the spirit realm. I still don't know if he's forgiven me for that."
+
+#. Key:	86A17C2E4CDE2CC0AC012DAF986BFC98_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Shinbi_010_Dialogue.Shinbi_Intro_Shinbi_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "86A17C2E4CDE2CC0AC012DAF986BFC98_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Shinbi_010_Dialogue.Shinbi_Intro_Shinbi_010_Dialogue
+msgctxt "Dialogue,86A17C2E4CDE2CC0AC012DAF986BFC98_CFCFF08A00000000"
+msgid "Aww, you're so sweet!"
+msgstr "Aww, you're so sweet!"
+
+#. Key:	86A62DE04FF44A36D2ED86A1CE62364D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_QuestionResponse_030_Dialogue.Shinbi_Intro_QuestionResponse_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "86A62DE04FF44A36D2ED86A1CE62364D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_QuestionResponse_030_Dialogue.Shinbi_Intro_QuestionResponse_030_Dialogue
+msgctxt "Dialogue,86A62DE04FF44A36D2ED86A1CE62364D_CFCFF08A00000000"
+msgid "Oh yeah! Ready!"
+msgstr "Oh yeah! Ready!"
+
+#. Key:	878FEF3C4F5B1505D99B55A0E8664D4B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_OnCooldown_040_Dialogue.Shinbi_Ability_OnCooldown_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "878FEF3C4F5B1505D99B55A0E8664D4B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_OnCooldown_040_Dialogue.Shinbi_Ability_OnCooldown_040_Dialogue
+msgctxt "Dialogue,878FEF3C4F5B1505D99B55A0E8664D4B_CFCFF08A00000000"
+msgid "I need more time."
+msgstr "I need more time."
+
+#. Key:	87AE00FE47D7AF1E9EAE209304ED2ADA_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Ready_020_Dialogue.Shinbi_Ability_Ultimate_Ready_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "87AE00FE47D7AF1E9EAE209304ED2ADA_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Ultimate_Ready_020_Dialogue.Shinbi_Ability_Ultimate_Ready_020_Dialogue
+msgctxt "Dialogue,87AE00FE47D7AF1E9EAE209304ED2ADA_CFCFF08A00000000"
+msgid "All-Kill ready!"
+msgstr "All-Kill ready!"
+
+#. Key:	8907A6AE48A9E6F21769849F3F286AF6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileIdle_020_Dialogue.Shinbi_ProfileIdle_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "8907A6AE48A9E6F21769849F3F286AF6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileIdle_020_Dialogue.Shinbi_ProfileIdle_020_Dialogue
+msgctxt "Dialogue,8907A6AE48A9E6F21769849F3F286AF6_CFCFF08A00000000"
+msgid "This is almost as boring as being back home in Gaya. No grandmother asking me to help with chores, though."
+msgstr "This is almost as boring as being back home in Gaya. No grandmother asking me to help with chores, though."
+
+#. Key:	8B166140400EA79DD1AD57BE8CFFA07E_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_RMB_Engage_010_Dialogue.Shinbi_Ability_RMB_Engage_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "8B166140400EA79DD1AD57BE8CFFA07E_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_RMB_Engage_010_Dialogue.Shinbi_Ability_RMB_Engage_010_Dialogue
+msgctxt "Dialogue,8B166140400EA79DD1AD57BE8CFFA07E_CFCFF08A00000000"
+msgid "This bird's ready to fly!"
+msgstr "This bird's ready to fly!"
+
+#. Key:	8C69B9634B3EAC7179485DBF17C59143_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_100_Dialogue.Shinbi_Emote_100_Dialogue
+#. InfoMetaData:	"AudioFile" : "8C69B9634B3EAC7179485DBF17C59143_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_100_Dialogue.Shinbi_Emote_100_Dialogue
+msgctxt "Dialogue,8C69B9634B3EAC7179485DBF17C59143_CFCFF08A00000000"
+msgid "To all my fans!"
+msgstr "To all my fans!"
+
+#. Key:	8E330A81400F156819DF3FBD56FFF05E_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_030_Dialogue.Shinbi_ProfilePoke_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "8E330A81400F156819DF3FBD56FFF05E_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_030_Dialogue.Shinbi_ProfilePoke_030_Dialogue
+msgctxt "Dialogue,8E330A81400F156819DF3FBD56FFF05E_CFCFF08A00000000"
+msgid "You're being pretty rude. I'm going to have to ask you to leave."
+msgstr "You're being pretty rude. I'm going to have to ask you to leave."
+
+#. Key:	8EC6AB9B4F7A6E4A5387B6969E805EBE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_080_Dialogue.Shinbi_Emote_080_Dialogue
+#. InfoMetaData:	"AudioFile" : "8EC6AB9B4F7A6E4A5387B6969E805EBE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_080_Dialogue.Shinbi_Emote_080_Dialogue
+msgctxt "Dialogue,8EC6AB9B4F7A6E4A5387B6969E805EBE_CFCFF08A00000000"
+msgid "<giggle>"
+msgstr "<giggle>"
+
+#. Key:	8FFE068448458EE2838ECD80FE77F0DD_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_070_Dialogue.Shinbi_Death_070_Dialogue
+#. InfoMetaData:	"AudioFile" : "8FFE068448458EE2838ECD80FE77F0DD_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Death_070_Dialogue.Shinbi_Death_070_Dialogue
+msgctxt "Dialogue,8FFE068448458EE2838ECD80FE77F0DD_CFCFF08A00000000"
+msgid "My wolves..."
+msgstr "My wolves..."
+
+#. Key:	90FB201B44651CCD8971D6AC337AFEF2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_020_Dialogue.Shinbi_Level_AbilityLevelConfirm_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "90FB201B44651CCD8971D6AC337AFEF2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_020_Dialogue.Shinbi_Level_AbilityLevelConfirm_020_Dialogue
+msgctxt "Dialogue,90FB201B44651CCD8971D6AC337AFEF2_CFCFF08A00000000"
+msgid "Good one."
+msgstr "Good one."
+
+#. Key:	9162150843ED276CB4964DA18076023D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftLock_010_Dialogue.Shinbi_DraftLock_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "9162150843ED276CB4964DA18076023D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftLock_010_Dialogue.Shinbi_DraftLock_010_Dialogue
+msgctxt "Dialogue,9162150843ED276CB4964DA18076023D_CFCFF08A00000000"
+msgid "Shinbi."
+msgstr "Shinbi."
+
+#. Key:	922EA5AE4F75F4607613948B424E0226_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Death_Phase_010_Dialogue.Shinbi_Lore_Death_Phase_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "922EA5AE4F75F4607613948B424E0226_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Death_Phase_010_Dialogue.Shinbi_Lore_Death_Phase_010_Dialogue
+msgctxt "Dialogue,922EA5AE4F75F4607613948B424E0226_CFCFF08A00000000"
+msgid "Phase!"
+msgstr "Phase!"
+
+#. Key:	929975E6429DE57A733D329AC6F1955C_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftLock_020_Dialogue.Shinbi_DraftLock_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "929975E6429DE57A733D329AC6F1955C_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftLock_020_Dialogue.Shinbi_DraftLock_020_Dialogue
+msgctxt "Dialogue,929975E6429DE57A733D329AC6F1955C_CFCFF08A00000000"
+msgid "Looks like it's showtime."
+msgstr "Looks like it's showtime."
+
+#. Key:	92D76D554FF23B04D06E86B89C42E8A2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_RMB_Engage_020_Dialogue.Shinbi_Ability_RMB_Engage_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "92D76D554FF23B04D06E86B89C42E8A2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_RMB_Engage_020_Dialogue.Shinbi_Ability_RMB_Engage_020_Dialogue
+msgctxt "Dialogue,92D76D554FF23B04D06E86B89C42E8A2_CFCFF08A00000000"
+msgid "Can't stop me!"
+msgstr "Can't stop me!"
+
+#. Key:	93B251574B3BAADB22036E90A3837989_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Death_Kwang_010_Dialogue.Shinbi_Lore_Death_Kwang_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "93B251574B3BAADB22036E90A3837989_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Death_Kwang_010_Dialogue.Shinbi_Lore_Death_Kwang_010_Dialogue
+msgctxt "Dialogue,93B251574B3BAADB22036E90A3837989_CFCFF08A00000000"
+msgid "Kwang!"
+msgstr "Kwang!"
+
+#. Key:	94D26E1143BC18875FD286AF429DAAFE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Shutdown_010_Dialogue.Shinbi_Kill_Shutdown_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "94D26E1143BC18875FD286AF429DAAFE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Shutdown_010_Dialogue.Shinbi_Kill_Shutdown_010_Dialogue
+msgctxt "Dialogue,94D26E1143BC18875FD286AF429DAAFE_CFCFF08A00000000"
+msgid "Ooh, shut you down!"
+msgstr "Ooh, shut you down!"
+
+#. Key:	97CD218A4E65236D2608318DF35F45EA_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_090_Dialogue.Shinbi_Lore_Kwang_090_Dialogue
+#. InfoMetaData:	"AudioFile" : "97CD218A4E65236D2608318DF35F45EA_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_090_Dialogue.Shinbi_Lore_Kwang_090_Dialogue
+msgctxt "Dialogue,97CD218A4E65236D2608318DF35F45EA_CFCFF08A00000000"
+msgid "If I win, you go home!"
+msgstr "If I win, you go home!"
+
+#. Key:	982D4BC642F00C90026591A18A4B1101_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LowMana_030_Dialogue.Shinbi_Ability_LowMana_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "982D4BC642F00C90026591A18A4B1101_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LowMana_030_Dialogue.Shinbi_Ability_LowMana_030_Dialogue
+msgctxt "Dialogue,982D4BC642F00C90026591A18A4B1101_CFCFF08A00000000"
+msgid "I need more Mana."
+msgstr "I need more Mana."
+
+#. Key:	996C852E4B89A7FB0538F2A35FC6911B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_050_Dialogue.Shinbi_Kill_Enemy_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "996C852E4B89A7FB0538F2A35FC6911B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_050_Dialogue.Shinbi_Kill_Enemy_050_Dialogue
+msgctxt "Dialogue,996C852E4B89A7FB0538F2A35FC6911B_CFCFF08A00000000"
+msgid "You were great!"
+msgstr "You were great!"
+
+#. Key:	998CE495489C4EACB61503B3824B6156_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_010_Dialogue.Shinbi_Status_Recall_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "998CE495489C4EACB61503B3824B6156_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_010_Dialogue.Shinbi_Status_Recall_010_Dialogue
+msgctxt "Dialogue,998CE495489C4EACB61503B3824B6156_CFCFF08A00000000"
+msgid "Back in a second!"
+msgstr "Back in a second!"
+
+#. Key:	9A1EF23E497C8EB7833B638208BD1777_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Kwang_020_Dialogue.Shinbi_Lore_Kill_Kwang_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "9A1EF23E497C8EB7833B638208BD1777_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Kwang_020_Dialogue.Shinbi_Lore_Kill_Kwang_020_Dialogue
+msgctxt "Dialogue,9A1EF23E497C8EB7833B638208BD1777_CFCFF08A00000000"
+msgid "Should've stayed at home, Kwang!"
+msgstr "Should've stayed at home, Kwang!"
+
+#. Key:	9BAFAAB844847A6F64C3E6A4F605111A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_SufferedCrit_010_Dialogue.Shinbi_Health_SufferedCrit_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "9BAFAAB844847A6F64C3E6A4F605111A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_SufferedCrit_010_Dialogue.Shinbi_Health_SufferedCrit_010_Dialogue
+msgctxt "Dialogue,9BAFAAB844847A6F64C3E6A4F605111A_CFCFF08A00000000"
+msgid "Ouch! Hey!"
+msgstr "Ouch! Hey!"
+
+#. Key:	9CBAEF6E422B491591D8D9980D46DABD_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_060_Dialogue.Shinbi_Kill_Enemy_060_Dialogue
+#. InfoMetaData:	"AudioFile" : "9CBAEF6E422B491591D8D9980D46DABD_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_060_Dialogue.Shinbi_Kill_Enemy_060_Dialogue
+msgctxt "Dialogue,9CBAEF6E422B491591D8D9980D46DABD_CFCFF08A00000000"
+msgid "Haha, better luck next time!"
+msgstr "Haha, better luck next time!"
+
+#. Key:	9EDE27D6487B607FCC6F69977FCFB35D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_BoastResponse_020_Dialogue.Shinbi_Intro_BoastResponse_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "9EDE27D6487B607FCC6F69977FCFB35D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_BoastResponse_020_Dialogue.Shinbi_Intro_BoastResponse_020_Dialogue
+msgctxt "Dialogue,9EDE27D6487B607FCC6F69977FCFB35D_CFCFF08A00000000"
+msgid "The show isn't over yet."
+msgstr "The show isn't over yet."
+
+#. Key:	A2C1414047AC025D78CEAC913A039967_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_010_Dialogue.Shinbi_Kill_Enemy_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "A2C1414047AC025D78CEAC913A039967_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_010_Dialogue.Shinbi_Kill_Enemy_010_Dialogue
+msgctxt "Dialogue,A2C1414047AC025D78CEAC913A039967_CFCFF08A00000000"
+msgid "Boom!"
+msgstr "Boom!"
+
+#. Key:	A59BFCD042CDCF6539FD59A1A8F9253D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Celebrate_020_Dialogue.Shinbi_Status_Celebrate_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "A59BFCD042CDCF6539FD59A1A8F9253D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Celebrate_020_Dialogue.Shinbi_Status_Celebrate_020_Dialogue
+msgctxt "Dialogue,A59BFCD042CDCF6539FD59A1A8F9253D_CFCFF08A00000000"
+msgid "Break it down!"
+msgstr "Break it down!"
+
+#. Key:	A645F7BB4E83780818BEFAAE0D151050_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_CardPoints_030_Dialogue.Shinbi_Level_CardPoints_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "A645F7BB4E83780818BEFAAE0D151050_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_CardPoints_030_Dialogue.Shinbi_Level_CardPoints_030_Dialogue
+msgctxt "Dialogue,A645F7BB4E83780818BEFAAE0D151050_CFCFF08A00000000"
+msgid "It might be shopping time."
+msgstr "It might be shopping time."
+
+#. Key:	AAC98D784E401D587B5E1480826159B3_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LowMana_040_Dialogue.Shinbi_Ability_LowMana_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "AAC98D784E401D587B5E1480826159B3_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_LowMana_040_Dialogue.Shinbi_Ability_LowMana_040_Dialogue
+msgctxt "Dialogue,AAC98D784E401D587B5E1480826159B3_CFCFF08A00000000"
+msgid "Not without Mana."
+msgstr "Not without Mana."
+
+#. Key:	ABE73334429B4A602F8597894BF41A2B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Critical_030_Dialogue.Shinbi_Health_Critical_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "ABE73334429B4A602F8597894BF41A2B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Critical_030_Dialogue.Shinbi_Health_Critical_030_Dialogue
+msgctxt "Dialogue,ABE73334429B4A602F8597894BF41A2B_CFCFF08A00000000"
+msgid "Got to hang on!"
+msgstr "Got to hang on!"
+
+#. Key:	AC5337B2406E061FC640A9B7EC726BA3_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_020_Dialogue.Shinbi_Status_Victory_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "AC5337B2406E061FC640A9B7EC726BA3_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_020_Dialogue.Shinbi_Status_Victory_020_Dialogue
+msgctxt "Dialogue,AC5337B2406E061FC640A9B7EC726BA3_CFCFF08A00000000"
+msgid "Now that was a stellar performance."
+msgstr "Now that was a stellar performance."
+
+#. Key:	AD48131048571C45A32F0F98ECFE1BB8_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_080_Dialogue.Shinbi_Lore_Phase_080_Dialogue
+#. InfoMetaData:	"AudioFile" : "AD48131048571C45A32F0F98ECFE1BB8_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_080_Dialogue.Shinbi_Lore_Phase_080_Dialogue
+msgctxt "Dialogue,AD48131048571C45A32F0F98ECFE1BB8_CFCFF08A00000000"
+msgid "Stop it, you're making me hungry!"
+msgstr "Stop it, you're making me hungry!"
+
+#. Key:	ADC2FE3849CA2FB14458DD866167EBC6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Healed_020_Dialogue.Shinbi_Health_Healed_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "ADC2FE3849CA2FB14458DD866167EBC6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Healed_020_Dialogue.Shinbi_Health_Healed_020_Dialogue
+msgctxt "Dialogue,ADC2FE3849CA2FB14458DD866167EBC6_CFCFF08A00000000"
+msgid "Oh, you're the best."
+msgstr "Oh, you're the best."
+
+#. Key:	AE9EF4AF400CF89D9361FBA23926A880_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftSelect_010_Dialogue.Shinbi_DraftSelect_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "AE9EF4AF400CF89D9361FBA23926A880_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_DraftSelect_010_Dialogue.Shinbi_DraftSelect_010_Dialogue
+msgctxt "Dialogue,AE9EF4AF400CF89D9361FBA23926A880_CFCFF08A00000000"
+msgid "All right, it's you and me!"
+msgstr "All right, it's you and me!"
+
+#. Key:	B1A3DC374FF2A79C8F9BC3A7969983C9_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Defeat_030_Dialogue.Shinbi_Status_Defeat_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "B1A3DC374FF2A79C8F9BC3A7969983C9_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Defeat_030_Dialogue.Shinbi_Status_Defeat_030_Dialogue
+msgctxt "Dialogue,B1A3DC374FF2A79C8F9BC3A7969983C9_CFCFF08A00000000"
+msgid "It's okay! Next time, we'll stomp 'em."
+msgstr "It's okay! Next time, we'll stomp 'em."
+
+#. Key:	B3A3A1044E76D7A21EE9C79299311F1D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_010_Dialogue.Shinbi_Lore_Kwang_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "B3A3A1044E76D7A21EE9C79299311F1D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_010_Dialogue.Shinbi_Lore_Kwang_010_Dialogue
+msgctxt "Dialogue,B3A3A1044E76D7A21EE9C79299311F1D_CFCFF08A00000000"
+msgid "Kwang, when I sing, I reach people, and they respond. I wish you could see that."
+msgstr "Kwang, when I sing, I reach people, and they respond. I wish you could see that."
+
+#. Key:	B455CA5B491B781D9244029BFC0477B2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_080_Dialogue.Shinbi_Lore_Daiji_080_Dialogue
+#. InfoMetaData:	"AudioFile" : "B455CA5B491B781D9244029BFC0477B2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_080_Dialogue.Shinbi_Lore_Daiji_080_Dialogue
+msgctxt "Dialogue,B455CA5B491B781D9244029BFC0477B2_CFCFF08A00000000"
+msgid "Say hello to him yourself. You two are close, so I'm sure he'd be happy to see you."
+msgstr "Say hello to him yourself. You two are close, so I'm sure he'd be happy to see you."
+
+#. Key:	B461A7A34066F26F9E5214BB28F2F176_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Low_030_Dialogue.Shinbi_Health_Low_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "B461A7A34066F26F9E5214BB28F2F176_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Low_030_Dialogue.Shinbi_Health_Low_030_Dialogue
+msgctxt "Dialogue,B461A7A34066F26F9E5214BB28F2F176_CFCFF08A00000000"
+msgid "I'm taking a lot of hits..."
+msgstr "I'm taking a lot of hits..."
+
+#. Key:	B64B9C20431B93A16474959A87A09882_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_BoughtItem_020_Dialogue.Shinbi_Level_BoughtItem_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "B64B9C20431B93A16474959A87A09882_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_BoughtItem_020_Dialogue.Shinbi_Level_BoughtItem_020_Dialogue
+msgctxt "Dialogue,B64B9C20431B93A16474959A87A09882_CFCFF08A00000000"
+msgid "Uh huh!"
+msgstr "Uh huh!"
+
+#. Key:	B65093FC47370FA19B1BEA9DC9694200_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_FirstBlood_010_Dialogue.Shinbi_Kill_FirstBlood_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "B65093FC47370FA19B1BEA9DC9694200_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_FirstBlood_010_Dialogue.Shinbi_Kill_FirstBlood_010_Dialogue
+msgctxt "Dialogue,B65093FC47370FA19B1BEA9DC9694200_CFCFF08A00000000"
+msgid "First! I love it."
+msgstr "First! I love it."
+
+#. Key:	B699C6884188E19D75665F90FBE20015_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_010_Dialogue.Shinbi_Catchphrase_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "B699C6884188E19D75665F90FBE20015_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_010_Dialogue.Shinbi_Catchphrase_010_Dialogue
+msgctxt "Dialogue,B699C6884188E19D75665F90FBE20015_CFCFF08A00000000"
+msgid "You have to follow your dreams. No one else will follow them for you."
+msgstr "You have to follow your dreams. No one else will follow them for you."
+
+#. Key:	B7280DC64007A519E7DD5F8ADCD200F6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Boast_020_Dialogue.Shinbi_Intro_Boast_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "B7280DC64007A519E7DD5F8ADCD200F6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Boast_020_Dialogue.Shinbi_Intro_Boast_020_Dialogue
+msgctxt "Dialogue,B7280DC64007A519E7DD5F8ADCD200F6_CFCFF08A00000000"
+msgid "Eh, we'll have this wrapped in no time."
+msgstr "Eh, we'll have this wrapped in no time."
+
+#. Key:	B7323CF14DFF30490BE07B8B44D49AEA_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_010_Dialogue.Shinbi_ProfilePoke_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "B7323CF14DFF30490BE07B8B44D49AEA_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_010_Dialogue.Shinbi_ProfilePoke_010_Dialogue
+msgctxt "Dialogue,B7323CF14DFF30490BE07B8B44D49AEA_CFCFF08A00000000"
+msgid "Hm? Oh! Hi."
+msgstr "Hm? Oh! Hi."
+
+#. Key:	B7F695AD4FDF48294C0AB6AA597714DE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Statement_040_Dialogue.Shinbi_Intro_Statement_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "B7F695AD4FDF48294C0AB6AA597714DE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Statement_040_Dialogue.Shinbi_Intro_Statement_040_Dialogue
+msgctxt "Dialogue,B7F695AD4FDF48294C0AB6AA597714DE_CFCFF08A00000000"
+msgid "This battle could use a soundtrack."
+msgstr "This battle could use a soundtrack."
+
+#. Key:	BA8DA34547684ADAEB000CB86C0ADCDF_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_080_Dialogue.Shinbi_Lore_Kwang_080_Dialogue
+#. InfoMetaData:	"AudioFile" : "BA8DA34547684ADAEB000CB86C0ADCDF_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_080_Dialogue.Shinbi_Lore_Kwang_080_Dialogue
+msgctxt "Dialogue,BA8DA34547684ADAEB000CB86C0ADCDF_CFCFF08A00000000"
+msgid "Oh, of course they do! Say hi, girls!"
+msgstr "Oh, of course they do! Say hi, girls!"
+
+#. Key:	BAB90D3C4B8B278C4ABE83BA4B10405D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Danger_010_Dialogue.Shinbi_Status_Danger_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "BAB90D3C4B8B278C4ABE83BA4B10405D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Danger_010_Dialogue.Shinbi_Status_Danger_010_Dialogue
+msgctxt "Dialogue,BAB90D3C4B8B278C4ABE83BA4B10405D_CFCFF08A00000000"
+msgid "Let's just stay back a bit..."
+msgstr "Let's just stay back a bit..."
+
+#. Key:	BBE313954DC78E0058364FA8532EDA42_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_OrbPrimeActivated_030_Dialogue.Shinbi_Status_OrbPrimeActivated_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "BBE313954DC78E0058364FA8532EDA42_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_OrbPrimeActivated_030_Dialogue.Shinbi_Status_OrbPrimeActivated_030_Dialogue
+msgctxt "Dialogue,BBE313954DC78E0058364FA8532EDA42_CFCFF08A00000000"
+msgid "Time to make some magic!"
+msgstr "Time to make some magic!"
+
+#. Key:	BD1B651E4993801E8DCB1DB3CCAA446E_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_070_Dialogue.Shinbi_Lore_Phase_070_Dialogue
+#. InfoMetaData:	"AudioFile" : "BD1B651E4993801E8DCB1DB3CCAA446E_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_070_Dialogue.Shinbi_Lore_Phase_070_Dialogue
+msgctxt "Dialogue,BD1B651E4993801E8DCB1DB3CCAA446E_CFCFF08A00000000"
+msgid "Always have been, always will be!"
+msgstr "Always have been, always will be!"
+
+#. Key:	BE95CA524646E9DC357A4DBF920D5FE2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_020_Dialogue.Shinbi_Lore_Daiji_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "BE95CA524646E9DC357A4DBF920D5FE2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_020_Dialogue.Shinbi_Lore_Daiji_020_Dialogue
+msgctxt "Dialogue,BE95CA524646E9DC357A4DBF920D5FE2_CFCFF08A00000000"
+msgid "I haven't seen you since we were kids. What are you up to now?"
+msgstr "I haven't seen you since we were kids. What are you up to now?"
+
+#. Key:	BFAC207A4E0DFF7567622AAD44F84546_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Revenge_010_Dialogue.Shinbi_Kill_Revenge_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "BFAC207A4E0DFF7567622AAD44F84546_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Revenge_010_Dialogue.Shinbi_Kill_Revenge_010_Dialogue
+msgctxt "Dialogue,BFAC207A4E0DFF7567622AAD44F84546_CFCFF08A00000000"
+msgid "That was worth the wait."
+msgstr "That was worth the wait."
+
+#. Key:	C21B7D8E4E7976D392CF4E9DFABB8A1D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_030_Dialogue.Shinbi_Lore_Kwang_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "C21B7D8E4E7976D392CF4E9DFABB8A1D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_030_Dialogue.Shinbi_Lore_Kwang_030_Dialogue
+msgctxt "Dialogue,C21B7D8E4E7976D392CF4E9DFABB8A1D_CFCFF08A00000000"
+msgid "Oh, that's funny. You're exactly the same."
+msgstr "Oh, that's funny. You're exactly the same."
+
+#. Key:	C3852C5D49443314980279A84C2FBCCC_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Danger_030_Dialogue.Shinbi_Status_Danger_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "C3852C5D49443314980279A84C2FBCCC_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Danger_030_Dialogue.Shinbi_Status_Danger_030_Dialogue
+msgctxt "Dialogue,C3852C5D49443314980279A84C2FBCCC_CFCFF08A00000000"
+msgid "Uh oh. That one looks mean."
+msgstr "Uh oh. That one looks mean."
+
+#. Key:	C598B8E04A918EB2323C4BAAA962533B_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Defeat_020_Dialogue.Shinbi_Status_Defeat_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "C598B8E04A918EB2323C4BAAA962533B_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Defeat_020_Dialogue.Shinbi_Status_Defeat_020_Dialogue
+msgctxt "Dialogue,C598B8E04A918EB2323C4BAAA962533B_CFCFF08A00000000"
+msgid "There's always the next one."
+msgstr "There's always the next one."
+
+#. Key:	C6B93D26450EF641495E53A443CDC108_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_120_Dialogue.Shinbi_Lore_Kwang_120_Dialogue
+#. InfoMetaData:	"AudioFile" : "C6B93D26450EF641495E53A443CDC108_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_120_Dialogue.Shinbi_Lore_Kwang_120_Dialogue
+msgctxt "Dialogue,C6B93D26450EF641495E53A443CDC108_CFCFF08A00000000"
+msgid "Wouldn't be the first time!"
+msgstr "Wouldn't be the first time!"
+
+#. Key:	CB1918F840F17DA092BEAFB2BA340148_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_040_Dialogue.Shinbi_ProfilePoke_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "CB1918F840F17DA092BEAFB2BA340148_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfilePoke_040_Dialogue.Shinbi_ProfilePoke_040_Dialogue
+msgctxt "Dialogue,CB1918F840F17DA092BEAFB2BA340148_CFCFF08A00000000"
+msgid "I don't like using my wolves on people, but you're not giving me a lot of options."
+msgstr "I don't like using my wolves on people, but you're not giving me a lot of options."
+
+#. Key:	CB9A9FF744838AABB1085290F358F518_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Ace_020_Dialogue.Shinbi_Status_Ace_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "CB9A9FF744838AABB1085290F358F518_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Ace_020_Dialogue.Shinbi_Status_Ace_020_Dialogue
+msgctxt "Dialogue,CB9A9FF744838AABB1085290F358F518_CFCFF08A00000000"
+msgid "Yes! That's more like it!"
+msgstr "Yes! That's more like it!"
+
+#. Key:	CC1E0900432C8297920D99B0EC938272_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_040_Dialogue.Shinbi_Status_Recall_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "CC1E0900432C8297920D99B0EC938272_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Recall_040_Dialogue.Shinbi_Status_Recall_040_Dialogue
+msgctxt "Dialogue,CC1E0900432C8297920D99B0EC938272_CFCFF08A00000000"
+msgid "Time to freshen up."
+msgstr "Time to freshen up."
+
+#. Key:	CC1EB79945A620A47690F9BBC2939FEE_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileDizzy_030_Dialogue.Shinbi_ProfileDizzy_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "CC1EB79945A620A47690F9BBC2939FEE_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileDizzy_030_Dialogue.Shinbi_ProfileDizzy_030_Dialogue
+msgctxt "Dialogue,CC1EB79945A620A47690F9BBC2939FEE_CFCFF08A00000000"
+msgid "Cut! Cut! Romando, you're fired!"
+msgstr "Cut! Cut! Romando, you're fired!"
+
+#. Key:	CCACC10C4DA0F96C6F6BC9A0687EE046_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_SufferedCrit_030_Dialogue.Shinbi_Health_SufferedCrit_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "CCACC10C4DA0F96C6F6BC9A0687EE046_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_SufferedCrit_030_Dialogue.Shinbi_Health_SufferedCrit_030_Dialogue
+msgctxt "Dialogue,CCACC10C4DA0F96C6F6BC9A0687EE046_CFCFF08A00000000"
+msgid "Watch it!"
+msgstr "Watch it!"
+
+#. Key:	CF6FD32A4D59FCBB3098259A095A61D8_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Healed_030_Dialogue.Shinbi_Health_Healed_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "CF6FD32A4D59FCBB3098259A095A61D8_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Healed_030_Dialogue.Shinbi_Health_Healed_030_Dialogue
+msgctxt "Dialogue,CF6FD32A4D59FCBB3098259A095A61D8_CFCFF08A00000000"
+msgid "Good timing!"
+msgstr "Good timing!"
+
+#. Key:	D05929AF4D2C0E0F696F67A400BCBED7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Q_Engage_020_Dialogue.Shinbi_Ability_Q_Engage_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "D05929AF4D2C0E0F696F67A400BCBED7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_Q_Engage_020_Dialogue.Shinbi_Ability_Q_Engage_020_Dialogue
+msgctxt "Dialogue,D05929AF4D2C0E0F696F67A400BCBED7_CFCFF08A00000000"
+msgid "Attack!"
+msgstr "Attack!"
+
+#. Key:	D0A6A5794ED4AF42485E7B9A5BF05644_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Question_020_Dialogue.Shinbi_Intro_Question_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "D0A6A5794ED4AF42485E7B9A5BF05644_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Question_020_Dialogue.Shinbi_Intro_Question_020_Dialogue
+msgctxt "Dialogue,D0A6A5794ED4AF42485E7B9A5BF05644_CFCFF08A00000000"
+msgid "Ready to send 'em packing?"
+msgstr "Ready to send 'em packing?"
+
+#. Key:	D276A0204E4C0366F5A61FA1A46D1066_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_040_Dialogue.Shinbi_Kill_Enemy_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "D276A0204E4C0366F5A61FA1A46D1066_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Enemy_040_Dialogue.Shinbi_Kill_Enemy_040_Dialogue
+msgctxt "Dialogue,D276A0204E4C0366F5A61FA1A46D1066_CFCFF08A00000000"
+msgid "Bye!"
+msgstr "Bye!"
+
+#. Key:	D3FC881B4D3F7C714CA01AA1077C6192_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_090_Dialogue.Shinbi_Lore_Daiji_090_Dialogue
+#. InfoMetaData:	"AudioFile" : "D3FC881B4D3F7C714CA01AA1077C6192_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_090_Dialogue.Shinbi_Lore_Daiji_090_Dialogue
+msgctxt "Dialogue,D3FC881B4D3F7C714CA01AA1077C6192_CFCFF08A00000000"
+msgid "I won't go easy on you just because I know you, Daiji!"
+msgstr "I won't go easy on you just because I know you, Daiji!"
+
+#. Key:	D495203848512AD01C90B7B11358A855_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_060_Dialogue.Shinbi_Lore_Daiji_060_Dialogue
+#. InfoMetaData:	"AudioFile" : "D495203848512AD01C90B7B11358A855_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Daiji_060_Dialogue.Shinbi_Lore_Daiji_060_Dialogue
+msgctxt "Dialogue,D495203848512AD01C90B7B11358A855_CFCFF08A00000000"
+msgid "I thought the people of your clan never wore crimson."
+msgstr "I thought the people of your clan never wore crimson."
+
+#. Key:	D88AAEDC4F96589007A218820F62F763_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Critical_010_Dialogue.Shinbi_Health_Critical_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "D88AAEDC4F96589007A218820F62F763_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_Critical_010_Dialogue.Shinbi_Health_Critical_010_Dialogue
+msgctxt "Dialogue,D88AAEDC4F96589007A218820F62F763_CFCFF08A00000000"
+msgid "I'm in trouble here!"
+msgstr "I'm in trouble here!"
+
+#. Key:	D9F1E7D34D95A292AC2952B59D40F980_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_CriticalSave_010_Dialogue.Shinbi_Health_CriticalSave_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "D9F1E7D34D95A292AC2952B59D40F980_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Health_CriticalSave_010_Dialogue.Shinbi_Health_CriticalSave_010_Dialogue
+msgctxt "Dialogue,D9F1E7D34D95A292AC2952B59D40F980_CFCFF08A00000000"
+msgid "Whoa! I hope somebody was recording that."
+msgstr "Whoa! I hope somebody was recording that."
+
+#. Key:	DA69C4D345C46F55C807E7999B5A3CF2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_030_Dialogue.Shinbi_Emote_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "DA69C4D345C46F55C807E7999B5A3CF2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_030_Dialogue.Shinbi_Emote_030_Dialogue
+msgctxt "Dialogue,DA69C4D345C46F55C807E7999B5A3CF2_CFCFF08A00000000"
+msgid "Mmm, nah."
+msgstr "Mmm, nah."
+
+#. Key:	DD21DC1D46CE78A296F438A6537A8016_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileIdle_010_Dialogue.Shinbi_ProfileIdle_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "DD21DC1D46CE78A296F438A6537A8016_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_ProfileIdle_010_Dialogue.Shinbi_ProfileIdle_010_Dialogue
+msgctxt "Dialogue,DD21DC1D46CE78A296F438A6537A8016_CFCFF08A00000000"
+msgid "Hello? Anyone here? "
+msgstr "Hello? Anyone here? "
+
+#. Key:	DDC1048B4136F573BFA58AA9D190EFFA_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Streak_020_Dialogue.Shinbi_Kill_Streak_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "DDC1048B4136F573BFA58AA9D190EFFA_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Streak_020_Dialogue.Shinbi_Kill_Streak_020_Dialogue
+msgctxt "Dialogue,DDC1048B4136F573BFA58AA9D190EFFA_CFCFF08A00000000"
+msgid "My heart is pounding!"
+msgstr "My heart is pounding!"
+
+#. Key:	DDC56BF3488E5D3439EF8CBC4B2F75B5_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_030_Dialogue.Shinbi_Level_Up_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "DDC56BF3488E5D3439EF8CBC4B2F75B5_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_Up_030_Dialogue.Shinbi_Level_Up_030_Dialogue
+msgctxt "Dialogue,DDC56BF3488E5D3439EF8CBC4B2F75B5_CFCFF08A00000000"
+msgid "Let's make it to the top!"
+msgstr "Let's make it to the top!"
+
+#. Key:	E126B86249724FCD382D909E765ACC41_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Celebrate_010_Dialogue.Shinbi_Status_Celebrate_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "E126B86249724FCD382D909E765ACC41_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Celebrate_010_Dialogue.Shinbi_Status_Celebrate_010_Dialogue
+msgctxt "Dialogue,E126B86249724FCD382D909E765ACC41_CFCFF08A00000000"
+msgid "We did it!"
+msgstr "We did it!"
+
+#. Key:	E31772684B1BD167235FFCBD2518127F_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Shinbi_020_Dialogue.Shinbi_Intro_Shinbi_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "E31772684B1BD167235FFCBD2518127F_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_Shinbi_020_Dialogue.Shinbi_Intro_Shinbi_020_Dialogue
+msgctxt "Dialogue,E31772684B1BD167235FFCBD2518127F_CFCFF08A00000000"
+msgid "It's great to meet you!"
+msgstr "It's great to meet you!"
+
+#. Key:	E4F5BB604617D117AB76E3807A08EB95_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_No_040_Dialogue.Shinbi_Ability_No_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "E4F5BB604617D117AB76E3807A08EB95_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_No_040_Dialogue.Shinbi_Ability_No_040_Dialogue
+msgctxt "Dialogue,E4F5BB604617D117AB76E3807A08EB95_CFCFF08A00000000"
+msgid "I can't do it."
+msgstr "I can't do it."
+
+#. Key:	E64691D24F90BCBF1F79DEA5BC71F087_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_FirstBlood_020_Dialogue.Shinbi_Kill_FirstBlood_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "E64691D24F90BCBF1F79DEA5BC71F087_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_FirstBlood_020_Dialogue.Shinbi_Kill_FirstBlood_020_Dialogue
+msgctxt "Dialogue,E64691D24F90BCBF1F79DEA5BC71F087_CFCFF08A00000000"
+msgid "Let's get the party started."
+msgstr "Let's get the party started."
+
+#. Key:	E7E80B664F1743A50290408E49F724A0_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_FirstBlood_030_Dialogue.Shinbi_Kill_FirstBlood_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "E7E80B664F1743A50290408E49F724A0_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_FirstBlood_030_Dialogue.Shinbi_Kill_FirstBlood_030_Dialogue
+msgctxt "Dialogue,E7E80B664F1743A50290408E49F724A0_CFCFF08A00000000"
+msgid "That's how we do it back home."
+msgstr "That's how we do it back home."
+
+#. Key:	E9400F4547C66714DEF5FD81C6AE8FFC_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_030_Dialogue.Shinbi_Status_Victory_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "E9400F4547C66714DEF5FD81C6AE8FFC_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Victory_030_Dialogue.Shinbi_Status_Victory_030_Dialogue
+msgctxt "Dialogue,E9400F4547C66714DEF5FD81C6AE8FFC_CFCFF08A00000000"
+msgid "I've sung for packed stadiums. This was better!"
+msgstr "I've sung for packed stadiums. This was better!"
+
+#. Key:	E9C3395F492C5855014D3086B0A98677_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_Taunt_020_Dialogue.Shinbi_Emote_Taunt_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "E9C3395F492C5855014D3086B0A98677_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_Taunt_020_Dialogue.Shinbi_Emote_Taunt_020_Dialogue
+msgctxt "Dialogue,E9C3395F492C5855014D3086B0A98677_CFCFF08A00000000"
+msgid "I'm not a fan of yours."
+msgstr "I'm not a fan of yours."
+
+#. Key:	EB8FA460493B54B17BE4B59721CA9C1C_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_040_Dialogue.Shinbi_Level_AbilityLevelConfirm_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "EB8FA460493B54B17BE4B59721CA9C1C_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_040_Dialogue.Shinbi_Level_AbilityLevelConfirm_040_Dialogue
+msgctxt "Dialogue,EB8FA460493B54B17BE4B59721CA9C1C_CFCFF08A00000000"
+msgid "Nice!"
+msgstr "Nice!"
+
+#. Key:	ED3202114B4518B0BADE89BA208C7513_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_No_030_Dialogue.Shinbi_Ability_No_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "ED3202114B4518B0BADE89BA208C7513_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_No_030_Dialogue.Shinbi_Ability_No_030_Dialogue
+msgctxt "Dialogue,ED3202114B4518B0BADE89BA208C7513_CFCFF08A00000000"
+msgid "Try something else."
+msgstr "Try something else."
+
+#. Key:	F084E8BD4FB7C2E2978438B2D6C3FD5D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_CardPoints_010_Dialogue.Shinbi_Level_CardPoints_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "F084E8BD4FB7C2E2978438B2D6C3FD5D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_CardPoints_010_Dialogue.Shinbi_Level_CardPoints_010_Dialogue
+msgctxt "Dialogue,F084E8BD4FB7C2E2978438B2D6C3FD5D_CFCFF08A00000000"
+msgid "Time to upgrade!"
+msgstr "Time to upgrade!"
+
+#. Key:	F0FCE2214F63BEAE4539F6AA3ADBE477_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_ScoredCrit_020_Dialogue.Shinbi_Ability_ScoredCrit_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "F0FCE2214F63BEAE4539F6AA3ADBE477_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_ScoredCrit_020_Dialogue.Shinbi_Ability_ScoredCrit_020_Dialogue
+msgctxt "Dialogue,F0FCE2214F63BEAE4539F6AA3ADBE477_CFCFF08A00000000"
+msgid "Did that hurt?"
+msgstr "Did that hurt?"
+
+#. Key:	F17753E045EAAEB2E05405BDF4FC360D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_040_Dialogue.Shinbi_Lore_Kwang_040_Dialogue
+#. InfoMetaData:	"AudioFile" : "F17753E045EAAEB2E05405BDF4FC360D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kwang_040_Dialogue.Shinbi_Lore_Kwang_040_Dialogue
+msgctxt "Dialogue,F17753E045EAAEB2E05405BDF4FC360D_CFCFF08A00000000"
+msgid "Don't use Mother to guilt-trip me, Kwang. I know what you're doing."
+msgstr "Don't use Mother to guilt-trip me, Kwang. I know what you're doing."
+
+#. Key:	F3C130A74F9D3738BCA67FBD4E59476F_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_100_Dialogue.Shinbi_Lore_Phase_100_Dialogue
+#. InfoMetaData:	"AudioFile" : "F3C130A74F9D3738BCA67FBD4E59476F_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_100_Dialogue.Shinbi_Lore_Phase_100_Dialogue
+msgctxt "Dialogue,F3C130A74F9D3738BCA67FBD4E59476F_CFCFF08A00000000"
+msgid "Nothing personal, Phase!"
+msgstr "Nothing personal, Phase!"
+
+#. Key:	F501F34B425AB0E39496CE80EDCE6826_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Kwang_030_Dialogue.Shinbi_Lore_Kill_Kwang_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "F501F34B425AB0E39496CE80EDCE6826_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Kill_Kwang_030_Dialogue.Shinbi_Lore_Kill_Kwang_030_Dialogue
+msgctxt "Dialogue,F501F34B425AB0E39496CE80EDCE6826_CFCFF08A00000000"
+msgid "He never did have any rhythm."
+msgstr "He never did have any rhythm."
+
+#. Key:	F5A19A744B1CC6556A1CC698D455BA92_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_020_Dialogue.Shinbi_Emote_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "F5A19A744B1CC6556A1CC698D455BA92_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_020_Dialogue.Shinbi_Emote_020_Dialogue
+msgctxt "Dialogue,F5A19A744B1CC6556A1CC698D455BA92_CFCFF08A00000000"
+msgid "Yep!"
+msgstr "Yep!"
+
+#. Key:	F5C8D6924FFBBB32D7C73D994AC1924A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_QuestionResponse_010_Dialogue.Shinbi_Intro_QuestionResponse_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "F5C8D6924FFBBB32D7C73D994AC1924A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Intro_QuestionResponse_010_Dialogue.Shinbi_Intro_QuestionResponse_010_Dialogue
+msgctxt "Dialogue,F5C8D6924FFBBB32D7C73D994AC1924A_CFCFF08A00000000"
+msgid "I'm just waiting on you."
+msgstr "I'm just waiting on you."
+
+#. Key:	F7167272434A0132BBE63690BD03A74D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_020_Dialogue.Shinbi_Revive_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "F7167272434A0132BBE63690BD03A74D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Revive_020_Dialogue.Shinbi_Revive_020_Dialogue
+msgctxt "Dialogue,F7167272434A0132BBE63690BD03A74D_CFCFF08A00000000"
+msgid "I got it! Let's try again."
+msgstr "I got it! Let's try again."
+
+#. Key:	F7D05FDA44DFEEB77C30F5B6DC12B0E0_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_Taunt_030_Dialogue.Shinbi_Emote_Taunt_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "F7D05FDA44DFEEB77C30F5B6DC12B0E0_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Emote_Taunt_030_Dialogue.Shinbi_Emote_Taunt_030_Dialogue
+msgctxt "Dialogue,F7D05FDA44DFEEB77C30F5B6DC12B0E0_CFCFF08A00000000"
+msgid "Come pet my wolves. No no, a little closer."
+msgstr "Come pet my wolves. No no, a little closer."
+
+#. Key:	F7D4318D46649AE36B6866AE2F362B3A_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_030_Dialogue.Shinbi_Level_AbilityLevelConfirm_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "F7D4318D46649AE36B6866AE2F362B3A_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Level_AbilityLevelConfirm_030_Dialogue.Shinbi_Level_AbilityLevelConfirm_030_Dialogue
+msgctxt "Dialogue,F7D4318D46649AE36B6866AE2F362B3A_CFCFF08A00000000"
+msgid "There we go."
+msgstr "There we go."
+
+#. Key:	F7DA4C2E4A6BB0A0D05C17933D5E70C7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_020_Dialogue.Shinbi_Catchphrase_020_Dialogue
+#. InfoMetaData:	"AudioFile" : "F7DA4C2E4A6BB0A0D05C17933D5E70C7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Catchphrase_020_Dialogue.Shinbi_Catchphrase_020_Dialogue
+msgctxt "Dialogue,F7DA4C2E4A6BB0A0D05C17933D5E70C7_CFCFF08A00000000"
+msgid "You can't fly if you never leave the nest."
+msgstr "You can't fly if you never leave the nest."
+
+#. Key:	F7F31CBA44A0A51765421DA278C36444_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Celebrate_030_Dialogue.Shinbi_Status_Celebrate_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "F7F31CBA44A0A51765421DA278C36444_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Celebrate_030_Dialogue.Shinbi_Status_Celebrate_030_Dialogue
+msgctxt "Dialogue,F7F31CBA44A0A51765421DA278C36444_CFCFF08A00000000"
+msgid "Nice work, everyone!"
+msgstr "Nice work, everyone!"
+
+#. Key:	F840E743452B4F59825B398FCFDA5F6D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Buffed_030_Dialogue.Shinbi_Status_Buffed_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "F840E743452B4F59825B398FCFDA5F6D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_Buffed_030_Dialogue.Shinbi_Status_Buffed_030_Dialogue
+msgctxt "Dialogue,F840E743452B4F59825B398FCFDA5F6D_CFCFF08A00000000"
+msgid "Thanks for the magic!"
+msgstr "Thanks for the magic!"
+
+#. Key:	F841166E4FAD654BAF418F8182EA9B2D_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_050_Dialogue.Shinbi_Lore_Phase_050_Dialogue
+#. InfoMetaData:	"AudioFile" : "F841166E4FAD654BAF418F8182EA9B2D_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Lore_Phase_050_Dialogue.Shinbi_Lore_Phase_050_Dialogue
+msgctxt "Dialogue,F841166E4FAD654BAF418F8182EA9B2D_CFCFF08A00000000"
+msgid "I still can't believe I'm a pop star. And it's all thanks to you!"
+msgstr "I still can't believe I'm a pop star. And it's all thanks to you!"
+
+#. Key:	F9614A5F4259BF93D26621BDC85154D7_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Assist_030_Dialogue.Shinbi_Kill_Assist_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "F9614A5F4259BF93D26621BDC85154D7_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Kill_Assist_030_Dialogue.Shinbi_Kill_Assist_030_Dialogue
+msgctxt "Dialogue,F9614A5F4259BF93D26621BDC85154D7_CFCFF08A00000000"
+msgid "Happy to help!"
+msgstr "Happy to help!"
+
+#. Key:	FBB53A424DB1DC4C6991EEA5AF89777C_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_UsedLastCharge_010_Dialogue.Shinbi_Ability_UsedLastCharge_010_Dialogue
+#. InfoMetaData:	"AudioFile" : "FBB53A424DB1DC4C6991EEA5AF89777C_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_UsedLastCharge_010_Dialogue.Shinbi_Ability_UsedLastCharge_010_Dialogue
+msgctxt "Dialogue,FBB53A424DB1DC4C6991EEA5AF89777C_CFCFF08A00000000"
+msgid "Last Charge."
+msgstr "Last Charge."
+
+#. Key:	FC3301CD45E1EE00C58D38B7743A80D6_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_E_Engage_030_Dialogue.Shinbi_Ability_E_Engage_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "FC3301CD45E1EE00C58D38B7743A80D6_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Ability_E_Engage_030_Dialogue.Shinbi_Ability_E_Engage_030_Dialogue
+msgctxt "Dialogue,FC3301CD45E1EE00C58D38B7743A80D6_CFCFF08A00000000"
+msgid "Spin it!"
+msgstr "Spin it!"
+
+#. Key:	FFEF0F264614ACE1F488FCA2FE4E26D2_CFCFF08A00000000
+#. SourceLocation:	/Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_TeamDead_030_Dialogue.Shinbi_Status_TeamDead_030_Dialogue
+#. InfoMetaData:	"AudioFile" : "FFEF0F264614ACE1F488FCA2FE4E26D2_CFCFF08A00000000.wav"
+#. InfoMetaData:	"Context" : "Shinbi -> "
+#: /Game/ParagonShinbi/Characters/Heroes/Shinbi/Sounds/DialogueWaves/Shinbi_Status_TeamDead_030_Dialogue.Shinbi_Status_TeamDead_030_Dialogue
+msgctxt "Dialogue,FFEF0F264614ACE1F488FCA2FE4E26D2_CFCFF08A00000000"
+msgid "Well, I am used to the spotlight..."
+msgstr "Well, I am used to the spotlight..."
+
+#. Key:	id_artist_DialogueTalkerName
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.DialogueTalkerName.id_artist.DialogueTalkerName
+#: /Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.DialogueTalkerName.id_artist.DialogueTalkerName
+msgctxt "DialogueTalkerName,id_artist_DialogueTalkerName"
+msgid "美術"
+msgstr "美術"
+
+#. Key:	id_designer_DialogueTalkerName
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.DialogueTalkerName.id_designer.DialogueTalkerName
+#: /Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.DialogueTalkerName.id_designer.DialogueTalkerName
+msgctxt "DialogueTalkerName,id_designer_DialogueTalkerName"
+msgid "企畫"
+msgstr "企畫"
+
+#. Key:	id_programmer_DialogueTalkerName
+#. SourceLocation:	/Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.DialogueTalkerName.id_programmer.DialogueTalkerName
+#: /Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.DialogueTalkerName.id_programmer.DialogueTalkerName
+msgctxt "DialogueTalkerName,id_programmer_DialogueTalkerName"
+msgid "程式"
+msgstr "程式"
+

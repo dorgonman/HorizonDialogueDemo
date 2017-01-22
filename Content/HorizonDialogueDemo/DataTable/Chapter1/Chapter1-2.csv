@@ -1,0 +1,7 @@
+,DialogueTalkerNameID,DialogueText
+id_chapter_title,,當遊戲程式遇上遊戲美術
+id_001,id_programmer,Hello! 有人在嗎？
+id_002,id_programmer,你是來學
+id_003,id_programmer,這個教學會展示如何將 DialogueEvent 加到 HorizonDialogueScene 中。
+id_004,id_programmer,這個教學會展示如何將 DialogueEvent 加到 HorizonDialogueScene 中。
+id_005,id_programmer,第一種是CreateEventDialogueMsg，擁有比較少的參數需求。這個事件會試著將文字顯示在設置於DialogueScene.中的「DefaultDialogueMsgTextBlockWidgetName」。
