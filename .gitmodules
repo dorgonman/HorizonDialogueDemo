@@ -1,9 +1,9 @@
 [submodule "Plugins/HorizonPlugin/HorizonTweenPlugin"]
 	path = Plugins/HorizonPlugin/HorizonTweenPlugin
-	url = git@bitbucket.org:horizonstudio/horizontweenplugin.git
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonTweenPlugin
 [submodule "Plugins/HorizonPlugin/HorizonUIPlugin"]
 	path = Plugins/HorizonPlugin/HorizonUIPlugin
-	url = https://dorgon@bitbucket.org/horizonstudio/horizonuiplugin.git
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonUIPlugin
 [submodule "Plugins/HorizonPlugin/HorizonDialoguePlugin"]
 	path = Plugins/HorizonPlugin/HorizonDialoguePlugin
-	url = git@bitbucket.org:horizonstudio/horizondialogueplugin.git
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonDialoguePlugin
