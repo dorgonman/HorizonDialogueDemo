@@ -5,21 +5,10 @@ using System.Collections.Generic;
 
 public class HorizonDialogueDemoEditorTarget : TargetRules
 {
-	public HorizonDialogueDemoEditorTarget(TargetInfo Target)
-	{
+	public HorizonDialogueDemoEditorTarget(TargetInfo Target) : base(Target)
+    {
 		Type = TargetType.Editor;
-	}
+        ExtraModuleNames.AddRange(new string[] { "HorizonDialogueDemo" });
+    }
 
-	//
-	// TargetRules interface.
-	//
-
-	public override void SetupBinaries(
-		TargetInfo Target,
-		ref List<UEBuildBinaryConfiguration> OutBuildBinaryConfigurations,
-		ref List<string> OutExtraModuleNames
-		)
-	{
-		OutExtraModuleNames.AddRange( new string[] { "HorizonDialogueDemo" } );
-	}
 }

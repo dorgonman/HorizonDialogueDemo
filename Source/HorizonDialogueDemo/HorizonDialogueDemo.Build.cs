@@ -4,9 +4,11 @@ using UnrealBuildTool;
 
 public class HorizonDialogueDemo : ModuleRules
 {
-	public HorizonDialogueDemo(TargetInfo Target)
-	{
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+	public HorizonDialogueDemo(ReadOnlyTargetRules Target)
+        : base(Target)
+    {
+        PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
+        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
