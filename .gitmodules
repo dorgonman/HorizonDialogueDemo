@@ -7,3 +7,6 @@
 [submodule "Plugins/HorizonPlugin/HorizonDialoguePlugin"]
 	path = Plugins/HorizonPlugin/HorizonDialoguePlugin
 	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonDialoguePlugin
+[submodule "Plugins/HorizonPlugin/HorizonFrameworkPlugin"]
+	path = Plugins/HorizonPlugin/HorizonFrameworkPlugin
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonFrameworkPlugin
