@@ -1,12 +1,12 @@
 [submodule "Plugins/HorizonPlugin/HorizonTweenPlugin"]
 	path = Plugins/HorizonPlugin/HorizonTweenPlugin
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonTweenPlugin
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonTweenPlugin
 [submodule "Plugins/HorizonPlugin/HorizonUIPlugin"]
 	path = Plugins/HorizonPlugin/HorizonUIPlugin
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonUIPlugin
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonUIPlugin
 [submodule "Plugins/HorizonPlugin/HorizonDialoguePlugin"]
 	path = Plugins/HorizonPlugin/HorizonDialoguePlugin
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonDialoguePlugin
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonDialoguePlugin
 [submodule "Plugins/HorizonPlugin/HorizonFrameworkPlugin"]
 	path = Plugins/HorizonPlugin/HorizonFrameworkPlugin
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/HorizonPlugin/_git/HorizonFrameworkPlugin
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonFrameworkPlugin
