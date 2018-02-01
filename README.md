@@ -1,4 +1,12 @@
-![VSTS Build Status](https://horizon-studio.visualstudio.com/_apis/public/build/definitions/66d242ac-f17b-4303-9a70-ebb6a52e1525/6/badge)
+VSTS Build Status: ![VSTS CI status](https://hsgame.visualstudio.com/_apis/public/build/definitions/aeaa314b-7b56-4733-89fa-67e9bccfb809/6/badge)
 
+Note: 
 
-# HorizonDialogueDemo
+master branch may be unstable since it is in development, please switch to tags, for example: release/4.18.0
+
+----------------------------------------------
+              HorizonUIPlugin
+                 4.18.0(In Development)
+         http://dorgon.horizon-studio.net
+          	dorgonman@hotmail.com
+----------------------------------------------
