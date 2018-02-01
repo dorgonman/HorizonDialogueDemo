@@ -1,18 +1,18 @@
 [submodule "Plugins/HorizonPlugin/HorizonTweenPlugin"]
 	path = Plugins/HorizonPlugin/HorizonTweenPlugin
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonTweenPlugin
+	url = https://hsgame.visualstudio.com/UE4HorizonPlugin/_git/HorizonTweenPlugin
 [submodule "Plugins/HorizonPlugin/HorizonUIPlugin"]
 	path = Plugins/HorizonPlugin/HorizonUIPlugin
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonUIPlugin
+	url = https://hsgame.visualstudio.com/UE4HorizonPlugin/_git/HorizonUIPlugin
 [submodule "Plugins/HorizonPlugin/HorizonDialoguePlugin"]
 	path = Plugins/HorizonPlugin/HorizonDialoguePlugin
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonDialoguePlugin
+	url = https://hsgame.visualstudio.com/UE4HorizonPlugin/_git/HorizonDialoguePlugin
 [submodule "Plugins/HorizonPlugin/HorizonFrameworkPlugin"]
 	path = Plugins/HorizonPlugin/HorizonFrameworkPlugin
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonFrameworkPlugin
-[submodule "horizon_ci_scripts"]
-	path = horizon_ci_scripts
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/horizon_ci_scripts
+	url = https://hsgame.visualstudio.com/UE4HorizonPlugin/_git/HorizonFrameworkPlugin
 [submodule "ue_ci_scripts"]
 	path = ue_ci_scripts
-	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/ue_ci_scripts
+	url = https://hsgame.visualstudio.com/UEHorizonBuildScript/_git/ue_ci_scripts
+[submodule "horizon_ci_scripts"]
+	path = horizon_ci_scripts
+	url = https://hsgame.visualstudio.com/UEHorizonBuildScript/_git/horizon_ci_scripts
