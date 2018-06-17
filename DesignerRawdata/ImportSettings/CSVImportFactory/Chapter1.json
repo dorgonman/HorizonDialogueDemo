@@ -12,7 +12,7 @@
       "bSkipReadOnly": "true",
       "FactoryName": "CSVImportFactory",
       "ImportSettings": {
-        "ImportRowStruct": "HorizonDialogueTextTableData",
+        "ImportRowStruct": "HorizonDialogueTextTableDataWithTalkerNameID",
         "ImportType": "ECSV_DataTable",
         "ImportCurveInterpMode": "RCIM_Linear"
       }

@@ -1,3 +1,6 @@
+#!/bin/sh
+set -e
+
 GIT_PATH=$(grep path .gitmodules | sed 's/.*= //')
 GIT_URL=$(grep url .gitmodules | sed 's/.*= //')
 #echo ${GIT_PATH}
