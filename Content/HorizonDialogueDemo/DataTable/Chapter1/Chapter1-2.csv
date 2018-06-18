@@ -1,26 +1,26 @@
 ,DialogueTalkerNameID,DialogueText
-id_chapter_title,,第一章：Horizon Dialogue Plugin簡介
+id_chapter_title,,第一章： Horizon Dialogue Plugin 簡介
 id_000,id_designer,Hello！有人在嗎？
 id_001,id_programmer,恩？有什麼事嗎？
-id_002,id_designer,是程式大大！正好有個問題想請教你？
-id_003,id_programmer,是想問這個Horizon Dialogue Plugin該怎麼使用嗎？
-id_004,id_designer,真不愧是大大！馬上就猜出我想問什麼了！剛剛才拿到這個Plugin，正困擾著該怎麼使用呢。
+id_002,id_designer,是程式大大！正好有個問題想請教你。
+id_003,id_programmer,是想問這個 Horizon Dialogue Plugin 該怎麼使用嗎？
+id_004,id_designer,真不愧是大大！馬上就猜出我想問什麼了！剛剛才拿到這個 Plugin ，正困擾著該怎麼使用呢。
 id_005,id_programmer,你想要從那邊開始了解起呢？
-id_006,id_designer,可以先談談Plugin主要的用途是什麼嗎？
-id_007,id_programmer,簡單來說，這個Plugin的主要目標是想要建立一套遊戲系統框架。
+id_006,id_designer,可以先談談 Plugin 主要的用途是什麼嗎？
+id_007,id_programmer,簡單來說，這個 Plugin 的主要目標是想要建立一套遊戲系統框架。
 id_008,id_programmer,在套用這套系統框架之後，遊戲開發者就能夠隨意的在遊戲中加入各種對話演出與劇情。
 id_009,id_designer,聽起來蠻酷炫的，實際上是怎麼運作的呢？
-id_010,id_programmer,首先，在開始使用這套Plugin之前，我建議先去研究HorizonUI、HorizonTween以及HorizonFramework這幾個Plugin的功能該怎麼使用。
-id_011,id_programmer,因為Dialogue Plugin非常緊密的整合了這幾套Plugin，並在增加了對話演出所需要的流程與功能。
-id_012,id_designer,剛剛所提到的遊戲系統框架，跟HorizonFramework有什麼關係嗎？
-id_013,id_programmer,是的，HorizonDialogue Plugin的系統框架就是對HorizonFramework進行擴增，二套Plugin在工作流程的設計基本上是一致的。
-id_014,id_programmer,只是為了加入對話事件，因此在HorizonScene的生命週期中新插入了：AddDialogueEvent這個事件。
-id_015,id_designer,嗯，大致上有那麼一點感覺了。所以說HorizonUI的用途主要是用來顯示對話的囉？
-id_016,id_programmer,是的，藉由HorizonUI中所提供的功能，就能夠實現多樣的文字對話效果。
-id_017,id_designer,那HorizonTween呢？
-id_018,id_programmer,HorizonTween的話，主要是拿來實現一些文字與圖片的動畫效果。
+id_010,id_programmer,首先，在開始使用這套 Plugin 之前，我建議先去研究 HorizonUI 、 HorizonTween 以及 HorizonFramework 這幾個 Plugin 的功能該怎麼使用。
+id_011,id_programmer,因為 Dialogue Plugin 非常緊密的整合了這幾套 Plugin ，並在增加了對話演出所需要的流程與功能。
+id_012,id_designer,剛剛所提到的遊戲系統框架，跟 HorizonFramework 有什麼關係嗎？
+id_013,id_programmer,是的， HorizonDialogue Plugin 的系統框架就是對 HorizonFramework 進行擴增，二套 Plugin 在工作流程的設計基本上是一致的。
+id_014,id_programmer,只是為了加入對話事件，因此在 HorizonScene 的生命週期中新插入了： AddDialogueEvent 這個事件。
+id_015,id_designer,嗯，大致上有那麼一點感覺了。所以說 HorizonUI 的用途主要是用來顯示對話的囉？
+id_016,id_programmer,是的，藉由 HorizonUI 中所提供的功能，就能夠實現多樣的文字對話效果。
+id_017,id_designer,那 HorizonTween 呢？
+id_018,id_programmer,HorizonTween 的話，主要是拿來實現一些文字與圖片的動畫效果。
 id_019,id_programmer,例如：文字或圖片的移動、旋轉，或者是淡出跟淡入。
 id_020,id_designer,好像有點複雜，有什麼快速入門的方法呢？
-id_021,id_programmer,我想，先到GitHub上把這個專案Demo抓下來玩玩是最快的方法了。
-id_022,id_programmer,在這之後我會示範幾個Plugin的進階用法。
+id_021,id_programmer,我想，先到 GitHub 上把這個專案 Demo 抓下來玩玩是最快的方法了。
+id_022,id_programmer,在這之後我會示範幾個 Plugin 的進階用法。
 id_023,id_designer,真令人期待！
