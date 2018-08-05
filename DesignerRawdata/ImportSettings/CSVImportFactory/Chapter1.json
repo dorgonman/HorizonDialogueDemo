@@ -3,9 +3,10 @@
     {
       "GroupName": "Chapter1",
       "Filenames": [
-        "D:/work/vsts-hsgame/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.csv",
-        "D:/work/vsts-hsgame/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.csv",
-        "D:/work/vsts-hsgame/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/ChapterTest.csv"
+        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-1.csv",
+        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-2.csv",
+        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/Chapter1-3.csv",
+        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter1/ChapterTest.csv"
       ],
       "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/Chapter1/",
       "bReplaceExisting": "true",

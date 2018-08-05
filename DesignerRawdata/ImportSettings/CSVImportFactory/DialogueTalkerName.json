@@ -3,7 +3,7 @@
     {
       "GroupName": "DialogueTalkerName",
       "Filenames": [
-        "D:/work/vsts-hsgame/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.csv"
+        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/DialogueTalkerName/DialogueTalkerName.csv"
       ],
       "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/",
       "bReplaceExisting": "true",
