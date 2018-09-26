@@ -1,0 +1,12 @@
+,DialogueTalkerNameID,DialogueText
+id_000,,Test Message1
+id_001,,Test Message2
+id_002,,Test Message3
+id_003,,Test Message4
+id_004,,Test Message5
+id_005,,Test Message6
+id_006,,Test Message7
+id_007,,Test Message8
+id_long_rich_test,,"<text color=""#77FF77AA"" shadowColor=""#FF0000FF"" shadowOffset=""[4,3]"">This is rich text simple test:</text><br/>
+<text color=""#FF0000AA"">This is programmer:</text><img filePath=""PaperSprite'/Game/HorizonUIDemo/SpriteSheet/Test/Frames/programmer_png.programmer_png'"" size=""[50, 50]"" /><br/>
+<text color=""#0000FFFF"">This is a WaterMellon:</text><img color=""#FF00FF77"" filePath=""PaperSprite'/Game/HorizonUIDemo/SpriteSheet/Test/Frames/I_C_Watermellon_png.I_C_Watermellon_png'"" size=""[25, 25]"" /> <br/>"
