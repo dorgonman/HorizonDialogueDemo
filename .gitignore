@@ -13,3 +13,4 @@ Saved
 /.vs
 /Build/WindowsNoEditor/FileOpenOrder/*.log
 *~$*.xlsx
+/*.nupkg
