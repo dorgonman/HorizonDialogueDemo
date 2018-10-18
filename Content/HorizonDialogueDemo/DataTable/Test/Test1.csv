@@ -9,4 +9,52 @@ id_006,,Test Message7
 id_007,,Test Message8
 id_long_rich_test,,"<text color=""#77FF77AA"" shadowColor=""#FF0000FF"" shadowOffset=""[4,3]"">This is rich text simple test:</text><br/>
 <text color=""#FF0000AA"">This is programmer:</text><img filePath=""PaperSprite'/Game/HorizonUIDemo/SpriteSheet/Test/Frames/programmer_png.programmer_png'"" size=""[50, 50]"" /><br/>
-<text color=""#0000FFFF"">This is a WaterMellon:</text><img color=""#FF00FF77"" filePath=""PaperSprite'/Game/HorizonUIDemo/SpriteSheet/Test/Frames/I_C_Watermellon_png.I_C_Watermellon_png'"" size=""[25, 25]"" /> <br/>"
+<text color=""#0000FFFF"">This is a WaterMellon:</text><img color=""#FF00FF77"" filePath=""PaperSprite'/Game/HorizonUIDemo/SpriteSheet/Test/Frames/I_C_Watermellon_png.I_C_Watermellon_png'"" size=""[50, 50]"" /> <br/>
+<text color=""#77FF77AA"" shadowColor=""#FF0000FF"" shadowOffset=""[4,3]"">This is rich text simple test:</text><br/>
+<text>Test Message 1234578910111213141516171819</text><br/>
+<text color=""#77FF77AA"" shadowColor=""#FF0000FF"" shadowOffset=""[4,3]"">This is rich text simple test:</text><br/>
+<text color=""#FF0000AA"">This is strawberry:</text><img filePath=""Texture2D'/Game/HorizonUIDemo/Texture/Item/I_C_Strawberry.I_C_Strawberry'"" size=""[50, 50]"" /><br/>
+<text color=""#0000FFFF"">This is Watermellon:</text><img color=""#FF00FF77"" filePath=""Texture2D'/Game/HorizonUIDemo/Texture/Item/I_C_Watermellon.I_C_Watermellon'"" size=""[50, 50]"" /> <br/>
+<text color=""#FFFF00FF"">This is animated man using material:</text><img filePath=""Material'/Game/HorizonUIDemo/Material/mat_flipbook.mat_flipbook'"" size=""[50, 50]"" /> <br/>
+<text>This is Default Font</text><br/>
+<text fontPath=""/Engine/EngineFonts/Roboto"" fontType=""Regular"" fontSize=""30"">This is Roboto Regular fontSize=30</text><br/>
+<text fontPath=""/Engine/EngineFonts/Roboto"" fontType=""Italic"" color=""#FF0000AA"">This is Roboto Italic</text><br/>
+<text fontPath=""/Engine/EngineFonts/Roboto"" fontType=""Bold Italic""  fontSize=""40"" color=""#FF3366AA"">This is Roboto Bold Italic fontSize=40</text><br/>
+<text fontPath=""/Engine/EngineFonts/Roboto"" fontType=""Light"" color=""#FFFF00AA"">This is Roboto Light</text><br/>
+<text fontPath=""/Engine/EngineFonts/RobotoTiny"" fontType=""Light"" color=""#FF0A40AA"">This is RobotoTinyLight</text><br/>
+<text fontSize=""25"">Test case:</text> 
+<text padding-right=""5"" padding-top=""20"">
+ <text padding-left=""5"">padding text block</text>
+ <img filePath=""Material'/Game/HorizonUIDemo/Material/mat_flipbook.mat_flipbook'""/>
+ <img filePath=""Texture2D'/Game/HorizonUIDemo/Texture/Item/I_C_Watermellon.I_C_Watermellon'"" size=""[50,50]"" />
+</text><br/>
+<text>after padding</text><br/><br/>
+<text color=""#77FF77AA"" shadowColor=""#FF0000FF"" shadowOffset=""[4,3]"" > color, shadow color and offset </text><br/><br/>
+<text> 
+<text color=""#FF0000FF""> Nested  </text>
+<text color=""#FF00FFFF"">
+&nbsp;tag node 
+</text><br/>
+<text color=""#FFFF00FF"">
+ &nbsp;Dialogue Text 
+</text><br/>
+<text color=""#FF0000FF"">
+&nbsp;Block  
+</text><br/>
+</text>
+<a href=""Seg1ClickMessage"" bgColor=""#555555FF"" hoverColor=""#FFFF0055"" filePath=""Blueprint'/Game/HorizonUIDemo/ButtonStyle/BP_DialogueBackgroundButtonStyle1.BP_DialogueBackgroundButtonStyle1'"">
+<text color=""#FF0000FF""> Test Click Seg1  </text>
+</a><br/>
+
+<a href=""Seg2ClickMessage"" bgColor=""#FF0000FF"" hoverColor=""#FFFF0055"" filePath=""Blueprint'/Game/HorizonUIDemo/ButtonStyle/BP_DialogueBackgroundButtonStyle2.BP_DialogueBackgroundButtonStyle2'"">
+<text color=""#00FF00FF""> Test Click Seg2  </text>
+</a><br/>
+<a href=""Seg3ClickMessage"" bgColor=""#FF0000FF"" hoverColor=""#FFFF0055"" filePath=""Blueprint'/Game/HorizonUIDemo/ButtonStyle/BP_DialogueBackgroundButtonStyle3.BP_DialogueBackgroundButtonStyle3'"">
+<text color=""#0000FFFF""> Test Click Seg3  </text>
+</a><br/>
+<text style=""bp1.style1"">This is rich text test using style:</text><br/>
+<text style=""bp1.style2"">This is strawberry:</text><img style=""bp1.style1"" /><br/>
+<text style=""bp2.style1"">This is Watermellon:</text><img style=""bp2.style1""/> <br/>
+<text style=""bp2.style2"">This is animated man using material:</text><mat style=""bp2.style2"" /> <br/>
+<text style=""bp2.style3"">Horizon Flipbook Widget (use tag pfb) Only Supported by using style:</text><pfb style=""bp2.style1"" /> <br/>
+"
