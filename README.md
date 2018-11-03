@@ -25,7 +25,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                 4.20.0(In Development)
+                 4.21.0(In Development)
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
