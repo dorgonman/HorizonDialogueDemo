@@ -1,7 +1,7 @@
 {
   "ImportGroups": [
     {
-      "GroupName": "Chapter1",
+      "GroupName": "Chapter2",
       "Filenames": [
         "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1.csv",
         "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_room0.csv",
