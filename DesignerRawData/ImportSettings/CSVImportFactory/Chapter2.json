@@ -3,10 +3,10 @@
     {
       "GroupName": "Chapter1",
       "Filenames": [
-        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter2/Chapter2-1.csv",
-        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter2/Chapter2-1_room0.csv",
-        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter2/Chapter2-1_room1.csv",
-        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter2/Chapter2-1_room2.csv"
+        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1.csv",
+        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_room0.csv",
+        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_room1.csv",
+        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_room2.csv"
       ],
       "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/Chapter2/",
       "bReplaceExisting": "true",

@@ -3,7 +3,8 @@
     {
       "GroupName": "Test",
       "Filenames": [
-        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Test/Test1.csv"
+        "Content/HorizonDialogueDemo/DataTable/Test/DT_Test_Title.csv",
+        "Content/HorizonDialogueDemo/DataTable/Test/DT_Test_Content.csv"
       ],
       "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/Test/",
       "bReplaceExisting": "true",

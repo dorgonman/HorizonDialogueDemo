@@ -3,7 +3,7 @@
     {
       "GroupName": "Chapter1",
       "Filenames": [
-        "C:/work/UE4HorizonPlugin/HorizonDialogueDemo/Content/HorizonDialogueDemo/DataTable/Chapter2/Chapter2-1_Choice.csv"
+        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_Choice.csv"
       ],
       "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/Chapter2/",
       "bReplaceExisting": "true",
