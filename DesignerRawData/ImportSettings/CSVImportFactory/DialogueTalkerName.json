@@ -3,9 +3,9 @@
     {
       "GroupName": "DialogueTalkerName",
       "Filenames": [
-        "Content/HorizonDialogueDemo/DataTable/DialogueTalkerName/DT_DialogueTalkerName.csv"
+        "Content/HorizonDialogueDemo/DataTableFromExcel/DialogueTalkerName/DT_DialogueTalkerName.csv"
       ],
-      "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/DialogueTalkerName/",
+      "DestinationPath": "/Game/HorizonDialogueDemo/DataTableFromExcel/DialogueTalkerName/",
       "bReplaceExisting": "true",
       "bSkipReadOnly": "true",
       "FactoryName": "CSVImportFactory",

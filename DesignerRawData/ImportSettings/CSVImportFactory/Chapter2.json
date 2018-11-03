@@ -3,12 +3,12 @@
     {
       "GroupName": "Chapter2",
       "Filenames": [
-        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1.csv",
-        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_room0.csv",
-        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_room1.csv",
-        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_room2.csv"
+        "Content/HorizonDialogueDemo/DataTableFromExcel/Chapter2/DT_Chapter2-1.csv",
+        "Content/HorizonDialogueDemo/DataTableFromExcel/Chapter2/DT_Chapter2-1_room0.csv",
+        "Content/HorizonDialogueDemo/DataTableFromExcel/Chapter2/DT_Chapter2-1_room1.csv",
+        "Content/HorizonDialogueDemo/DataTableFromExcel/Chapter2/DT_Chapter2-1_room2.csv"
       ],
-      "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/Chapter2/",
+      "DestinationPath": "/Game/HorizonDialogueDemo/DataTableFromExcel/Chapter2/",
       "bReplaceExisting": "true",
       "bSkipReadOnly": "true",
       "FactoryName": "CSVImportFactory",

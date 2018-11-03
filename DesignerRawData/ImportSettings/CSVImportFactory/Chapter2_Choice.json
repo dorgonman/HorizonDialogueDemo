@@ -3,9 +3,9 @@
     {
       "GroupName": "Chapter2-1_Choice",
       "Filenames": [
-        "Content/HorizonDialogueDemo/DataTable/Chapter2/DT_Chapter2-1_Choice.csv"
+        "Content/HorizonDialogueDemo/DataTableFromExcel/Chapter2/DT_Chapter2-1_Choice.csv"
       ],
-      "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/Chapter2/",
+      "DestinationPath": "/Game/HorizonDialogueDemo/DataTableFromExcel/Chapter2/",
       "bReplaceExisting": "true",
       "bSkipReadOnly": "true",
       "FactoryName": "CSVImportFactory",

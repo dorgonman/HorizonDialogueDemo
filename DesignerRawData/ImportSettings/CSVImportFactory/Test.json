@@ -3,10 +3,10 @@
     {
       "GroupName": "Test",
       "Filenames": [
-        "Content/HorizonDialogueDemo/DataTable/Test/DT_Test_Title.csv",
-        "Content/HorizonDialogueDemo/DataTable/Test/DT_Test_Content.csv"
+        "Content/HorizonDialogueDemo/DataTableFromExcel/Test/DT_Test_Title.csv",
+        "Content/HorizonDialogueDemo/DataTableFromExcel/Test/DT_Test_Content.csv"
       ],
-      "DestinationPath": "/Game/HorizonDialogueDemo/DataTable/Test/",
+      "DestinationPath": "/Game/HorizonDialogueDemo/DataTableFromExcel/Test/",
       "bReplaceExisting": "true",
       "bSkipReadOnly": "true",
       "FactoryName": "CSVImportFactory",
