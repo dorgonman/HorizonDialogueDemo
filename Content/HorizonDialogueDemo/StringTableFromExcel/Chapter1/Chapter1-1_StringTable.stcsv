@@ -1,0 +1,8 @@
+Key,SourceString,Comment
+id_000,Hello!,
+id_001,This demo project will demostrate some main features of HorizonDialogue Plugin.,
+id_002,"<text>You can download this demo project from GitHub:</text><br/>  
+<a href=""https://github.com/dorgonman/HorizonDialogueDemo"">
+<text color=""#0000FFFF"">https://github.com/dorgonman/HorizonUIPluginDemo. </text>
+</a>
+<text> And check functionality of this plugin.</text>",

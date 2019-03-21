@@ -1,0 +1,14 @@
+{
+  "ImportGroups": [
+    {
+      "GroupName": "DialogueTalkerName",
+      "Filenames": [
+        "Content/HorizonDialogueDemo/StringTableFromExcel/DialogueTalkerName/TalkerName_StringTable.stcsv"
+      ],
+      "DestinationPath": "/Game/HorizonDialogueDemo/StringTableFromExcel/TalkerName/",
+      "bReplaceExisting": "true",
+      "bSkipReadOnly": "true",
+      "FactoryName": "/Script/HorizonFrameworkEditor.HorizonStringTableFactory"
+    }
+  ]
+}

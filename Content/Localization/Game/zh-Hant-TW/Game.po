@@ -1,0 +1,1219 @@
+﻿# Game Chinese (Traditional, Taiwan) translation.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2019-02-17 11:19\n"
+"PO-Revision-Date: 2019-02-17 11:19\n"
+"Language-Team: \n"
+"Language: zh-Hant-TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	004514874363F499B443F3854A125C1F
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:SetupTextBlockAuto [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:SetupTextBlockAuto [Script Bytecode]
+msgctxt ",004514874363F499B443F3854A125C1F"
+msgid "Auto"
+msgstr ""
+
+#. Key:	036F67EF47F4ED4F3D7256B7BEE159E1
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/HistoryScene/WBP_DialogueHistoryScene.WBP_DialogueHistoryScene_C:WidgetTree.TextBlock_0.Text
+#: /Game/HorizonDialogueDemo/Widget/HistoryScene/WBP_DialogueHistoryScene.WBP_DialogueHistoryScene_C:WidgetTree.TextBlock_0.Text
+msgctxt ",036F67EF47F4ED4F3D7256B7BEE159E1"
+msgid "Close"
+msgstr ""
+
+#. Key:	040B222A4B25BB2F4F331E8BFD5382C9
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.SetWidgetListTextParamImpl_Hide.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.SetWidgetListTextParamImpl_Hide.MsgText
+msgctxt ",040B222A4B25BB2F4F331E8BFD5382C9"
+msgid "SetWidgetList Test (Hide)"
+msgstr ""
+
+#. Key:	06432EE84139FF32A3DABA920104DD0B
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.SetWidgetListTextParamImpl_Hide.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.SetWidgetListTextParamImpl_Hide.MsgText
+msgctxt ",06432EE84139FF32A3DABA920104DD0B"
+msgid "SetWidgetList Test (Hide)"
+msgstr ""
+
+#. Key:	0758539E435F94F4D354DF814C97F680
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.SetWidgetListTextParamImpl_Show.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.SetWidgetListTextParamImpl_Show.MsgText
+msgctxt ",0758539E435F94F4D354DF814C97F680"
+msgid "SetWidgetList Hide"
+msgstr ""
+
+#. Key:	082508A24A344675232D9F903109ACEC
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_95.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_95.Text
+msgctxt ",082508A24A344675232D9F903109ACEC"
+msgid "https://www.facebook.com/hsgamefan/"
+msgstr ""
+
+#. Key:	09EE50964765D7A2A950AC99D79F94E3
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParamImpl_FlipbookLeft.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParamImpl_FlipbookLeft.MsgText
+msgctxt ",09EE50964765D7A2A950AC99D79F94E3"
+msgid "Flipbook Test Left"
+msgstr ""
+
+#. Key:	0CBB936447EAFD5E65E7F59EEC8E49A4
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",0CBB936447EAFD5E65E7F59EEC8E49A4"
+msgid "SetWidgetList Show"
+msgstr ""
+
+#. Key:	0D06BD084B3F8311AD51D1BA9F04EE93
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:WidgetTree.TextBlockHistoryLog.Text
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:WidgetTree.TextBlockHistoryLog.Text
+msgctxt ",0D06BD084B3F8311AD51D1BA9F04EE93"
+msgid "LOG"
+msgstr ""
+
+#. Key:	0D51F1DB41481BA7AC06F38335A3CE53
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_729.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_729.Text
+msgctxt ",0D51F1DB41481BA7AC06F38335A3CE53"
+msgid "Back"
+msgstr ""
+
+#. Key:	128B69384EBC0FE8F9A55483659798D6
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.SetWidgetListTextParamImpl_Hide.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.SetWidgetListTextParamImpl_Hide.MsgText
+msgctxt ",128B69384EBC0FE8F9A55483659798D6"
+msgid "SetWidgetList Test (Hide)"
+msgstr ""
+
+#. Key:	12D116CE45BA2E890718D986A41216A2
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.SetWidgetListTextParamImpl_Show.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.SetWidgetListTextParamImpl_Show.MsgText
+msgctxt ",12D116CE45BA2E890718D986A41216A2"
+msgid "SetWidgetList Hide"
+msgstr ""
+
+#. Key:	144C1EF24028DB7A134101AF244B427E
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-1.BP_Test1-1-1_C:ExecuteUbergraph_BP_Test1-1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-1.BP_Test1-1-1_C:ExecuteUbergraph_BP_Test1-1-1 [Script Bytecode]
+msgctxt ",144C1EF24028DB7A134101AF244B427E"
+msgid "Hello BP_Test1-1-1"
+msgstr ""
+
+#. Key:	14AB09554E4CADFB208194A8D7EEBDEC
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.BP_Test2-2_C:ExecuteUbergraph_BP_Test2-2 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.BP_Test2-2_C:ExecuteUbergraph_BP_Test2-2 [Script Bytecode]
+msgctxt ",14AB09554E4CADFB208194A8D7EEBDEC"
+msgid "A Choice Selected"
+msgstr ""
+
+#. Key:	14D6B67A47D787D8ABA565B2B4D8419E
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_Msg2.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_Msg2.TalkerNameText
+msgctxt ",14D6B67A47D787D8ABA565B2B4D8419E"
+msgid "White"
+msgstr ""
+
+#. Key:	1CB2B37A458BEB753F7AF78EBE444375
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:WidgetTree.TextBlock_Auto.Text
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:WidgetTree.TextBlock_Auto.Text
+msgctxt ",1CB2B37A458BEB753F7AF78EBE444375"
+msgid "AUTO"
+msgstr ""
+
+#. Key:	1E879CCC466E90DC4A6FB69AE5E4C52D
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParam_Choice.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParam_Choice.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+msgctxt ",1E879CCC466E90DC4A6FB69AE5E4C52D"
+msgid "This is Choice 01"
+msgstr ""
+
+#. Key:	20F1BB384A61AF2BC2C8349983F1EDF9
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton2.WBP_DialogueChoiceButton2_C:WidgetTree.Button_L2_Choice01.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton2.WBP_DialogueChoiceButton2_C:WidgetTree.Button_L2_Choice01.Text_Main
+msgctxt ",20F1BB384A61AF2BC2C8349983F1EDF9"
+msgid "Choice01"
+msgstr ""
+
+#. Key:	21B9EA254EC54E0EE16779B0EC3A3C75
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParamImpl_FlipbookLeft.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParamImpl_FlipbookLeft.MsgText
+msgctxt ",21B9EA254EC54E0EE16779B0EC3A3C75"
+msgid "Flipbook Test Left"
+msgstr ""
+
+#. Key:	2295A5CE4C86A968A4F8909861C06D94
+#. SourceLocation:	/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",2295A5CE4C86A968A4F8909861C06D94"
+msgid "Third Person"
+msgstr ""
+
+#. Key:	22DDB7E94195C9CD8C7416B8E31C80F6
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",22DDB7E94195C9CD8C7416B8E31C80F6"
+msgid "Action Reset Test(Except CharacterLeft)"
+msgstr ""
+
+#. Key:	23F319114D561813B4E872A1BCC04EBD
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter2/BP_Chapter2-1.Default__BP_Chapter2-1_C.ID_005.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter2/BP_Chapter2-1.Default__BP_Chapter2-1_C.ID_005.MsgText
+msgctxt ",23F319114D561813B4E872A1BCC04EBD"
+msgid "After WaitPendingAction, action will finished"
+msgstr ""
+
+#. Key:	24F8CE99404BA4AD8BAC1981E7504B8C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+msgctxt ",24F8CE99404BA4AD8BAC1981E7504B8C"
+msgid "Test2"
+msgstr ""
+
+#. Key:	296160A8489C946D70AEBDBFA74D4129
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParamImpl_FlipbookRight.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParamImpl_FlipbookRight.MsgText
+msgctxt ",296160A8489C946D70AEBDBFA74D4129"
+msgid "Flipbook Test Right"
+msgstr ""
+
+#. Key:	2E8F4FE544548D231CE047BFBCB1C4C5
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.SetWidgetListTextParamImpl_Hide.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.SetWidgetListTextParamImpl_Hide.MsgText
+msgctxt ",2E8F4FE544548D231CE047BFBCB1C4C5"
+msgid "SetWidgetList Test (Hide)"
+msgstr ""
+
+#. Key:	310AFB59493556B94F4812A16667925D
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton4.WBP_DialogueChoiceButton4_C:WidgetTree.Button_L4_Choice00.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton4.WBP_DialogueChoiceButton4_C:WidgetTree.Button_L4_Choice00.Text_Main
+msgctxt ",310AFB59493556B94F4812A16667925D"
+msgid "Choice00"
+msgstr ""
+
+#. Key:	33C63A3749707536D18E2585196CC66E
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-3.BP_Test1-1-3_C:ExecuteUbergraph_BP_Test1-1-3 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-3.BP_Test1-1-3_C:ExecuteUbergraph_BP_Test1-1-3 [Script Bytecode]
+msgctxt ",33C63A3749707536D18E2585196CC66E"
+msgid "This message will not show"
+msgstr ""
+
+#. Key:	340613A54F940E0AC826B1A4702D3423
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.BP_Choice00_C:ExecuteUbergraph_BP_Choice00 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.BP_Choice00_C:ExecuteUbergraph_BP_Choice00 [Script Bytecode]
+msgctxt ",340613A54F940E0AC826B1A4702D3423"
+msgid "BP_Test2-2-Choice00"
+msgstr ""
+
+#. Key:	3566988A4D0E8D9346B1E19DD2DC4713
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+msgctxt ",3566988A4D0E8D9346B1E19DD2DC4713"
+msgid "Test1"
+msgstr ""
+
+#. Key:	357088834C39C9CAA9552B9FFA1FD2AA
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-2.Default__BP_Test1-2_C.SetWidgetListTextParamImpl_Show.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-2.Default__BP_Test1-2_C.SetWidgetListTextParamImpl_Show.MsgText
+msgctxt ",357088834C39C9CAA9552B9FFA1FD2AA"
+msgid "SetWidgetList Hide"
+msgstr ""
+
+#. Key:	38C280D44BAEC47F0F8874A39A55B3C7
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_TitleScene.W_TitleScene_C:WidgetTree.TextBlock_2.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_TitleScene.W_TitleScene_C:WidgetTree.TextBlock_2.Text
+msgctxt ",38C280D44BAEC47F0F8874A39A55B3C7"
+msgid "ExitGame"
+msgstr ""
+
+#. Key:	391B57AA45376CAB36289683BE90AB16
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",391B57AA45376CAB36289683BE90AB16"
+msgid "Start Test PushScene"
+msgstr ""
+
+#. Key:	3DE7588448F419FD67D551A3A33E2F95
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_59.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_59.Text
+msgctxt ",3DE7588448F419FD67D551A3A33E2F95"
+msgid "This is Credit Scene"
+msgstr ""
+
+#. Key:	3FB1443442634D884E5F36A691E9571D
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",3FB1443442634D884E5F36A691E9571D"
+msgid "UserWidget Animation Test Finished"
+msgstr ""
+
+#. Key:	42110F5E4C36D5C11C540E8F4E0174E9
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-2.BP_Test1-1-2_C:ExecuteUbergraph_BP_Test1-1-2 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-2.BP_Test1-1-2_C:ExecuteUbergraph_BP_Test1-1-2 [Script Bytecode]
+msgctxt ",42110F5E4C36D5C11C540E8F4E0174E9"
+msgid "Hello BP_TestScene1-1-2"
+msgstr ""
+
+#. Key:	45D600B144FBF7864D0EE1A85E043B41
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",45D600B144FBF7864D0EE1A85E043B41"
+msgid "Image2D Test 2"
+msgstr ""
+
+#. Key:	47929EE946E1790846E3DB874DBAC82D
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_MsgEx.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_MsgEx.TalkerNameText
+msgctxt ",47929EE946E1790846E3DB874DBAC82D"
+msgid "Robot"
+msgstr ""
+
+#. Key:	4A6C5DA04AAEE372B6B526B73273C7A5
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.BP_Choice02_C:ExecuteUbergraph_BP_Choice02 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.BP_Choice02_C:ExecuteUbergraph_BP_Choice02 [Script Bytecode]
+msgctxt ",4A6C5DA04AAEE372B6B526B73273C7A5"
+msgid "BP_Test2-2-Choice02"
+msgstr ""
+
+#. Key:	4D21CF8B427FEEC8DF4E03AB22958DDE
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",4D21CF8B427FEEC8DF4E03AB22958DDE"
+msgid "Image2D Test 1"
+msgstr ""
+
+#. Key:	4D454B334F429F734470BC94F72D81FE
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParam_Choice.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParam_Choice.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+msgctxt ",4D454B334F429F734470BC94F72D81FE"
+msgid "This is Choice 00"
+msgstr ""
+
+#. Key:	4F5C40944A30643AA7359E98761FD73C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParam_Choice.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParam_Choice.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+msgctxt ",4F5C40944A30643AA7359E98761FD73C"
+msgid "Load From DataTable"
+msgstr ""
+
+#. Key:	540CC3504572AC04327E9A8065ED2D44
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.BP_Test2-2_C:ExecuteUbergraph_BP_Test2-2 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.BP_Test2-2_C:ExecuteUbergraph_BP_Test2-2 [Script Bytecode]
+msgctxt ",540CC3504572AC04327E9A8065ED2D44"
+msgid "BP_TestScene2-1 Choice Test Start"
+msgstr ""
+
+#. Key:	547BDBC2496CBC03A512829B47B44B9E
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_Msg1.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_Msg1.TalkerNameText
+msgctxt ",547BDBC2496CBC03A512829B47B44B9E"
+msgid "Robot"
+msgstr ""
+
+#. Key:	5777FECE48253F19ABC5888BF80D7542
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.SetWidgetListTextParamImpl_Hide.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.SetWidgetListTextParamImpl_Hide.MsgText
+msgctxt ",5777FECE48253F19ABC5888BF80D7542"
+msgid "SetWidgetList Test (Hide)"
+msgstr ""
+
+#. Key:	5CD1285045D6FCC1AE3E0D9FD8A6C96F
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-2.Default__BP_Test1-2_C.SetWidgetListTextParamImpl_Hide.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-2.Default__BP_Test1-2_C.SetWidgetListTextParamImpl_Hide.MsgText
+msgctxt ",5CD1285045D6FCC1AE3E0D9FD8A6C96F"
+msgid "SetWidgetList Test (Hide)"
+msgstr ""
+
+#. Key:	5ED6DEC34E185D7E8B6DCB91C19E66B6
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParam_Choice.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParam_Choice.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+msgctxt ",5ED6DEC34E185D7E8B6DCB91C19E66B6"
+msgid "Load From DataTable"
+msgstr ""
+
+#. Key:	5F8E080A48CC34F11FB944A96A971ECC
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_MsgEx.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_MsgEx.MsgText
+msgctxt ",5F8E080A48CC34F11FB944A96A971ECC"
+msgid "Could you please tell me why you are here?"
+msgstr ""
+
+#. Key:	62663C814DD22C1D96E944A91C04C562
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton4.WBP_DialogueChoiceButton4_C:WidgetTree.Button_L4_Choice02.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton4.WBP_DialogueChoiceButton4_C:WidgetTree.Button_L4_Choice02.Text_Main
+msgctxt ",62663C814DD22C1D96E944A91C04C562"
+msgid "Choice00"
+msgstr ""
+
+#. Key:	641C13794D4FD95CD0D3E5AD5ECCB57C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_Msg1.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_Msg1.MsgText
+msgctxt ",641C13794D4FD95CD0D3E5AD5ECCB57C"
+msgid "I am here...because this is a tutorial for HorizonDialogue Plugin."
+msgstr ""
+
+#. Key:	6C28973842F56BB18D5D33B0CF4153F6
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_TitleScene.W_TitleScene_C:WidgetTree.TextBlock_1.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_TitleScene.W_TitleScene_C:WidgetTree.TextBlock_1.Text
+msgctxt ",6C28973842F56BB18D5D33B0CF4153F6"
+msgid "Credit"
+msgstr ""
+
+#. Key:	6C5D4B4346A25F1ABC2AD98D18AD7FC4
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.SetWidgetListTextParamImpl_Show.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.SetWidgetListTextParamImpl_Show.MsgText
+msgctxt ",6C5D4B4346A25F1ABC2AD98D18AD7FC4"
+msgid "SetWidgetList Hide"
+msgstr ""
+
+#. Key:	7101A7C54869B5C17A78A88A4AF0A08A
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.BP_Test2-1_C:ExecuteUbergraph_BP_Test2-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.BP_Test2-1_C:ExecuteUbergraph_BP_Test2-1 [Script Bytecode]
+msgctxt ",7101A7C54869B5C17A78A88A4AF0A08A"
+msgid "BP_TestScene2-1 Flipbook Test Start"
+msgstr ""
+
+#. Key:	72DAD8624B6C70DA71BA2BAAB8FC483D
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/HistoryScene/WBP_DialogueHistoryItem.WBP_DialogueHistoryItem_C:WidgetTree.TextBlock_TalkerName.Text
+#: /Game/HorizonDialogueDemo/Widget/HistoryScene/WBP_DialogueHistoryItem.WBP_DialogueHistoryItem_C:WidgetTree.TextBlock_TalkerName.Text
+msgctxt ",72DAD8624B6C70DA71BA2BAAB8FC483D"
+msgid "Talker Name"
+msgstr ""
+
+#. Key:	737DB3184887659B537359AF3C0C24A0
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:SetupTextBlockAuto [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:SetupTextBlockAuto [Script Bytecode]
+msgctxt ",737DB3184887659B537359AF3C0C24A0"
+msgid "Skip"
+msgstr ""
+
+#. Key:	73BBFACF487F0230FFAD33824E8F9FD3
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.BP_Test2-1_C:ExecuteUbergraph_BP_Test2-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.BP_Test2-1_C:ExecuteUbergraph_BP_Test2-1 [Script Bytecode]
+msgctxt ",73BBFACF487F0230FFAD33824E8F9FD3"
+msgid " BP_TestScene2-1 Flipbook Test Finished"
+msgstr ""
+
+#. Key:	73F92CEE4DF2E7FEB16D829C5B1E560E
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton3.WBP_DialogueChoiceButton3_C:WidgetTree.Button_L3_Choice01.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton3.WBP_DialogueChoiceButton3_C:WidgetTree.Button_L3_Choice01.Text_Main
+msgctxt ",73F92CEE4DF2E7FEB16D829C5B1E560E"
+msgid "Choice01"
+msgstr ""
+
+#. Key:	744629C2459E3B25A3E1808F95AE7413
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParam_Choice.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParam_Choice.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+msgctxt ",744629C2459E3B25A3E1808F95AE7413"
+msgid "Quit Selection"
+msgstr ""
+
+#. Key:	764DAAE84A44E250E1C9F9A5D0CDA264
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.BP_Test2-2_C:ExecuteUbergraph_BP_Test2-2 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.BP_Test2-2_C:ExecuteUbergraph_BP_Test2-2 [Script Bytecode]
+msgctxt ",764DAAE84A44E250E1C9F9A5D0CDA264"
+msgid "Selected Choice Index: {index}"
+msgstr ""
+
+#. Key:	7B797F9A4C5DE1D295320D95673E520D
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton2.WBP_DialogueChoiceButton2_C:WidgetTree.Button_L2_Choice00.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton2.WBP_DialogueChoiceButton2_C:WidgetTree.Button_L2_Choice00.Text_Main
+msgctxt ",7B797F9A4C5DE1D295320D95673E520D"
+msgid "Choice00"
+msgstr ""
+
+#. Key:	7C0D16374E0486175FD562AD59997E29
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+msgctxt ",7C0D16374E0486175FD562AD59997E29"
+msgid "Test2"
+msgstr ""
+
+#. Key:	804738C449AFAFADE4F172A9F47ACABD
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_Msg2.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_Msg2.TalkerNameText
+msgctxt ",804738C449AFAFADE4F172A9F47ACABD"
+msgid "White"
+msgstr ""
+
+#. Key:	80A5631A454CE2E6C842DEA7078C3E77
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_MsgEx.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_MsgEx.TalkerNameText
+msgctxt ",80A5631A454CE2E6C842DEA7078C3E77"
+msgid "White"
+msgstr ""
+
+#. Key:	81DF190F43BB0DC79EBEEA8A5B1BE335
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter2/BP_Chapter2-1.Default__BP_Chapter2-1_C.ID_000.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter2/BP_Chapter2-1.Default__BP_Chapter2-1_C.ID_000.MsgText
+msgctxt ",81DF190F43BB0DC79EBEEA8A5B1BE335"
+msgid "This demo will show you how to use SetWidgetList to Hide/Show multiple Widget at same time."
+msgstr ""
+
+#. Key:	847B7AFC4DBCC12FE9E8DFA72451AED9
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.DialogueParamImpl_FlipbookLeft.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.DialogueParamImpl_FlipbookLeft.MsgText
+msgctxt ",847B7AFC4DBCC12FE9E8DFA72451AED9"
+msgid "Flipbook Test Left"
+msgstr ""
+
+#. Key:	853BF91642D1602E0B9C62A2F721C156
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.Default__BP_Test1-1_C.SetWidgetListTextParamImpl_Hide.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.Default__BP_Test1-1_C.SetWidgetListTextParamImpl_Hide.MsgText
+msgctxt ",853BF91642D1602E0B9C62A2F721C156"
+msgid "SetWidgetList Test (Hide)"
+msgstr ""
+
+#. Key:	85D8BBB04060666AC5D03F934BB04658
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+msgctxt ",85D8BBB04060666AC5D03F934BB04658"
+msgid "Test2"
+msgstr ""
+
+#. Key:	873DD98B44F7E6F038238FA0F499BC25
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParamImpl_FlipbookRight.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParamImpl_FlipbookRight.MsgText
+msgctxt ",873DD98B44F7E6F038238FA0F499BC25"
+msgid "Flipbook Test Right"
+msgstr ""
+
+#. Key:	881AA8A941A7A4C83673AFA550C778D0
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_TitleScene.W_TitleScene_C:WidgetTree.TextBlock_0.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_TitleScene.W_TitleScene_C:WidgetTree.TextBlock_0.Text
+msgctxt ",881AA8A941A7A4C83673AFA550C778D0"
+msgid "StartGame"
+msgstr ""
+
+#. Key:	8836CA3347FA432DD9745EA64751C09F
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParamImpl_FlipbookLeft.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParamImpl_FlipbookLeft.MsgText
+msgctxt ",8836CA3347FA432DD9745EA64751C09F"
+msgid "Flipbook Test Left"
+msgstr ""
+
+#. Key:	892E9B4A425A3226FA2496BEAE406887
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_260.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_260.Text
+msgctxt ",892E9B4A425A3226FA2496BEAE406887"
+msgid "PROGRAMMER"
+msgstr ""
+
+#. Key:	89CEEE414CA177E832C22BB5F235D25C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-4.BP_Test1-1-4_C:ExecuteUbergraph_BP_Test1-1-4 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-4.BP_Test1-1-4_C:ExecuteUbergraph_BP_Test1-1-4 [Script Bytecode]
+msgctxt ",89CEEE414CA177E832C22BB5F235D25C"
+msgid "Hello BP_TestScene1-1-3"
+msgstr ""
+
+#. Key:	89DCD4DF4E44F6CEFB2C2CAED85FC131
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/WBP_HintPressToTalk.WBP_HintPressToTalk_C:WidgetTree.TextBlock_0.Text
+#: /Game/HorizonDialogueDemo/Widget/WBP_HintPressToTalk.WBP_HintPressToTalk_C:WidgetTree.TextBlock_0.Text
+msgctxt ",89DCD4DF4E44F6CEFB2C2CAED85FC131"
+msgid "Press Z to Talk"
+msgstr ""
+
+#. Key:	8B36408748251EAB43A35C94559234E4
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.BP_Choice01_C:ExecuteUbergraph_BP_Choice01 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.BP_Choice01_C:ExecuteUbergraph_BP_Choice01 [Script Bytecode]
+msgctxt ",8B36408748251EAB43A35C94559234E4"
+msgid "BP_Test2-2-Choice01"
+msgstr ""
+
+#. Key:	8E38146D4223A790EEA3F0820AF828DC
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton3.WBP_DialogueChoiceButton3_C:WidgetTree.Button_L3_Choice00.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton3.WBP_DialogueChoiceButton3_C:WidgetTree.Button_L3_Choice00.Text_Main
+msgctxt ",8E38146D4223A790EEA3F0820AF828DC"
+msgid "Choice00"
+msgstr ""
+
+#. Key:	8E5ED12F459954178F008FB9D2ED0EB5
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParamImpl_FlipbookLeft.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParamImpl_FlipbookLeft.MsgText
+msgctxt ",8E5ED12F459954178F008FB9D2ED0EB5"
+msgid "Flipbook Test Left"
+msgstr ""
+
+#. Key:	907B737D40D22C1A85FB25A1B51B0C57
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+msgctxt ",907B737D40D22C1A85FB25A1B51B0C57"
+msgid "Test1"
+msgstr ""
+
+#. Key:	941ECD7D4AC1AA1AEB865494D2F43C69
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-2.BP_Test1-1-2_C:ExecuteUbergraph_BP_Test1-1-2 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-2.BP_Test1-1-2_C:ExecuteUbergraph_BP_Test1-1-2 [Script Bytecode]
+msgctxt ",941ECD7D4AC1AA1AEB865494D2F43C69"
+msgid "BP_TestScene1-1-2 After BP_TestScene1-1-3"
+msgstr ""
+
+#. Key:	95B91170499DAFD60067BCB254D28662
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/HistoryScene/WBP_DialogueHistoryItem.WBP_DialogueHistoryItem_C:WidgetTree.MsgTextBlock_Content.Text
+#: /Game/HorizonDialogueDemo/Widget/HistoryScene/WBP_DialogueHistoryItem.WBP_DialogueHistoryItem_C:WidgetTree.MsgTextBlock_Content.Text
+msgctxt ",95B91170499DAFD60067BCB254D28662"
+msgid "Dialogue Text Block"
+msgstr ""
+
+#. Key:	A0F818474C2E0CF76FC600832BA4ED08
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParam_Choice.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParam_Choice.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+msgctxt ",A0F818474C2E0CF76FC600832BA4ED08"
+msgid "Choice 00"
+msgstr ""
+
+#. Key:	A4415A8B4D315FE082285B99B8592956
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.SetWidgetListTextParamImpl_Show.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.SetWidgetListTextParamImpl_Show.MsgText
+msgctxt ",A4415A8B4D315FE082285B99B8592956"
+msgid "SetWidgetList Hide"
+msgstr ""
+
+#. Key:	A6E174A941AB0C2B7B02C799E84C21CD
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+msgctxt ",A6E174A941AB0C2B7B02C799E84C21CD"
+msgid "Test1"
+msgstr ""
+
+#. Key:	A70FF6D84B72399C290C849BF5EB2E0A
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParam_Choice.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParam_Choice.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+msgctxt ",A70FF6D84B72399C290C849BF5EB2E0A"
+msgid "This is Choice 01"
+msgstr ""
+
+#. Key:	A7447AEB41C5DDA6FE18168FA76F5995
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-1.BP_Test1-1-1_C:ExecuteUbergraph_BP_Test1-1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-1.BP_Test1-1-1_C:ExecuteUbergraph_BP_Test1-1-1 [Script Bytecode]
+msgctxt ",A7447AEB41C5DDA6FE18168FA76F5995"
+msgid "BP_TestScene1-1-1 After BP_TestScene1-1-2"
+msgstr ""
+
+#. Key:	A7AEC1C54A6BA0AF02C4F7B9D6FEC9C1
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_75.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_75.Text
+msgctxt ",A7AEC1C54A6BA0AF02C4F7B9D6FEC9C1"
+msgid "STUDIO FB"
+msgstr ""
+
+#. Key:	A862005B4EAD876BAB2CBFBEC8E9C34B
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParamImpl_FlipbookRight.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParamImpl_FlipbookRight.MsgText
+msgctxt ",A862005B4EAD876BAB2CBFBEC8E9C34B"
+msgid "Flipbook Test Right"
+msgstr ""
+
+#. Key:	A92B55A54BF136ECBFC5C1BAF90B5110
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+msgctxt ",A92B55A54BF136ECBFC5C1BAF90B5110"
+msgid "Test2"
+msgstr ""
+
+#. Key:	AC070DA242D2E7CF56C2A596B92CCE63
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_Msg1.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_Msg1.TalkerNameText
+msgctxt ",AC070DA242D2E7CF56C2A596B92CCE63"
+msgid "Red"
+msgstr ""
+
+#. Key:	ACEB711C467247B3D05B418AA4462408
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_MsgEx.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_MsgEx.MsgText
+msgctxt ",ACEB711C467247B3D05B418AA4462408"
+msgid "Hello, Nice to meet you"
+msgstr ""
+
+#. Key:	AEA87051402B1B2B725E53916F96F4E4
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParam_Choice.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParam_Choice.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+msgctxt ",AEA87051402B1B2B725E53916F96F4E4"
+msgid "This is Choice 00"
+msgstr ""
+
+#. Key:	B2453CF84FBC6A90728307A4098CA4E6
+#. SourceLocation:	/Game/HorizonDialogueDemo/Enum/MapEnum.MapEnum.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/HorizonDialogueDemo/Enum/MapEnum.MapEnum.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",B2453CF84FBC6A90728307A4098CA4E6"
+msgid "/Game/HorizonDialogueDemo/Maps/Chapters/Chapter2"
+msgstr ""
+
+#. Key:	BACA33624B00BA0A811988999922D773
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.SetWidgetListTextParamImpl_Show.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.SetWidgetListTextParamImpl_Show.MsgText
+msgctxt ",BACA33624B00BA0A811988999922D773"
+msgid "SetWidgetList Hide"
+msgstr ""
+
+#. Key:	BB68AF9845553C3E937C1FA894E3D59C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.DialogueParamImpl_FlipbookRight.TalkerNameText
+msgctxt ",BB68AF9845553C3E937C1FA894E3D59C"
+msgid "Test2"
+msgstr ""
+
+#. Key:	C015983D4BC583ECA6F562977B895696
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",C015983D4BC583ECA6F562977B895696"
+msgid "Action Test Finished"
+msgstr ""
+
+#. Key:	C0572906494C81A4BAE78DA4E2FE5A8B
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-2.BP_Test1-2_C:ExecuteUbergraph_BP_Test1-2 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-2.BP_Test1-2_C:ExecuteUbergraph_BP_Test1-2 [Script Bytecode]
+msgctxt ",C0572906494C81A4BAE78DA4E2FE5A8B"
+msgid "BP_Test1-2, should not see this message"
+msgstr ""
+
+#. Key:	C51BD86F48F46242B451B5869402A5CC
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton4.WBP_DialogueChoiceButton4_C:WidgetTree.Button_L4_Choice03.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton4.WBP_DialogueChoiceButton4_C:WidgetTree.Button_L4_Choice03.Text_Main
+msgctxt ",C51BD86F48F46242B451B5869402A5CC"
+msgid "Choice01"
+msgstr ""
+
+#. Key:	C6528F5E4A63E6B1D2B50AA113E31708
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter2/BP_Chapter2-1.Default__BP_Chapter2-1_C.ID_004.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Chapter2/BP_Chapter2-1.Default__BP_Chapter2-1_C.ID_004.MsgText
+msgctxt ",C6528F5E4A63E6B1D2B50AA113E31708"
+msgid "Like this"
+msgstr ""
+
+#. Key:	C6F644864ECA9ED315F218860E552964
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindowForWidgetCompnent.WBP_DialogueWindowForWidgetCompnent_C:WidgetTree.DialogueMsgTextBlock_Msg.Text
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindowForWidgetCompnent.WBP_DialogueWindowForWidgetCompnent_C:WidgetTree.DialogueMsgTextBlock_Msg.Text
+msgctxt ",C6F644864ECA9ED315F218860E552964"
+msgid "Dialogue Text Block"
+msgstr ""
+
+#. Key:	C83A215A48756691985F0B8D5D668C2A
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_Msg2.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-2.Default__BP_Test3-2_C.DialogueParamImpl_Msg2.MsgText
+msgctxt ",C83A215A48756691985F0B8D5D668C2A"
+msgid "ok, thank you."
+msgstr ""
+
+#. Key:	CAEF46DB4C5EC1388CB678855BAEDDE2
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:WidgetTree.TextBlock_1.Text
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:WidgetTree.TextBlock_1.Text
+msgctxt ",CAEF46DB4C5EC1388CB678855BAEDDE2"
+msgid "Skip"
+msgstr ""
+
+#. Key:	D1183AEE4BEB017B76DFA6B888249F23
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",D1183AEE4BEB017B76DFA6B888249F23"
+msgid "UserWidget Animation Test"
+msgstr ""
+
+#. Key:	D3DF715248725DB1DB7AF280653DC42E
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.DialogueParamImpl_FlipbookRight.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-1.Default__BP_Test2-1_C.DialogueParamImpl_FlipbookRight.MsgText
+msgctxt ",D3DF715248725DB1DB7AF280653DC42E"
+msgid "Flipbook Test Right"
+msgstr ""
+
+#. Key:	D42F50D4406C3E05D6AE0385CF397E97
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.BP_Test2-2_C:ExecuteUbergraph_BP_Test2-2 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.BP_Test2-2_C:ExecuteUbergraph_BP_Test2-2 [Script Bytecode]
+msgctxt ",D42F50D4406C3E05D6AE0385CF397E97"
+msgid "BP_TestScene2-1 Choice Test Finished"
+msgstr ""
+
+#. Key:	D5584CA64D9E9BCDA7133C842C352A85
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-3.BP_Test1-1-3_C:ExecuteUbergraph_BP_Test1-1-3 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1/BP_Test1-1-3.BP_Test1-1-3_C:ExecuteUbergraph_BP_Test1-1-3 [Script Bytecode]
+msgctxt ",D5584CA64D9E9BCDA7133C842C352A85"
+msgid "Hello BP_TestScene1-1-3"
+msgstr ""
+
+#. Key:	D690E33F4052A136EC43ECB51DC8547C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_Msg2.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_Msg2.MsgText
+msgctxt ",D690E33F4052A136EC43ECB51DC8547C"
+msgid "Oh, It's ok"
+msgstr ""
+
+#. Key:	DD209327463E4BFD1D6C739EC305C302
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",DD209327463E4BFD1D6C739EC305C302"
+msgid "Action Test"
+msgstr ""
+
+#. Key:	DE904C054871BC9223E951B0688FC3A6
+#. SourceLocation:	/Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_154.Text
+#: /Game/HorizonFrameworkDemo/Blueprints/Widget/W_CreditScene.W_CreditScene_C:WidgetTree.TextBlock_154.Text
+msgctxt ",DE904C054871BC9223E951B0688FC3A6"
+msgid "dorgon chang"
+msgstr ""
+
+#. Key:	E23B324E4EBFE8B8FE01AEAFBD3E3CFC
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.Default__BP_Test1-1_C.SetWidgetListTextParamImpl_Show.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.Default__BP_Test1-1_C.SetWidgetListTextParamImpl_Show.MsgText
+msgctxt ",E23B324E4EBFE8B8FE01AEAFBD3E3CFC"
+msgid "SetWidgetList Hide"
+msgstr ""
+
+#. Key:	E55883C04E229943B9F110976E2A3A2C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+msgctxt ",E55883C04E229943B9F110976E2A3A2C"
+msgid "Test1"
+msgstr ""
+
+#. Key:	E8D67E0143A7EFE8CEC73A9872AE6789
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:WidgetTree.TextBlock_0.Text
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/WBP_DialogueWindow.WBP_DialogueWindow_C:WidgetTree.TextBlock_0.Text
+msgctxt ",E8D67E0143A7EFE8CEC73A9872AE6789"
+msgid "Auto"
+msgstr ""
+
+#. Key:	E9258116425F18345E3504A2ED006B66
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParamImpl_FlipbookLeft.TalkerNameText
+msgctxt ",E9258116425F18345E3504A2ED006B66"
+msgid "Test1"
+msgstr ""
+
+#. Key:	E9AA64474EDE8946D99965BD60DEA3D9
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton1.WBP_DialogueChoiceButton1_C:WidgetTree.Button_L1_Choice00.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton1.WBP_DialogueChoiceButton1_C:WidgetTree.Button_L1_Choice00.Text_Main
+msgctxt ",E9AA64474EDE8946D99965BD60DEA3D9"
+msgid "Choice00"
+msgstr ""
+
+#. Key:	EAE0A3D0403E917981B56AA29C57881E
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_Msg1.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test3/BP_Test3-1.Default__BP_Test3-1_C.DialogueParamImpl_Msg1.MsgText
+msgctxt ",EAE0A3D0403E917981B56AA29C57881E"
+msgid "Did you need anything?"
+msgstr ""
+
+#. Key:	EFE2147D4464694E4F3157BC8CD54A7C
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton4.WBP_DialogueChoiceButton4_C:WidgetTree.Button_L4_Choice01.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton4.WBP_DialogueChoiceButton4_C:WidgetTree.Button_L4_Choice01.Text_Main
+msgctxt ",EFE2147D4464694E4F3157BC8CD54A7C"
+msgid "Choice01"
+msgstr ""
+
+#. Key:	F12A440F47442B1FB076B0A485E5A5DD
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParam_Choice.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParam_Choice.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+msgctxt ",F12A440F47442B1FB076B0A485E5A5DD"
+msgid "This is Choice 01"
+msgstr ""
+
+#. Key:	F62F35EA43F08F90D7B1F1A74C7D07D4
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParam_Choice.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2.Default__BP_Test2-2_C.DialogueParam_Choice.ChoiceButtonParamList(1).ChoiceButtonParamList.ButtonText
+msgctxt ",F62F35EA43F08F90D7B1F1A74C7D07D4"
+msgid "Choice 01"
+msgstr ""
+
+#. Key:	F762996A472023ED52A63985FDA56F9F
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParam_Choice.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice00.Default__BP_Choice00_C.DialogueParam_Choice.ChoiceButtonParamList(0).ChoiceButtonParamList.ButtonText
+msgctxt ",F762996A472023ED52A63985FDA56F9F"
+msgid "This is Choice 00"
+msgstr ""
+
+#. Key:	F8982B1246EFEE039C2B79A0996638F3
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParam_Choice.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice02.Default__BP_Choice02_C.DialogueParam_Choice.ChoiceButtonParamList(2).ChoiceButtonParamList.ButtonText
+msgctxt ",F8982B1246EFEE039C2B79A0996638F3"
+msgid "Load From DataTable"
+msgstr ""
+
+#. Key:	F92A7EA94F1603C5D3C2A68D1EFC5B6A
+#. SourceLocation:	/Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton3.WBP_DialogueChoiceButton3_C:WidgetTree.Button_L3_Choice02.Text_Main
+#: /Game/HorizonDialogueDemo/Widget/DialogueScene/ChoiceButton/WBP_DialogueChoiceButton3.WBP_DialogueChoiceButton3_C:WidgetTree.Button_L3_Choice02.Text_Main
+msgctxt ",F92A7EA94F1603C5D3C2A68D1EFC5B6A"
+msgid "Choice02"
+msgstr ""
+
+#. Key:	F99A89E74BD975D63316E0AEC9016126
+#. SourceLocation:	/Game/HorizonUIDemo/Widget/NewWidgetBlueprint.NewWidgetBlueprint_C:WidgetTree.HorizonDialogueMsgTextBlock_43.Text
+#: /Game/HorizonUIDemo/Widget/NewWidgetBlueprint.NewWidgetBlueprint_C:WidgetTree.HorizonDialogueMsgTextBlock_43.Text
+msgctxt ",F99A89E74BD975D63316E0AEC9016126"
+msgid "Dialogue Text Block"
+msgstr ""
+
+#. Key:	FA42B4914F79E58474C4E3A8B42951FE
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParamImpl_FlipbookRight.MsgText
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test2/BP_Test2-2/BP_Choice01.Default__BP_Choice01_C.DialogueParamImpl_FlipbookRight.MsgText
+msgctxt ",FA42B4914F79E58474C4E3A8B42951FE"
+msgid "Flipbook Test Right"
+msgstr ""
+
+#. Key:	FFCF96984293C7D55B66D1BD6C880590
+#. SourceLocation:	/Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+#: /Game/HorizonDialogueDemo/Blueprints/DialogueScene/Test/BP_Test1/BP_Test1-1.BP_Test1-1_C:ExecuteUbergraph_BP_Test1-1 [Script Bytecode]
+msgctxt ",FFCF96984293C7D55B66D1BD6C880590"
+msgid "Test PushScene Finished"
+msgstr ""
+
+#. Key:	id_000
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-1_StringTable.Chapter1-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-1_StringTable.Chapter1-1_StringTable
+msgctxt "Chapter1-1_StringTable,id_000"
+msgid "Hello!"
+msgstr ""
+
+#. Key:	id_001
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-1_StringTable.Chapter1-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-1_StringTable.Chapter1-1_StringTable
+msgctxt "Chapter1-1_StringTable,id_001"
+msgid "This demo project will demostrate some main features of HorizonDialogue Plugin."
+msgstr ""
+
+#. Key:	id_002
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-1_StringTable.Chapter1-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-1_StringTable.Chapter1-1_StringTable
+msgctxt "Chapter1-1_StringTable,id_002"
+msgid "<text>You can download this demo project from GitHub:</text><br/>  \r\n<a href=\"https://github.com/dorgonman/HorizonUIPluginDemo.\">\r\n<text color=\"#0000FFFF\">https://github.com/dorgonman/HorizonUIPluginDemo. </text>\r\n</a>\r\n<text> And check functionality of this plugin.</text>"
+msgstr ""
+
+#. Key:	id_000
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_000"
+msgid "Hello！Anyone here?"
+msgstr ""
+
+#. Key:	id_001
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_001"
+msgid "I'm here, did you need any help?"
+msgstr ""
+
+#. Key:	id_002
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_002"
+msgid "Oh, yes,  Mr. Programmer, could you please teach me…"
+msgstr ""
+
+#. Key:	id_003
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_003"
+msgid "You want to know how to use \"HorizonDialogue Plugin\", right?"
+msgstr ""
+
+#. Key:	id_004
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_004"
+msgid "Yes! You can actually read my mind. Just get this Plugin, but I don't know how to use this plugin properly."
+msgstr ""
+
+#. Key:	id_005
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_005"
+msgid "Which part did you want to know first?"
+msgstr ""
+
+#. Key:	id_006
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_006"
+msgid "Could you please tell me the main purpose of this plugin?"
+msgstr ""
+
+#. Key:	id_007
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_007"
+msgid "To put it briefly, the goal of this plugin is trying to establish a gameplay framework which add functions to help game designer integrate story in their game."
+msgstr ""
+
+#. Key:	id_008
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_008"
+msgid "At anytime, anywhere."
+msgstr ""
+
+#. Key:	id_009
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_009"
+msgid "Sounds cool! But how it works?"
+msgstr ""
+
+#. Key:	id_010
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_010"
+msgid "First, you will need to buy my other plugins first: HorizonUI, HorizonTween and HorizonFramework."
+msgstr ""
+
+#. Key:	id_011
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_011"
+msgid "Because HorizonDialogue plugin integrated plugins mention above very tightly, and design a framework for game designer, so they can design add their \"DialogueEvent\"."
+msgstr ""
+
+#. Key:	id_012
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_012"
+msgid "Did you just say framework? Is it something related to UE4 gameplay framework?"
+msgstr ""
+
+#. Key:	id_013
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_013"
+msgid "Oh, sorry for the confusing, the framework here means workflow provided by HorizonFramework and additional events provided by HorizonDialogue Plugins."
+msgstr ""
+
+#. Key:	id_014
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_014"
+msgid "In HorizonDialogue Plugins, it add a new \"AddDialogueEvent\" in newly created HorizonDialogueScene. \r\nNow, HorizonDialogueScene lifecycle will become: \r\nBeginPlay->Enter->StartTransIn->OnEnter->AddDialogueEvent->TickScene->Exit->StartTransOut->OnExit->EndPlay."
+msgstr ""
+
+#. Key:	id_015
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_015"
+msgid "Thank you! I got it, so we need HorizonUI because we need to use DialogueWidgets in the Plugin?"
+msgstr ""
+
+#. Key:	id_016
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_016"
+msgid "Yes, the Dialogue and RichText functions are integrated in HorizonDialogue Plugin."
+msgstr ""
+
+#. Key:	id_017
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_017"
+msgid "Is it same for the HorizonTween?"
+msgstr ""
+
+#. Key:	id_018
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_018"
+msgid "You can use tween system provided by HorizonTween plugin to do some animation for your story."
+msgstr ""
+
+#. Key:	id_019
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_019"
+msgid "for example: Move, rotation you text and image widgets or fade in fade out."
+msgstr ""
+
+#. Key:	id_020
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_020"
+msgid "hmm…seems very complicated, didn't you know any quick start?"
+msgstr ""
+
+#. Key:	id_021
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_021"
+msgid "Yes, this demo project are provided in github, you can download it and see how to use."
+msgstr ""
+
+#. Key:	id_022
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_022"
+msgid "I will put some basic and advanced usage of this pluin in this demo project."
+msgstr ""
+
+#. Key:	id_023
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter1/Chapter1-2_StringTable.Chapter1-2_StringTable
+msgctxt "Chapter1-2_StringTable,id_023"
+msgid "Great! Look forward to it."
+msgstr ""
+
+#. Key:	id_001
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_001"
+msgid "This demo will show you how to use SetWidgetList to Hide/Show multiple Widget at same time."
+msgstr ""
+
+#. Key:	id_002
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_002"
+msgid "First, let's show Image_CharacterLeft, Image_CharacterRight and Image_CharacterCenter."
+msgstr ""
+
+#. Key:	id_003
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_003"
+msgid "Then hide Image_CharacterCenter in next SetWidgetList event."
+msgstr ""
+
+#. Key:	id_004
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_004"
+msgid "We can also additional functions for the event, ex: create tween events for widget, in OnDialogueEventPreStart event callback."
+msgstr ""
+
+#. Key:	id_005
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_005"
+msgid "Like this."
+msgstr ""
+
+#. Key:	id_006
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_006"
+msgid "After tween events are applied,  use WaitPendingAction to wait until tween action finished and clear all pending Dialogue Events."
+msgstr ""
+
+#. Key:	id_007
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_007"
+msgid "If HideDialogueObject of WaitPendingAction's param is enabled,  then all widgets we used before last WaitPendingAction envents will be hided."
+msgstr ""
+
+#. Key:	id_008
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_008"
+msgid "So now, let's try to hide the image use WaitPendingAction event."
+msgstr ""
+
+#. Key:	id_009
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-1_StringTable.Chapter2-1_StringTable
+msgctxt "Chapter2-1_StringTable,id_009"
+msgid "You can see we just hide Image_CharacterRight widget using WaitPendingActionEvent with HideDialogueObject flag enabled."
+msgstr ""
+
+#. Key:	id_000
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2-Choice0_StringTable.Chapter2-2-Choice0_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2-Choice0_StringTable.Chapter2-2-Choice0_StringTable
+msgctxt "Chapter2-2-Choice0_StringTable,id_000"
+msgid "Option0 selected"
+msgstr ""
+
+#. Key:	id_000
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2-Choice1_StringTable.Chapter2-2-Choice1_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2-Choice1_StringTable.Chapter2-2-Choice1_StringTable
+msgctxt "Chapter2-2-Choice1_StringTable,id_000"
+msgid "Option1 selected"
+msgstr ""
+
+#. Key:	id_000
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2-Choice2_StringTable.Chapter2-2-Choice2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2-Choice2_StringTable.Chapter2-2-Choice2_StringTable
+msgctxt "Chapter2-2-Choice2_StringTable,id_000"
+msgid "Option2 selected, selection loop will exit."
+msgstr ""
+
+#. Key:	id_000
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2_StringTable.Chapter2-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2_StringTable.Chapter2-2_StringTable
+msgctxt "Chapter2-2_StringTable,id_000"
+msgid "This demo will show you how to use choice feature in this plugin, please try to select a Option."
+msgstr ""
+
+#. Key:	id_001
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2_StringTable.Chapter2-2_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Chapter2/Chapter2-2_StringTable.Chapter2-2_StringTable
+msgctxt "Chapter2-2_StringTable,id_001"
+msgid "An Option selected."
+msgstr ""
+
+#. Key:	id_000
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_000"
+msgid "Test Message1"
+msgstr ""
+
+#. Key:	id_001
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_001"
+msgid "Test Message2"
+msgstr ""
+
+#. Key:	id_002
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_002"
+msgid "Test Message3"
+msgstr ""
+
+#. Key:	id_003
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_003"
+msgid "Test Message4"
+msgstr ""
+
+#. Key:	id_004
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_004"
+msgid "Test Message5"
+msgstr ""
+
+#. Key:	id_005
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_005"
+msgid "Test Message6"
+msgstr ""
+
+#. Key:	id_006
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_006"
+msgid "Test Message7"
+msgstr ""
+
+#. Key:	id_007
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_007"
+msgid "Test Message8"
+msgstr ""
+
+#. Key:	id_008
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestContent_StringTable.TestContent_StringTable
+msgctxt "TestContent_StringTable,id_008"
+msgid "<text color=\"#77FF77AA\" shadowColor=\"#FF0000FF\" shadowOffset=\"[4,3]\">This is rich text simple test:</text><br/>\r\n<text color=\"#FF0000AA\">This is programmer:</text><img filePath=\"PaperSprite'/Game/HorizonDialogueDemo/Textures/Character/programmer_Sprite.programmer_Sprite'\" size=\"[50, 50]\" /><br/>\r\n<text color=\"#0000FFFF\">This is a WaterMellon:</text><img color=\"#FF00FF77\" filePath=\"PaperSprite'/Game/HorizonUIDemo/SpriteSheet/Test/Frames/I_C_Watermellon_png.I_C_Watermellon_png'\" size=\"[50, 50]\" /> <br/>\r\n<text color=\"#77FF77AA\" shadowColor=\"#FF0000FF\" shadowOffset=\"[4,3]\">This is rich text simple test:</text><br/>\r\n<text>Test Message 1234578910111213141516171819</text><br/>\r\n<text color=\"#77FF77AA\" shadowColor=\"#FF0000FF\" shadowOffset=\"[4,3]\">This is rich text simple test:</text><br/>\r\n<text color=\"#FF0000AA\">This is strawberry:</text><img filePath=\"Texture2D'/Game/HorizonUIDemo/Texture/Item/I_C_Strawberry.I_C_Strawberry'\" size=\"[50, 50]\" /><br/>\r\n<text color=\"#0000FFFF\">This is Watermellon:</text><img color=\"#FF00FF77\" filePath=\"Texture2D'/Game/HorizonUIDemo/Texture/Item/I_C_Watermellon.I_C_Watermellon'\" size=\"[50, 50]\" /> <br/>\r\n<text color=\"#FFFF00FF\">This is animated man using material:</text><img filePath=\"Material'/Game/HorizonUIDemo/Material/mat_flipbook.mat_flipbook'\" size=\"[50, 50]\" /> <br/>\r\n<text>This is Default Font</text><br/>\r\n<text fontPath=\"/Engine/EngineFonts/Roboto\" fontType=\"Regular\" fontSize=\"30\">This is Roboto Regular fontSize=30</text><br/>\r\n<text fontPath=\"/Engine/EngineFonts/Roboto\" fontType=\"Italic\" color=\"#FF0000AA\">This is Roboto Italic</text><br/>\r\n<text fontPath=\"/Engine/EngineFonts/Roboto\" fontType=\"Bold Italic\"  fontSize=\"40\" color=\"#FF3366AA\">This is Roboto Bold Italic fontSize=40</text><br/>\r\n<text fontPath=\"/Engine/EngineFonts/Roboto\" fontType=\"Light\" color=\"#FFFF00AA\">This is Roboto Light</text><br/>\r\n<text fontPath=\"/Engine/EngineFonts/RobotoTiny\" fontType=\"Light\" color=\"#FF0A40AA\">This is RobotoTinyLight</text><br/>\r\n<text fontSize=\"25\">Test case:</text> \r\n<text padding-right=\"5\" padding-top=\"20\">\r\n <text padding-left=\"5\">padding text block</text>\r\n <img filePath=\"Material'/Game/HorizonUIDemo/Material/mat_flipbook.mat_flipbook'\"/>\r\n <img filePath=\"Texture2D'/Game/HorizonUIDemo/Texture/Item/I_C_Watermellon.I_C_Watermellon'\" size=\"[50,50]\" />\r\n</text><br/>\r\n<text>after padding</text><br/><br/>\r\n<text color=\"#77FF77AA\" shadowColor=\"#FF0000FF\" shadowOffset=\"[4,3]\" > color, shadow color and offset </text><br/><br/>\r\n<text> \r\n<text color=\"#FF0000FF\"> Nested  </text>\r\n<text color=\"#FF00FFFF\">\r\n&nbsp;tag node \r\n</text><br/>\r\n<text color=\"#FFFF00FF\">\r\n &nbsp;Dialogue Text \r\n</text><br/>\r\n<text color=\"#FF0000FF\">\r\n&nbsp;Block  \r\n</text><br/>\r\n</text>\r\n<a href=\"Seg1ClickMessage\" bgColor=\"#555555FF\" hoverColor=\"#FFFF0055\" filePath=\"Blueprint'/Game/HorizonUIDemo/ButtonStyle/BP_DialogueBackgroundButtonStyle1.BP_DialogueBackgroundButtonStyle1'\">\r\n<text color=\"#FF0000FF\"> Test Click Seg1  </text>\r\n</a><br/>\r\n\r\n<a href=\"Seg2ClickMessage\" bgColor=\"#FF0000FF\" hoverColor=\"#FFFF0055\" filePath=\"Blueprint'/Game/HorizonUIDemo/ButtonStyle/BP_DialogueBackgroundButtonStyle2.BP_DialogueBackgroundButtonStyle2'\">\r\n<text color=\"#00FF00FF\"> Test Click Seg2  </text>\r\n</a><br/>\r\n<a href=\"Seg3ClickMessage\" bgColor=\"#FF0000FF\" hoverColor=\"#FFFF0055\" filePath=\"Blueprint'/Game/HorizonUIDemo/ButtonStyle/BP_DialogueBackgroundButtonStyle3.BP_DialogueBackgroundButtonStyle3'\">\r\n<text color=\"#0000FFFF\"> Test Click Seg3  </text>\r\n</a><br/>\r\n<text style=\"bp1.style1\">This is rich text test using style:</text><br/>\r\n<text style=\"bp1.style2\">This is strawberry:</text><img style=\"bp1.style1\" /><br/>\r\n<text style=\"bp2.style1\">This is Watermellon:</text><img style=\"bp2.style1\"/> <br/>\r\n<text style=\"bp2.style2\">This is animated man using material:</text><mat style=\"bp2.style2\" /> <br/>\r\n<text style=\"bp2.style3\">Horizon Flipbook Widget (use tag pfb) Only Supported by using style:</text><pfb style=\"bp2.style1\" /> <br/>\r\n"
+msgstr ""
+
+#. Key:	id_000
+#. SourceLocation:	/Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestTitle_StringTable.TestTitle_StringTable
+#: /Game/HorizonDialogueDemo/StringTableFromExcel/Test/TestTitle_StringTable.TestTitle_StringTable
+msgctxt "TestTitle_StringTable,id_000"
+msgid "Long Dialogue Test"
+msgstr ""
+

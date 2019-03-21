@@ -1,0 +1,12 @@
+Key,SourceString,Comment
+id_001,This demo will show you how to use SetWidgetList to Hide/Show multiple Widget at same time.,
+id_002,"First, let's show Image_CharacterLeft, Image_CharacterRight and Image_CharacterCenter.",
+id_003,Then hide Image_CharacterCenter in next SetWidgetList event.,
+id_004,"We can also additional functions for the event, ex: create tween events for widget, in OnDialogueEventPreStart event callback.",
+id_005,Like this.,
+id_006,"After tween events are applied,  use WaitPendingAction to wait until tween action finished and clear all pending Dialogue Events.",
+id_007,"If HideDialogueObject of WaitPendingAction's param is enabled,  then all widgets we used before last WaitPendingAction envents will be hided.",
+id_008,"So now, let's try to hide the image use WaitPendingAction event.",
+id_009,You can see we just hide Image_CharacterRight widget using WaitPendingActionEvent with HideDialogueObject flag enabled.,
+id_010,,
+id_011,,
