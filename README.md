@@ -1,8 +1,8 @@
-![Azure Devops](https://hsgame.visualstudio.com/UE4HorizonPlugin/_apis/build/status/HorizonDialogueDemo-CI)
+[![Build Status](https://hsgame.visualstudio.com/UE4HorizonPlugin/_apis/build/status/HorizonDialogue/HorizonDialogueDemo-Shipping-CI?branchName=master)](https://hsgame.visualstudio.com/UE4HorizonPlugin/_build/latest?definitionId=32&branchName=master)
 
 public feed: nuget.org  
 
-[![nuget.org package in feed in ](https://img.shields.io/nuget/v/UE4Editor-HorizonDialogueDemo.svg)](https://www.nuget.org/packages/UE4Editor-HorizonDialogueDemo/)
+[![nuget.org package in feed in ](https://img.shields.io/nuget/v/HorizonDialogueDemo.svg)](https://www.nuget.org/packages/HorizonDialogueDemo/)
 
 private feed(only for internal use): 
 
