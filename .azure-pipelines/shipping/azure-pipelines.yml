@@ -46,4 +46,6 @@ jobs:
           platform: 'win64'
           sonarQubeServerEndpoint: 'localhost'
           sonarQubeCliProjectKey: 'HorizonDialogueDemo'
+          dependsOn:
+            - 'Build_Win64_Standalone'
  
