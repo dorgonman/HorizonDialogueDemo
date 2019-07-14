@@ -1,0 +1,31 @@
+Key,SourceString,Comment
+id_title,Introduction of HorizonDialogue Plugin,Programmer
+id_000,Hello！Anyone here?,designer
+id_001,"I'm here, did you need any help?",Programmer
+id_002,"I just install ""HorizonDialogue Plugin"" but I don't know how to start, could you help me?",designer
+id_003,"Sure,  which part you want to know?",Programmer
+id_004,Could you tell me the main purpose of this plugin?,designer
+id_005,The main purpose of this plugin is to help game developer add storytelling in their game.,Programmer
+id_006,Sounds cool! But how it works?,designer
+id_007,"The first thing we need to do is to create blueprint classes that extend from HorizonDialogueScene, which overall storytelling workflow are based on this file.",Programmer
+id_008,"It provide a context and tools for DialogueEvents design, for example, you can control how widget or actor animated with story text.",Programmer
+id_009,"Sounds great. But this plugins seems depends on HorizonUI, HorizonTween and HorizonFramework?",designer
+id_010,"Oh, yes, you can't run this plugin whichout install these plugins first.",Programmer
+id_011,"HorizonDialogue Plugin extensively integrated funcitons from HorizonUI, HorizonTween and HorizonFramework. ",Programmer
+id_012,Could you give me some example how those plugin integrated?,designer
+id_013,"First, this plugin extends HorizonFramework's Scene workflow with additional event call ""AddDialogueEvent"".  
+So now, HorizonDialogueScene's lifecycle became:  BeginPlay -> Enter -> StartTransIn -> OnEnter -> AddDialogueEvent -> TickScene -> Exit 
+-> StartTransOut -> OnExit -> EndPlay.",Programmer
+id_014,"And then, you can add DialogueEvent in AddDialogueEvent Function. These events will be executed one by one according to how you setup.",Programmer
+id_015,"Thank you! I got some basic picture, so we need HorizonUI because we need to use widgets provided by the Plugin?",designer
+id_016,"Yes, Typewriter effect and RichText functions are integrated with Dialogue Event, so DialogueSystem will know when event finished and can proceed to next event.",Programmer
+id_017,How about HorizonTween Plugin?,designer
+id_018,"It is a tween system,  to help you add runtime animation easily.  
+For example: show your dialogue text after fade in fade out some of your text and image widgets.",Programmer
+id_019,"Of course, DialogueEvent provide necessary callbacks, so integrate your own system to control when a DialogueEvent should be marked as finished is possible. ",Programmer
+id_020,Interesting. Is there any quick start?,designer
+id_021,"Yes, this demo project are provided in github, you can download it and see how to use.",Programmer
+id_022,I will put some basic and advanced usage of this pluin in this demo project.,Programmer
+id_023,Great! Look forward to it.,designer
+id_024,And...Who are you?,Programmer
+id_025,"Oh, I am just passing by.",Player

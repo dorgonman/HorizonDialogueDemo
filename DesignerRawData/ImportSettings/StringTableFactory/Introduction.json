@@ -1,0 +1,15 @@
+{
+  "ImportGroups": [
+    {
+      "GroupName": "Chapter1",
+      "Filenames": [
+        "Content/StringTableFromExcel/Introduction/Introduction1_StringTable.stcsv",
+        "Content/StringTableFromExcel/Introduction/Introduction2_StringTable.stcsv"
+      ],
+      "DestinationPath": "/Game/StringTableFromExcel/Introduction/",
+      "bReplaceExisting": "true",
+      "bSkipReadOnly": "true",
+      "FactoryName": "/Script/HorizonFrameworkEditor.HorizonStringTableFactory"
+    }
+  ]
+}

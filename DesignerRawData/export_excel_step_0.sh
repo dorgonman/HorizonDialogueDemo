@@ -5,7 +5,7 @@ BASE_PATH=$(cd "$(dirname "$0")"; pwd)
 
 
 TOOL_ROOT=$(cd "${BASE_PATH}/../ue_ci_scripts/function/python/UnrealIntegrationTool/UnrealIntegrationTool/Source/ExcelExporterCSV/"; pwd)
-OUTPUT_DIR="${BASE_PATH}/../Content/HorizonDialogueDemo/StringTableFromExcel/"
+OUTPUT_DIR="${BASE_PATH}/../Content/StringTableFromExcel/"
 mkdir -p ${OUTPUT_DIR}
 OUTPUT_DIR=$(cd "${OUTPUT_DIR}"; pwd)
 
