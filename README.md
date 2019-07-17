@@ -26,7 +26,88 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                 4.22.0(In Development)
+                    4.23.0
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
+
+
+ The goal of this plugin is to provide a dialogue framework that can easily integrate story telling in your game using blueprint.
+
+-----------------------  
+System Requirements
+-----------------------  
+Supported UnrealEngine version: 4.23
+
+This plugin integrated functions of my previous plugins, you will need to buy following plugins before you can using this plugin:  
+  [HorizonUI](https://www.unrealengine.com/marketplace/en-US/slug/horizon-ui-plugin)  
+  [HorizonTween](https://www.unrealengine.com/marketplace/en-US/slug/horizontween-plugin)  
+  [HorizonFramework](https://www.unrealengine.com/marketplace/en-US/slug/horizonframework-plugin)  
+
+
+
+-----------------------
+Installation Guide
+-----------------------  
+
+Put HorizonUIPlugin, HorizonTweenPlugin and HorizonDialoguelugin into YOUR_PROJECT/Plugins folder, 
+and then add module to your project 
+YOUR_PROJECT.Build.cs:
+PublicDependencyModuleNames.AddRange(new string[] { "HorizonUI", "HorizonTween", "HorizonFramework", "HorizonDialogue"});
+
+-----------------------
+User Guide
+-----------------------  
+
+1. Create Dialogue Layout using UserWidget.  
+  
+![Design your user widget](./ScreenShot/HorizonDialogue_screenshot_8.png)  
+  
+2. Create Blueprint(TestScene_BP) that extends from HorizonDialogueScene and setup defualt widgets for DialogueScene.  
+
+![Design your user widget](./ScreenShot/HorizonDialogue_setup_widget.png)
+  
+3. Add Dialogue Events in TestScene_BP, like following:
+
+![Add Dialogue Events](./ScreenShot/HorizonDialogue_screenshot_1.png)  
+  
+4. Push BP_TestScene using HorizonSceneMaanger. 
+
+![Start DialogueScene](./ScreenShot/HorizonDialogue_start_dialogue.png)  
+  
+
+-----------------------
+Technical Details
+-----------------------  
+
+List of Modules: HorizonDialogue(Runtime), HorizonDialogueEditor(Editor)
+
+Intended Platform: All Platforms  
+
+Platforms Tested: Windows
+
+Demo Project: https://github.com/dorgonman/HorizonDialogueDemo
+
+DemoVideo: 
+
+-----------------------
+What does your plugin do/What is the intent of your plugin
+-----------------------  
+
+This plugin provide many functions for create dialogue events.
+
+-----------------------
+Contact and Support
+-----------------------  
+
+email: dorgonman@hotmail.com
+
+discord: https://discord.gg/surfzAz
+
+-----------------------
+ Version History
+-----------------------  
+
+*4.23.0  
+
+        NEW: First Version including core features.  
