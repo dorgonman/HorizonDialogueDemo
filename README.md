@@ -65,7 +65,7 @@ User Guide
   
 2. Create Blueprint(TestScene_BP) that extends from HorizonDialogueScene and setup defualt widgets for DialogueScene.  
 
-![Design your user widget](./ScreenShot/HorizonDialogue_setup_widget.png)
+![Setup widget](./ScreenShot/HorizonDialogue_setup_widget.png)
   
 3. Add Dialogue Events in TestScene_BP, like following:
 
@@ -94,7 +94,8 @@ DemoVideo:
 What does your plugin do/What is the intent of your plugin
 -----------------------  
 
-This plugin provide many functions for create dialogue events.
+This plugin provide a Dialogue Framework that can help game designer integrate story telling.
+
 
 -----------------------
 Contact and Support
@@ -102,7 +103,7 @@ Contact and Support
 
 email: dorgonman@hotmail.com
 
-discord: https://discord.gg/surfzAz
+discord: https://discord.gg/surfzAz  
 
 -----------------------
  Version History
