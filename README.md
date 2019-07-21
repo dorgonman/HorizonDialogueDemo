@@ -11,9 +11,7 @@ private feed(only for internal use):
 
 Note: 
 
-master branch may be unstable since it is in development, please switch to tags, for example: release/4.20.0
-
-
+master branch may be unstable since it is in development, please switch to tags, for example: release/4.22.0  
 
 ----------------------------------------------  
 How to Run Demo Project before purchase:(Only for Win64 editor build, no source code)
@@ -37,12 +35,8 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 -----------------------  
 System Requirements
 -----------------------  
-Supported UnrealEngine version: 4.23
 
-This plugin integrated functions of my previous plugins, you will need to buy following plugins before you can using this plugin:  
-  [HorizonUI](https://www.unrealengine.com/marketplace/en-US/slug/horizon-ui-plugin)  
-  [HorizonTween](https://www.unrealengine.com/marketplace/en-US/slug/horizontween-plugin)  
-  [HorizonFramework](https://www.unrealengine.com/marketplace/en-US/slug/horizonframework-plugin)  
+Supported UnrealEngine version: 4.23
 
 
 
@@ -58,6 +52,8 @@ PublicDependencyModuleNames.AddRange(new string[] { "HorizonUI", "HorizonTween",
 -----------------------
 User Guide
 -----------------------  
+
+Here is basic process of creating a DialogueScene.
 
 1. Create Dialogue Layout using UserWidget.  
   
@@ -79,31 +75,66 @@ User Guide
 -----------------------
 Technical Details
 -----------------------  
+Features:  
+  
+1. CreateDialogueEvent:  
 
-List of Modules: HorizonDialogue(Runtime), HorizonDialogueEditor(Editor)
+    * WidgetEvents: CreateDialogueMsg, CreateDialogueTalkerNameAndMsg, CreateDialogueMsgWithParam, CreateDialogueMsgWithParamEx, CreateDialogueTextBlock, CreateDialogueImage2D, CreateDialogueUserWidget, CreateDialogueFlipbook, CreateDialogueChoice, CreateDialogueSetWidgetList.  
+      
+    * ActionEvents: CreateDialogueWaitPendingAction, CreateDialogueWaitDuration, CreateDialogueWaitClick.  
+      
+    * SceneEvents: CreateDialogueChangeScene, CreateDialoguePopScene, CreateDialoguePushScene.  
+      
+    * SoundEvents: CreateDialogueSound.  
 
-Intended Platform: All Platforms  
+2. Every DialogueEvent has following callbacks: OnDialogueEventPreStart, OnDialogueEventStart, OnDialogueEventFinished. You can add any custom actions here.
 
-Platforms Tested: Windows
+3. Control speed of Auto process or Skip DialogueEvents.  
+  
+4. DialogueHistoryManager and DialogueHistoryTileView 
+ 
+Code Modules: HorizonDialogue(Runtime), HorizonDialogueEditor(Editor)  
 
-Demo Project: https://github.com/dorgonman/HorizonDialogueDemo
+Number of Blueprints: 0  
 
-DemoVideo: 
+Number of C++ Classes: 56  
+
+Network Replicated: No  
+
+Supported Development Platforms: Win64, Mac, Linux  
+
+Supported Target Build Platforms: All Platforms  
+
+Tested Platform: Win64  
+
+Documentation: https://github.com/dorgonman/HorizonDialogueDemo  
+
+Example Project: https://github.com/dorgonman/HorizonDialogueDemo  
+
+Important/Additional Notes:  
+  
+This plugin integrated functions of my other plugins, you will need to buy following plugins before you use:  
+  [HorizonUI](https://www.unrealengine.com/marketplace/en-US/slug/horizon-ui-plugin)  
+  [HorizonTween](https://www.unrealengine.com/marketplace/en-US/slug/horizontween-plugin)  
+  [HorizonFramework](https://www.unrealengine.com/marketplace/en-US/slug/horizonframework-plugin)  
+
 
 -----------------------
-What does your plugin do/What is the intent of your plugin
+What does your plugin do/What is the intent of your plugin  
 -----------------------  
 
-This plugin provide a Dialogue Framework that can help game designer integrate story telling.
+The intent of this plugin is to provide a framework that can integrate story telling feature in games.  
 
+DemoVideo:  
+TutorialVideo:  
 
 -----------------------
 Contact and Support
 -----------------------  
 
-email: dorgonman@hotmail.com
+Email: dorgonman@hotmail.com
 
-discord: https://discord.gg/surfzAz  
+Discord: https://discord.gg/surfzAz  
 
 -----------------------
  Version History
