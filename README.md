@@ -67,7 +67,7 @@ Here is basic process of creating a DialogueScene.
 
 ![Add Dialogue Events](./ScreenShot/HorizonDialogue_screenshot_1.png)  
   
-4. Push BP_TestScene using HorizonSceneMaanger. 
+4. Push BP_TestScene using HorizonSceneManger. 
 
 ![Start DialogueScene](./ScreenShot/HorizonDialogue_start_dialogue.png)  
   
