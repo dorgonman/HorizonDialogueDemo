@@ -77,7 +77,7 @@ Technical Details
 -----------------------  
 Features:  
   
-1. CreateDialogueEvent:  
+1. Support many DialogueEvent:  
 
     * WidgetEvents: CreateDialogueMsg, CreateDialogueTalkerNameAndMsg, CreateDialogueMsgWithParam, CreateDialogueMsgWithParamEx, CreateDialogueTextBlock, CreateDialogueImage2D, CreateDialogueUserWidget, CreateDialogueFlipbook, CreateDialogueChoice, CreateDialogueSetWidgetList.  
       
@@ -87,11 +87,13 @@ Features:
       
     * SoundEvents: CreateDialogueSound.  
 
-2. Every DialogueEvent has following callbacks: OnDialogueEventPreStart, OnDialogueEventStart, OnDialogueEventFinished. You can add any custom actions here.
+2. Automatically widget visibility control: Target Widget will visible when DialogueEvent start and hide after finished,  
 
-3. Control speed of Auto process or Skip DialogueEvents.  
+3. Every DialogueEvent has following callbacks: OnDialogueEventPreStart, OnDialogueEventStart, OnDialogueEventFinished. You can add any custom actions here.
+
+4. Control speed of Auto process or Skip DialogueEvents.  
   
-4. DialogueHistoryManager and DialogueHistoryTileView 
+5. DialogueHistoryManager and DialogueHistoryTileView 
  
 Code Modules: HorizonDialogue(Runtime), HorizonDialogueEditor(Editor)  
 
@@ -124,6 +126,7 @@ What does your plugin do/What is the intent of your plugin
 -----------------------  
 
 The intent of this plugin is to provide a framework that can integrate story telling feature in games.  
+
 
 DemoVideo:  
 TutorialVideo:  
