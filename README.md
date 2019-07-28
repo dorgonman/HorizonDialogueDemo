@@ -128,8 +128,8 @@ What does your plugin do/What is the intent of your plugin
 The intent of this plugin is to provide a framework that can integrate story telling feature in games.  
 
 
-DemoVideo:  
-TutorialVideo:  
+DemoVideo:  https://github.com/dorgonman/HorizonDialogueDemo
+TutorialVideo:  https://www.youtube.com/watch?v=ABFIJdYWLbk&feature=youtu.be
 
 -----------------------
 Contact and Support
