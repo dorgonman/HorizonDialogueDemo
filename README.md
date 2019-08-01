@@ -95,11 +95,11 @@ Features:
   
 5. DialogueHistoryManager and DialogueHistoryTileView 
  
-Code Modules: HorizonDialogue(Runtime), HorizonDialogueEditor(Editor)  
+Code Modules: HorizonDialogue(Runtime), HorizonDialogueEditor(Editor), HorizonFramework(Runtime), HorizonFrameworkEditor(Editor), HorizonTween(Runtime), HorizonUI(Runtime)
 
 Number of Blueprints: 0  
 
-Number of C++ Classes: 56  
+Number of C++ Classes: 104  
 
 Network Replicated: No  
 
@@ -115,7 +115,7 @@ Example Project: https://github.com/dorgonman/HorizonDialogueDemo
 
 Important/Additional Notes:  
   
-This plugin integrated functions of my other plugins, you will need to buy following plugins before you use:  
+This plugin integrated functions of my other plugins, all features and codes in following plugins are included:  
   [HorizonUI](https://www.unrealengine.com/marketplace/en-US/slug/horizon-ui-plugin)  
   [HorizonTween](https://www.unrealengine.com/marketplace/en-US/slug/horizontween-plugin)  
   [HorizonFramework](https://www.unrealengine.com/marketplace/en-US/slug/horizonframework-plugin)  
