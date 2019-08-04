@@ -107,7 +107,7 @@ Supported Development Platforms: Win64, Mac, Linux
 
 Supported Target Build Platforms: All Platforms  
 
-Tested Platform: Win64  
+Tested Platform: Win64, Android  
 
 Documentation: https://github.com/dorgonman/HorizonDialogueDemo  
 
