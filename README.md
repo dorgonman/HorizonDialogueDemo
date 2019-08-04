@@ -24,7 +24,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    4.23.0
+                    4.22.0
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -36,7 +36,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 System Requirements
 -----------------------  
 
-Supported UnrealEngine version: 4.23
+Supported UnrealEngine version: 4.22
 
 
 
@@ -143,6 +143,6 @@ Discord: https://discord.gg/surfzAz
  Version History
 -----------------------  
 
-*4.23.0  
+*4.22.0  
 
         NEW: First Version including core features.  
