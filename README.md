@@ -128,7 +128,7 @@ What does your plugin do/What is the intent of your plugin
 The intent of this plugin is to provide a framework that can integrate story telling feature in games.  
 
 
-[DemoVideo](https://www.youtube.com/watch?v=z7MBoe3-o_M&t=29s)  
+[DemoVideo](https://www.youtube.com/watch?v=z7MBoe3-o_M)  
 [TutorialVideo](https://www.youtube.com/watch?v=hjI2RDx48yc&feature=youtu.be)
 
 -----------------------
