@@ -6,7 +6,7 @@ public feed: nuget.org
 
 private feed(only for internal use): 
 
-[![Azure Artifacts package in  feed in ](https://hsgame.feeds.visualstudio.com/_apis/public/Packaging/Feeds/d5ed5eb7-dd62-4af0-a6a4-8862be2b9f7f/Packages/9d48ed70-fa14-46f9-b53b-118ce741dbdc/Badge)](https://hsgame.visualstudio.com/_Packaging?feed=d5ed5eb7-dd62-4af0-a6a4-8862be2b9f7f&package=9d48ed70-fa14-46f9-b53b-118ce741dbdc&preferRelease=true&_a=package)
+[![HorizonDialogueDemo package in UE4HorizonPlugin feed in Azure Artifacts](https://feeds.dev.azure.com/hsgame/_apis/public/Packaging/Feeds/319fdc64-73ff-4910-b3b8-2ee206a67a49/Packages/98916bea-3801-4c6a-8b2e-a167a70676a4/Badge)](https://dev.azure.com/hsgame/UE4HorizonPlugin/_packaging?_a=package&feed=319fdc64-73ff-4910-b3b8-2ee206a67a49&package=98916bea-3801-4c6a-8b2e-a167a70676a4&preferRelease=true)
 
 
 Note: 
