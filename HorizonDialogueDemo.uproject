@@ -17,7 +17,8 @@
 	"Plugins": [
 		{
 			"Name": "HorizonDialoguePlugin",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fcce783f7c8a489cbd84cd4dd366e3ed"
 		}
 	]
 }
