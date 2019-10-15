@@ -24,7 +24,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    4.23.0
+                    4.23.1
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -142,6 +142,9 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+*4.23.1  
+
+        BugFix: [HorizonDialogueScene] Fix Editor crash  
 
 *4.23.0  
 
