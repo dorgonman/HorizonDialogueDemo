@@ -9,6 +9,7 @@ public class HorizonDialogueDemoTarget : TargetRules
     {
 		Type = TargetType.Game;
         ExtraModuleNames.AddRange(new string[] { "HorizonDialogueDemo" });
+        DefaultBuildSettings = BuildSettingsVersion.V2;
     }
 
 }

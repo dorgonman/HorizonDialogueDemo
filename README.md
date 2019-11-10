@@ -11,7 +11,7 @@ private feed(only for internal use):
 
 Note: 
 
-master branch may be unstable since it is in development, please switch to tags, for example: release/4.22.0  
+master branch may be unstable since it is in development, please switch to tags, for example: editor/4.24.0  
 
 ----------------------------------------------  
 How to Run Demo Project before purchase:(Only for Win64 editor build, no source code)
@@ -24,7 +24,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    4.23.1
+                    4.24.0
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -142,6 +142,17 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+
+*4.24.0   
+
+        New: [HorizonButtonUserWidget] Button Focused Callback Logic  
+
+        New: [HorizonRadioButton]   
+
+        New: [UHorizonDialogueMsgTextBlock] Implement CharAdvancedDelegate, so user can add the typewriter sound in this callback.  
+
+        BugFix: [UHorizonDialogueMsgTextBlock] Should not call AddBackgroundButton if segInfo.HypertextReference not set  
+
 *4.23.1  
 
         BugFix: [HorizonDialogueScene] Fix Editor crash  
