@@ -24,7 +24,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    4.23.1
+                    4.23.2
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -142,6 +142,12 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+
+
+*4.23.2  
+
+	BugFix: EditCondition not work    
+
 *4.23.1  
 
         BugFix: [HorizonDialogueScene] Fix Editor crash  
