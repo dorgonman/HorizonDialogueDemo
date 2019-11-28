@@ -143,8 +143,15 @@ Discord: https://discord.gg/surfzAz
  Version History
 -----------------------  
 
-
 *4.23.2  
+
+  New: [HorizonButtonUserWidget] Button Focused Callback Logic  
+
+  New: [HorizonRadioButton]   
+
+  New: [UHorizonDialogueMsgTextBlock] Implement CharAdvancedDelegate, so user can add the typewriter sound in this callback.  
+
+  BugFix: [UHorizonDialogueMsgTextBlock] Should not call AddBackgroundButton if segInfo.HypertextReference not set  
 
 	BugFix: EditCondition not work    
 
