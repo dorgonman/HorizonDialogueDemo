@@ -143,6 +143,10 @@ Discord: https://discord.gg/surfzAz
  Version History
 -----------------------  
 
+*4.23.3  
+
+   [Fix] InlineEditConditionToggle Crash
+
 *4.23.2  
 
   New: [HorizonButtonUserWidget] Button Focused Callback Logic  
