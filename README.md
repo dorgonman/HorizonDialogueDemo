@@ -36,7 +36,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 System Requirements
 -----------------------  
 
-Supported UnrealEngine version: 4.22-4.23
+Supported UnrealEngine version: 4.22-4.24
 
 
 
@@ -145,13 +145,12 @@ Discord: https://discord.gg/surfzAz
 
 *4.24.0   
 
-        New: [HorizonButtonUserWidget] Button Focused Callback Logic  
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 4.24  
 
-        New: [HorizonRadioButton]   
+  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 4.24  
 
-        New: [UHorizonDialogueMsgTextBlock] Implement CharAdvancedDelegate, so user can add the typewriter sound in this callback.  
+  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 4.24  
 
-        BugFix: [UHorizonDialogueMsgTextBlock] Should not call AddBackgroundButton if segInfo.HypertextReference not set  
 
 *4.23.1  
 
