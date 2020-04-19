@@ -19,9 +19,15 @@ variables:
     - name: Pipeline.NugetAzureDevopsFeedName
       value: 'UE4HorizonPlugin'
 
-# ==================settable variable at queue time=============
-#   PipelineInput.bCleanSCM: true
-
+parameters:
+  - name: bCleanSCM
+    displayName: Pipeline bCleanSCM
+    type: boolean
+    default: false
+    values:
+    - true
+    - false
+        
 resources:
   repositories:
     - repository: templates
