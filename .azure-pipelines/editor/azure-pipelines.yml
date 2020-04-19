@@ -51,6 +51,7 @@ stages:
           group: 'ue4-build-var-mac-group'
           pool: 'Default-MacOS'
           platform: 'mac'
+          bCleanSCM: ${{ parameters.bCleanSCM }}
     
   - stage: Test
     jobs: 
