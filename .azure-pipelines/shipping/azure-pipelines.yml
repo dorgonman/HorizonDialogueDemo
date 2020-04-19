@@ -38,8 +38,6 @@ jobs:
           group: 'ue4-build-var-win-group'
           pool: 'Default'
           platform: 'win64'
-          sonarQubeServerURL: 'http://localhost:9000'
-          sonarQubeCliProjectKey: 'HorizonDialogueDemo'
           # dependsOn:
           #   - 'Build_Win64_Standalone'
  
