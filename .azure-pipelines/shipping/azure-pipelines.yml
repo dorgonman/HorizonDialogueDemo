@@ -16,8 +16,14 @@ variables:
       value: '.'
 
 
-# ==================settable variable at queue time=============
-#   PipelineInput.bCleanSCM: true
+parameters:
+  - name: bCleanSCM
+    displayName: Pipeline bCleanSCM
+    type: boolean
+    default: false
+    values:
+    - true
+    - false
 
 resources:
   repositories:
@@ -30,3 +36,5 @@ jobs:
     #- ${ if eq(variables['Pipeline.bBuildWin64'], 'true') }:
 
     - template: job/verify-plugin-build.yml@templates
+      parameters:
+        bCleanSCM: ${{ parameters.bCleanSCM }}
