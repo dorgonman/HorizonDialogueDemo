@@ -45,7 +45,13 @@ stages:
           platform: 'win64'
           bCleanSCM: ${{ parameters.bCleanSCM }}
 
-
+    - template: job/build-game-editor.yml@templates
+      parameters:
+          name: 'Build_Mac_GameEditor'
+          group: 'ue4-build-var-mac-group'
+          pool: 'Default-MacOS'
+          platform: 'mac'
+    
   - stage: Test
     jobs: 
     - template: job/upload-sonarqube.yml@templates
@@ -54,7 +60,7 @@ stages:
           group: 'ue4-build-var-win-group'
           pool: 'Default'
           platform: 'win64'
-          
+
   - stage: Deploy
     jobs:
     - template: job/create-and-push-nuget-package.yml@templates
