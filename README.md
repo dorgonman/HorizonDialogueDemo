@@ -4,11 +4,6 @@ public feed: nuget.org
 
 [![nuget.org package in feed in ](https://img.shields.io/nuget/v/HorizonDialogueDemo.svg)](https://www.nuget.org/packages/HorizonDialogueDemo/)
 
-private feed(only for internal use): 
-
-[![HorizonDialogueDemo package in UE4HorizonPlugin feed in Azure Artifacts](https://feeds.dev.azure.com/hsgame/_apis/public/Packaging/Feeds/319fdc64-73ff-4910-b3b8-2ee206a67a49/Packages/98916bea-3801-4c6a-8b2e-a167a70676a4/Badge)](https://dev.azure.com/hsgame/UE4HorizonPlugin/_packaging?_a=package&feed=319fdc64-73ff-4910-b3b8-2ee206a67a49&package=98916bea-3801-4c6a-8b2e-a167a70676a4&preferRelease=true)
-
-
 Note: 
 
 master branch may be unstable since it is in development, please switch to tags, for example: editor/4.25.0  
@@ -24,7 +19,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    4.25.0
+                    4.26.0
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -36,7 +31,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 System Requirements
 -----------------------  
 
-Supported UnrealEngine version: 4.22-4.25
+Supported UnrealEngine version: 4.22-4.26
 
 
 
@@ -97,9 +92,6 @@ Features:
  
 Code Modules: HorizonDialogue(Runtime), HorizonDialogueEditor(Editor), HorizonFramework(Runtime), HorizonFrameworkEditor(Editor), HorizonTween(Runtime), HorizonUI(Runtime)
 
-Number of Blueprints: 0  
-
-Number of C++ Classes: 104  
 
 Network Replicated: No  
 
@@ -142,6 +134,60 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+
+*4.26.0   
+
+* [New] Implement HorizonDialogueGraphPanelPinFactory that can show image and text in BP Nodes.  
+  
+* [New] Implement New DialogueEvents: HorizonDialogueEventDisplayPaper2DActor, HorizonDialogueEventDisplayPaperFlipbookActor, HorizonDialogueEventDisplaySkeletalMeshActor, HorizonDialogueEventDisplayPaperSpriteActor, HorizonDialogueEventSetActorList and HorizonDialogueEventPlayLevelSequence.
+
+* [Refactor] Use RemoveScene instead of PopScene when DialogueEventListFinished
+
+* [BugFix][HorizonDialogueEngine] CreateDialogueMsgWithParam should Check if UserWidget exist
+
+* [Refactor] bAutoEvent, bSkipEvent and Implement FHorizonDialogueDelegates::OnProcessSkipEventNative
+
+* [BugFix][HorizonDialogueEventDisplayChoice] clear ChoiceButtonList before GetWidgetFromName
+
+* [BugFix] FHorizonDialogueDelegates::OnDialogueEventPreStartNative should be called in DialogueEventStart
+
+* [Refactor] Don't need RestartEditor when bEnableHistory now
+
+* [New] Implement GetTargetWidget for Dialogue Events
+
+* [New] Implement FHorizonDialogueDelegates::OnDialogueEventFinished and FHorizonDialogueDelegates::OnChoiceButtonClickedNative
+
+* [Refactor] Remove HorizonDialogueHistoryManager and move functions to HorizonDialogueSystem
+
+* [New] Implement FHorizonDialogueDelegates::OnDialogueEventStartNative for all DialogueEvent
+
+* AB#1675 AB#1109 [New][DialogueEvent] Implement TalkSequence, MsgSequence
+
+* [Refactor][HorizonDialogueFunctionLibrary] SpawnSound should use const FHorizonDialogueEventSoundParameters
+
+* [New] Implement and Refactor SoundSpawnMethod for Dialogue Event
+
+* [New][HorizonDialogueEvent] Implement AddTagUnique, GetTags
+
+* [New][HorizonDialogueEventDisplayChoice] Implement GetChoiceButtonList
+
+* [New][HorizonDialogueEngine] Implement GetCurrentEvent
+
+* [New][HorizonDialogueHistoryI] GetItemObject
+
+* [BugFix][HorizonDialogueEventDisplayChoice] Fix Choice event logic for GoToEventByTag
+
+* [New][HorizonDialogueEngine] Implement GoToEventIndex, GoToEventByTag
+
+* [Refactor][HorizonDialogueHistoryManager] OnDialogueEventPreStart callback implementation adjust
+
+* [Refactor] Coding style
+
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 4.26.0  
+
+  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 4.26.0  
+
+  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 4.26.0  
 
 *4.25.0   
 
