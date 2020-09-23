@@ -53,16 +53,21 @@ Here is basic process of creating a DialogueScene.
 1. Create Dialogue Layout using UserWidget.  
   
 ![Design your user widget](./ScreenShot/HorizonDialogue_screenshot_8.png)  
+
+2. Set widgets that you want to be accessed by DialogueSystem as Variable. 
+
+![Set Is Variable](./ScreenShot/HorizonDialogue_IsVariable.png)
   
-2. Create Blueprint(TestScene_BP) that extends from HorizonDialogueScene and setup defualt widgets for DialogueScene.  
+3. Create Blueprint(TestScene_BP) that extends from HorizonDialogueScene and setup defualt widgets for DialogueScene.   
+  Note: The widget need set to Variable in step 2 in order to be selectable in drop-down list.
 
 ![Setup widget](./ScreenShot/HorizonDialogue_setup_widget.png)
   
-3. Add Dialogue Events in TestScene_BP, like following:
+4. Add Dialogue Events in TestScene_BP, like following:
 
 ![Add Dialogue Events](./ScreenShot/HorizonDialogue_screenshot_1.png)  
   
-4. Push BP_TestScene using HorizonSceneManger. 
+5. Push BP_TestScene using HorizonSceneManger. 
 
 ![Start DialogueScene](./ScreenShot/HorizonDialogue_start_dialogue.png)  
   
