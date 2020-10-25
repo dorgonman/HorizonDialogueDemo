@@ -16,11 +16,41 @@ variables:
       value: '.'
 
 
+
 parameters:
   - name: bCleanSCM
     displayName: Pipeline bCleanSCM
     type: boolean
     default: false
+    values:
+    - true
+    - false
+
+  - name: bBuildWin64
+    displayName: Pipeline bBuildWin64
+    type: boolean
+    default: true
+    values:
+    - true
+    - false
+  - name: bBuildAndroid
+    displayName: Pipeline bBuildAndroid
+    type: boolean
+    default: true
+    values:
+    - true
+    - false
+  - name: bBuildMac
+    displayName: Pipeline bBuildMac
+    type: boolean
+    default: true
+    values:
+    - true
+    - false
+  - name: bBuildIOS
+    displayName: Pipeline bBuildIOS
+    type: boolean
+    default: true
     values:
     - true
     - false
@@ -38,3 +68,7 @@ jobs:
     - template: job/verify-plugin-build.yml@templates
       parameters:
         bCleanSCM: ${{ parameters.bCleanSCM }}
+        bBuildWin64: ${{ parameters.bBuildWin64 }}
+        bBuildAndroid: ${{ parameters.bBuildAndroid }}
+        bBuildMac: ${{ parameters.bBuildMac }}
+        bBuildIOS: ${{ parameters.bBuildIOS }}
