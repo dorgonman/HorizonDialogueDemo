@@ -1,6 +1,3 @@
-#!/bin/sh
-set -e
-
 GIT_PATH=$(grep path .gitmodules | sed 's/.*= //')
 GIT_URL=$(grep url .gitmodules | sed 's/.*= //')
 #echo ${GIT_PATH}
@@ -26,5 +23,5 @@ for (( i=0; i<${nArray}; i++ ));
 do
 #echo "${i} path:" ${GIT_PATH_ARRAY[$i]}
 #echo "${i} url:" ${GIT_URL_ARRAY[$i]}
-git submodule add --force ${GIT_URL_ARRAY[$i]} ${GIT_PATH_ARRAY[$i]} 
+git submodule add ${GIT_URL_ARRAY[$i]} ${GIT_PATH_ARRAY[$i]}
 done

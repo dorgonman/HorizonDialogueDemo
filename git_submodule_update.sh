@@ -1,4 +1,2 @@
-#!/bin/sh
-set -e
 git submodule sync --recursive
-git submodule update --init --recursive --force
+git submodule update --init --recursive
