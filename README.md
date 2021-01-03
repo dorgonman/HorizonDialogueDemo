@@ -1,4 +1,4 @@
-[![Build Status](https://hsgame.visualstudio.com/UE4HorizonPlugin/_apis/build/status/HorizonDialogue/HorizonDialogueDemo-Shipping-CI?branchName=master)](https://hsgame.visualstudio.com/UE4HorizonPlugin/_build/latest?definitionId=32&branchName=master)
+[![Build Status](https://dev.azure.com/hsgame/UE4HorizonPlugin/_apis/build/status/HorizonDialogue/HorizonDialogueDemo-Shipping-CI?repoName=HorizonDialogueDemo&branchName=main)](https://dev.azure.com/hsgame/UE4HorizonPlugin/_build/latest?definitionId=32&repoName=HorizonDialogueDemo&branchName=main)
 
 public feed: nuget.org  
 
