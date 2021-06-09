@@ -17,7 +17,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    4.26.0
+                    4.27.0
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -29,7 +29,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 System Requirements
 -----------------------  
 
-Supported UnrealEngine version: 4.22-4.26
+Supported UnrealEngine version: 4.22-4.27
 
 
 
@@ -138,6 +138,24 @@ Discord: https://discord.gg/surfzAz
  Version History
 -----------------------  
 
+*4.27.0   
+
+* [BugFix] potentially uninitialized local pointer variable 'pOutActor' used
+
+* AB#1958 [New][Event] Implement EventName for all DialogueEventParameter Implementation
+
+* [Refactor] Don't Add to DialogueEventImag if WidgetName is none when CreateDialogueTalkerNameAndMsgWithImage
+
+* AB#1920 [New] Use FHorizonDialogueEventImageParameters for TalkWithImage and TalkWithImageSequence
+
+* AB#1932 [BugFix] Crash if we promote input pin to variable for Custom SGraphNodePin
+
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 4.27.0  
+
+  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 4.27.0  
+
+  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 4.27.0  
+
 *4.26.0   
 
 * [New] Implement HorizonDialogueGraphPanelPinFactory that can show image and text in BP Nodes.  
@@ -186,11 +204,11 @@ Discord: https://discord.gg/surfzAz
 
 * [Refactor] Coding style
 
-  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 4.26.0  
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 4.27.0  
 
-  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 4.26.0  
+  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 4.27.0  
 
-  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 4.26.0  
+  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 4.27.0  
 
 *4.25.0   
 
