@@ -150,6 +150,8 @@ Discord: https://discord.gg/surfzAz
 
 * AB#1932 [BugFix] Crash if we promote input pin to variable for Custom SGraphNodePin
 
+* [Performance] Implement DECLARE_HORIZONDIALOGUE_QUICK_SCOPE_CYCLE_COUNTER for performance measure
+
   Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 4.27.0  
 
   Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 4.27.0  
