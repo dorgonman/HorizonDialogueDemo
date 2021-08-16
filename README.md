@@ -142,15 +142,29 @@ Discord: https://discord.gg/surfzAz
 
 * [BugFix] potentially uninitialized local pointer variable 'pOutActor' used
 
-* AB#1958 [New][Event] Implement EventName for all DialogueEventParameter Implementation
+* [New][Event] Implement EventName for all DialogueEventParameter Implementation
 
 * [Refactor] Don't Add to DialogueEventImag if WidgetName is none when CreateDialogueTalkerNameAndMsgWithImage
 
-* AB#1920 [New] Use FHorizonDialogueEventImageParameters for TalkWithImage and TalkWithImageSequence
+* [New] Use FHorizonDialogueEventImageParameters for TalkWithImage and TalkWithImageSequence
 
-* AB#1932 [BugFix] Crash if we promote input pin to variable for Custom SGraphNodePin
+* [BugFix] Crash if we promote input pin to variable for Custom SGraphNodePin
 
 * [Performance] Implement DECLARE_HORIZONDIALOGUE_QUICK_SCOPE_CYCLE_COUNTER for performance measure
+
+* [Submodule] Source\HorizonUI
+
+* [BugFix] Hotfix Explicit PCH compile error
+
+* [Optimization] Add PrivatePCHHeaderFile to .Build.cs to optimizae build speed
+
+* [Refactor][DialogueQueue] Use DialogueScene to check if we need dequeue instead of SceneManager
+
+* [New][HorizonDialogueQueueComponent] Use Default SceneManager
+
+* [New][HorizonDialogueFunctionLibrary] Implement GetDialogueQueue
+
+* [New] Implement HorizonDialogueQueueComponent with DialogueContext Support
 
   Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 4.27.0  
 
