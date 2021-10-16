@@ -138,6 +138,12 @@ Discord: https://discord.gg/surfzAz
  Version History
 -----------------------  
 
+*4.27.1 
+
+* [BugFix] Fix missing category in HorizonDialogueType
+
+* [BugFix] Fix Sonarqube bug warning
+
 *4.27.0   
 
 * [BugFix] potentially uninitialized local pointer variable 'pOutActor' used
