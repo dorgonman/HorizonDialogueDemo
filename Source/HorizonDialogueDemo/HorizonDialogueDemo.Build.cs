@@ -3,7 +3,6 @@
 using System;
 using System.IO;
 using UnrealBuildTool;
-using Tools.DotNETCommon;
 
 public class HorizonDialogueDemo : ModuleRules
 {
