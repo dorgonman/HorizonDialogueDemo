@@ -139,6 +139,8 @@ Discord: https://discord.gg/surfzAz
 -----------------------  
 *5.0.0   
 
+* [BugFix] Should call NotifyCustomizationModuleChanged when RegisterCustomClassLayout/UnRegisterCustomClassLayout
+
   Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 5.0.0  
 
   Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 5.0.0  
