@@ -10,7 +10,7 @@ master branch may be unstable since it is in development, please switch to tags,
 
 ----------------------------------------------  
 How to Run Demo Project before purchase:(Only for Win64 editor build, no source code)
-1. Double click install_game_package_from_nuget_org.cmd, and check if UE4Editor-*.dll are installed to Binaries\Win64 and Plugins\HorizonDialoguePlugin\Binaries\Win64\
+1. Double click install_game_package_from_nuget_org.cmd, and check if UnrealEditor-*.dll are installed to Binaries\Win64 and Plugins\HorizonDialoguePlugin\Binaries\Win64\
 2. Double click HorizonDialogueDemo.uproject  
 ----------------------------------------------
 
@@ -137,6 +137,14 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+
+*5.0.1   
+
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 5.0.1
+    * [BugFix][HorizonDialogueMsgTextBlock] Fix MemoryLeak when parse segmentStr using FXmlFile
+    * [New][DialogueMsgTextBlock] Implement SpaceDecorator and Add Tag param to Segment
+    * [New][DialogueMsgTextBlock] Add BuildSegment call for Decorator class and rename BuildDecoration to BuildBlockDecoration  
+
 *5.0.0   
 
 * [BugFix] Should call NotifyCustomizationModuleChanged when RegisterCustomClassLayout/UnRegisterCustomClassLayout
