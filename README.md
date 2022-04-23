@@ -17,7 +17,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    5.0.0
+                    5.0.1
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -139,6 +139,10 @@ Discord: https://discord.gg/surfzAz
 -----------------------  
 
 *5.0.1   
+
+* [BugFix][WaitDuration] Fix WaitDuration InitProcess not breaking
+
+* [Refactor] Check nullptr before use for some functions
 
   Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 5.0.1
     * [BugFix][HorizonDialogueMsgTextBlock] Fix MemoryLeak when parse segmentStr using FXmlFile
