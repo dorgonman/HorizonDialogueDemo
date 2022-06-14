@@ -137,6 +137,12 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+*5.1.0  
+
+* [DialogueQueueComponent] Expose member to protected so it can be modified by it's child
+
+* AB#2647 [DialogueFunctionLibrary] ShouldStopAutoOrSkipEventOnDialogueSceneRemoved for DialogueQueueComponent
+
 
 *5.0.1   
 
