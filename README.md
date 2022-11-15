@@ -17,7 +17,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    5.0.1
+                    5.1.0
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -29,7 +29,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 System Requirements
 -----------------------  
 
-Supported UnrealEngine version: 4.22-5.0
+Supported UnrealEngine version: 4.22-5.1
 
 
 
@@ -142,6 +142,12 @@ Discord: https://discord.gg/surfzAz
 * [DialogueQueueComponent] Expose member to protected so it can be modified by it's child
 
 * AB#2647 [DialogueFunctionLibrary] ShouldStopAutoOrSkipEventOnDialogueSceneRemoved for DialogueQueueComponent
+
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 5.1.0  
+
+  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 5.1.0  
+
+  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 5.1.0 
 
 
 *5.0.1   
