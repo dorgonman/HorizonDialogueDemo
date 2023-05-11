@@ -26,3 +26,4 @@ Releases
 .scannerwork
 /Build/Script/**/bin/
 /Build/Script/**/obj/
+/.vsconfig

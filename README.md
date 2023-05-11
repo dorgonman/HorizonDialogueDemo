@@ -1,4 +1,6 @@
-[![Build Status](https://dev.azure.com/hsgame/UE4HorizonPlugin/_apis/build/status/HorizonDialogue/HorizonDialogueDemo-Shipping-CI?repoName=HorizonDialogueDemo&branchName=main)](https://dev.azure.com/hsgame/UE4HorizonPlugin/_build/latest?definitionId=32&repoName=HorizonDialogueDemo&branchName=main)
+marketplace: https://www.unrealengine.com/marketplace/en-US/product/horizondialogue-plugin
+
+[![Build Status](https://dev.azure.com/hsgame/UEHorizonPlugin/_apis/build/status/HorizonDialogue/HorizonDialogueDemo-Shipping-CI?repoName=HorizonDialogueDemo&branchName=main)](https://dev.azure.com/hsgame/UEHorizonPlugin/_build/latest?definitionId=32&repoName=HorizonDialogueDemo&branchName=main)
 
 public feed: nuget.org  
 
@@ -17,7 +19,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    5.1.0
+                    5.2.0
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -29,7 +31,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 System Requirements
 -----------------------  
 
-Supported UnrealEngine version: 4.22-5.1
+Supported UnrealEngine version: 4.22-5.2
 
 
 
@@ -137,6 +139,21 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+
+*5.2.0 
+
+* [DialogueActionLibrary] Support UHorizonDialogueMsgTextBlock for Tween Widget Color Action
+
+* [Refactor][Break][DialogueEvent] Fix AddTweenEvent param from pTweenEvent to InTweenEvent
+
+* [DialogueHistoryTileView] Refactor and inherited from UHorizonTileView
+
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 5.2.0  
+
+  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 5.2.0  
+
+  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 5.2.0 
+
 *5.1.0  
 
 * [DialogueQueueComponent] Expose member to protected so it can be modified by it's child

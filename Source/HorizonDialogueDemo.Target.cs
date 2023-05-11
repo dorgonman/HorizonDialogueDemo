@@ -10,7 +10,12 @@ public class HorizonDialogueDemoTarget : TargetRules
 		Type = TargetType.Game;
         ExtraModuleNames.AddRange(new string[] { "HorizonDialogueDemo" });
         DefaultBuildSettings = BuildSettingsVersion.V2;
-        IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;
+        IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
+        //{
+        //   bUsePCHFiles = false;
+        //   bUseSharedPCHs = false;
+        //   bUseUnityBuild = false;
+        //}
     }
 
 }
