@@ -140,6 +140,15 @@ Discord: https://discord.gg/surfzAz
  Version History
 -----------------------  
 
+*5.3.1
+
+* [BugFix] Fix FHorizonDialogueEventMsgDataTable can't assign DataTable
+
+* [BugFix] Fix MsgFromDataTable crash
+
+* [Refactor] RawPointer to TObjectPtr
+
+
 *5.3.0
 
   Update to 5.3.0
@@ -149,6 +158,14 @@ Discord: https://discord.gg/surfzAz
   Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 5.3.0  
 
   Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 5.3.0 
+
+
+*5.2.1
+
+* [BugFix] Fix FHorizonDialogueEventMsgDataTable can't assign DataTable
+
+* [BugFix] Fix MsgFromDataTable crash
+
 
 *5.2.0 
 
