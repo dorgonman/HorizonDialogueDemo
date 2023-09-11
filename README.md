@@ -140,6 +140,10 @@ Discord: https://discord.gg/surfzAz
  Version History
 -----------------------  
 
+*5.2.1
+
+* [BugFix] Fix FHorizonDialogueEventMsgDataTable can't assign DataTable
+
 *5.2.0 
 
 * [DialogueActionLibrary] Support UHorizonDialogueMsgTextBlock for Tween Widget Color Action
