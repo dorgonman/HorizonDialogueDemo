@@ -19,7 +19,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    5.4.0
+                    5.4.1
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -139,6 +139,23 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+
+*5.4.1
+
+    Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 5.4.1
+        * [New] Implement Push/Change Scene by SoftClass
+        * [New] Implement Push/Change Scene using UserWidget Only, without Create Scene BP Asset
+        * [Optimization] include UE_INLINE_GENERATED_CPP_BY_NAME to all .cpp for increase compile time
+
+*5.4.0
+
+  Update to 5.4.0
+
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 5.4.0  
+
+  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 5.4.0  
+
+  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 5.4.0 
 
 *5.3.1
 
