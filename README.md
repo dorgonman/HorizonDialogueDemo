@@ -19,7 +19,7 @@ How to Run Demo Project before purchase:(Only for Win64 editor build, no source 
 
 ----------------------------------------------
               HorizonDialoguePlugin
-                    5.6.0
+                    5.7.0
          http://dorgon.horizon-studio.net
           	dorgonman@hotmail.com
 ----------------------------------------------
@@ -139,6 +139,17 @@ Discord: https://discord.gg/surfzAz
 -----------------------
  Version History
 -----------------------  
+
+*5.7.0
+
+  Update to 5.7.0
+
+  Update [HorizonUI](https://github.com/dorgonman/HorizonUIPluginDemo) to 5.7.0  
+
+  Update [HorizonTween](https://github.com/dorgonman/HorizonTweenDemo) to 5.7.0  
+
+  Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 5.7.0 
+
 *5.6.0
 
   Update to 5.6.0
