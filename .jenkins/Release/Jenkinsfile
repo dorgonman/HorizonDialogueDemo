@@ -1,0 +1,7 @@
+// .jenkins/Release/Jenkinsfile — release publish entrypoint for HorizonDialogueDemo.
+@Library('jenkins-unreal-pipeline-library') _
+
+unrealReleaseDeployPipeline(
+    upstreamJob: 'HorizonPlugin/HorizonDialogueDemo/Build/Development',
+    ugsBuildJob: 'HorizonPlugin/HorizonDialogueDemo/Build/UGSBuild'
+)
