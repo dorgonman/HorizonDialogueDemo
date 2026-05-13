@@ -1,7 +1,9 @@
 [submodule "Plugins/HorizonDialoguePlugin"]
 	path = Plugins/HorizonDialoguePlugin
 	url = https://kanohorizonia@dev.azure.com/kanohorizonia/UEHorizonPlugin/_git/HorizonDialoguePlugin
+	branch = main
 
 [submodule "Build/Base"]
 	path = Build/Base
 	url = https://dev.azure.com/kanohorizonia/EpicGames/_git/KanoUnrealBuildTool
+	branch = main

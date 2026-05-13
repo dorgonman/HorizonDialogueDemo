@@ -28,3 +28,6 @@ Releases
 /Build/Script/**/obj/
 /.vsconfig
 /Build/Script/HorizonDialogueDemo.Automation/*.props
+/.kano/cache
+/Build/Script/utilities/__pycache__/*.pyc
+.kano/

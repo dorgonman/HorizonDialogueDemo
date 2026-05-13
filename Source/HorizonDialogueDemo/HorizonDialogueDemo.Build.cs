@@ -10,7 +10,16 @@ public class HorizonDialogueDemo : ModuleRules
         : base(Target)
     {
         PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
-        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+        PublicDependencyModuleNames.AddRange(new string[] { 
+            "Core", 
+            "CoreUObject", 
+            "Engine", 
+            "InputCore",
+            "HorizonDialogue",
+            "HorizonUI",
+            "HorizonTween",
+            "HorizonFramework"
+        });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
