@@ -1,0 +1,224 @@
+{
+	"devices": [
+		{
+			"deviceName": "redacted-device",
+			"instance": "redacted-instance",
+			"instanceName": "redacted-instance",
+			"platform": "Windows",
+			"oSVersion": "Windows (redacted)",
+			"model": "redacted-model",
+			"gPU": "redacted-gpu",
+			"cPUModel": "redacted-cpu",
+			"rAMInGB": "redacted",
+			"renderMode": "D3D12_SM5",
+			"rHI": "D3D12 (SM5)",
+			"appInstanceLog": ""
+		}
+	],
+	"reportCreatedOn": "2026.06.01-13.00.03",
+	"succeeded": 13,
+	"succeededWithWarnings": 0,
+	"failed": 0,
+	"notRun": 0,
+	"inProcess": 0,
+	"totalDuration": 2.182269334793091,
+	"comparisonExported": false,
+	"comparisonExportDirectory": "[redacted-path]",
+	"tests": [
+		{
+			"testDisplayName": "HelloWorld",
+			"fullTestPath": "Plugin.HorizonFramework.HorizonFrameworkTest.HelloWorld",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.0024549998342990875,
+			"dateTime": "2026.06.01-13.00.00",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "EnumValidation",
+			"fullTestPath": "Plugin.SmokeTest.HorizonUI.EnumValidation",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.0046642012894153595,
+			"dateTime": "2026.06.01-13.00.00",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "ModuleLoad",
+			"fullTestPath": "Plugin.SmokeTest.HorizonUI.ModuleLoad",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.003917500376701355,
+			"dateTime": "2026.06.01-13.00.00",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "StructInstantiation",
+			"fullTestPath": "Plugin.SmokeTest.HorizonUI.StructInstantiation",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.010997399687767029,
+			"dateTime": "2026.06.01-13.00.00",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "Success",
+			"fullTestPath": "Plugin.SmokeTest.HorizonUI.Success",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.0037028007209300995,
+			"dateTime": "2026.06.01-13.00.00",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "CheckAlphaResult",
+			"fullTestPath": "Plugin.UnitTests.HorizonTween.TweenActorEvent.MoveFromTo.CheckAlphaResult",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 1.085079312324524,
+			"dateTime": "2026.06.01-13.00.00",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "CheckAlphaResult",
+			"fullTestPath": "Plugin.UnitTests.HorizonTween.TweenFloatEvent.CheckAlphaResult",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 1.0277682542800903,
+			"dateTime": "2026.06.01-13.00.01",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "BlinkingCursor",
+			"fullTestPath": "Plugin.UnitTests.HorizonUI.BlinkingCursor",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.010897301137447357,
+			"dateTime": "2026.06.01-13.00.02",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "DialogueBlock",
+			"fullTestPath": "Plugin.UnitTests.HorizonUI.DialogueBlock",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.009304400533437729,
+			"dateTime": "2026.06.01-13.00.02",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "DialogueLine",
+			"fullTestPath": "Plugin.UnitTests.HorizonUI.DialogueLine",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.006364002823829651,
+			"dateTime": "2026.06.01-13.00.03",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "DialoguePage",
+			"fullTestPath": "Plugin.UnitTests.HorizonUI.DialoguePage",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.005854800343513489,
+			"dateTime": "2026.06.01-13.00.03",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "DialogueSegment",
+			"fullTestPath": "Plugin.UnitTests.HorizonUI.DialogueSegment",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.006849400699138641,
+			"dateTime": "2026.06.01-13.00.03",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		},
+		{
+			"testDisplayName": "TextOverflow",
+			"fullTestPath": "Plugin.UnitTests.HorizonUI.TextOverflow",
+			"tags": [],
+			"state": "Success",
+			"deviceInstance": [
+				"95B6DF2C457FB7B557A2C18707E08910"
+			],
+			"duration": 0.004414800554513931,
+			"dateTime": "2026.06.01-13.00.03",
+			"entries": [],
+			"warnings": 0,
+			"errors": 0,
+			"artifacts": []
+		}
+	]
+}

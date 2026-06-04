@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>HorizonUIPluginDemo Release</title>
+      <link>https://dorgonman.github.io/HorizonUIPluginDemo</link>
+      <description>Last 10 notes on HorizonUIPluginDemo Release</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Coverage Summary</title>
+    <link>https://dorgonman.github.io/HorizonUIPluginDemo/coverage</link>
+    <guid>https://dorgonman.github.io/HorizonUIPluginDemo/coverage</guid>
+    <description>Coverage Summary Publish identity FieldValuePublish build[build-pages] deploy-HorizonDialogueDemo.5.7.0.204.nupkg-6Release version[build-pages] deploy-HorizonDialogueDemo.5.7.0.204.nupkg-6Published ...</description>
+    <pubDate>Thu, 04 Jun 2026 19:47:02 GMT</pubDate>
+  </item><item>
+    <title>HorizonUIPluginDemo Technical Release</title>
+    <link>https://dorgonman.github.io/HorizonUIPluginDemo/</link>
+    <guid>https://dorgonman.github.io/HorizonUIPluginDemo/</guid>
+    <description>HorizonUIPluginDemo Technical Release HorizonUI is an Unreal Engine UMG plugin demo focused on rich dialogue text, decorators, flipbook widgets, and UI components that are continuously ...</description>
+    <pubDate>Thu, 04 Jun 2026 19:47:02 GMT</pubDate>
+  </item><item>
+    <title>Automation Test Results</title>
+    <link>https://dorgonman.github.io/HorizonUIPluginDemo/testing</link>
+    <guid>https://dorgonman.github.io/HorizonUIPluginDemo/testing</guid>
+    <description>Automation Test Results Publish identity FieldValuePublish build[build-pages] deploy-HorizonDialogueDemo.5.7.0.204.nupkg-6Release version[build-pages] deploy-HorizonDialogueDemo.5.7.0.204.nupkg-6Published ...</description>
+    <pubDate>Thu, 04 Jun 2026 19:47:02 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://dorgonman.github.io/HorizonUIPluginDemo/readme</link>
+    <guid>https://dorgonman.github.io/HorizonUIPluginDemo/readme</guid>
+    <description>marketplace: www.unrealengine.com/marketplace/en-US/product/horizondialogue-plugin public feed: nuget.org Note: master branch may be unstable since it is in development, ...</description>
+    <pubDate>Thu, 04 Jun 2026 19:47:02 GMT</pubDate>
+  </item><item>
+    <title>project-readme</title>
+    <link>https://dorgonman.github.io/HorizonUIPluginDemo/project-readme</link>
+    <guid>https://dorgonman.github.io/HorizonUIPluginDemo/project-readme</guid>
+    <description>marketplace: www.unrealengine.com/marketplace/en-US/product/horizondialogue-plugin public feed: nuget.org Note: master branch may be unstable since it is in development, ...</description>
+    <pubDate>Thu, 04 Jun 2026 19:47:02 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

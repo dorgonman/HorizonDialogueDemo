@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Unreal Automation" tests="13" failures="0" errors="0" skipped="0" time="2.182269">
+  <testcase classname="Plugin.HorizonFramework.HorizonFrameworkTest" name="Plugin.HorizonFramework.HorizonFrameworkTest.HelloWorld" time="0.002455" />
+  <testcase classname="Plugin.SmokeTest.HorizonUI" name="Plugin.SmokeTest.HorizonUI.EnumValidation" time="0.004664" />
+  <testcase classname="Plugin.SmokeTest.HorizonUI" name="Plugin.SmokeTest.HorizonUI.ModuleLoad" time="0.003918" />
+  <testcase classname="Plugin.SmokeTest.HorizonUI" name="Plugin.SmokeTest.HorizonUI.StructInstantiation" time="0.010997" />
+  <testcase classname="Plugin.SmokeTest.HorizonUI" name="Plugin.SmokeTest.HorizonUI.Success" time="0.003703" />
+  <testcase classname="Plugin.UnitTests.HorizonTween.TweenActorEvent.MoveFromTo" name="Plugin.UnitTests.HorizonTween.TweenActorEvent.MoveFromTo.CheckAlphaResult" time="1.085079" />
+  <testcase classname="Plugin.UnitTests.HorizonTween.TweenFloatEvent" name="Plugin.UnitTests.HorizonTween.TweenFloatEvent.CheckAlphaResult" time="1.027768" />
+  <testcase classname="Plugin.UnitTests.HorizonUI" name="Plugin.UnitTests.HorizonUI.BlinkingCursor" time="0.010897" />
+  <testcase classname="Plugin.UnitTests.HorizonUI" name="Plugin.UnitTests.HorizonUI.DialogueBlock" time="0.009304" />
+  <testcase classname="Plugin.UnitTests.HorizonUI" name="Plugin.UnitTests.HorizonUI.DialogueLine" time="0.006364" />
+  <testcase classname="Plugin.UnitTests.HorizonUI" name="Plugin.UnitTests.HorizonUI.DialoguePage" time="0.005855" />
+  <testcase classname="Plugin.UnitTests.HorizonUI" name="Plugin.UnitTests.HorizonUI.DialogueSegment" time="0.006849" />
+  <testcase classname="Plugin.UnitTests.HorizonUI" name="Plugin.UnitTests.HorizonUI.TextOverflow" time="0.004415" />
+</testsuite>

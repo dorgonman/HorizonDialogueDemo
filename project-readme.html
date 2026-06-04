@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>project-readme</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="project-readme"/><meta property="og:description" content="marketplace: www.unrealengine.com/marketplace/en-US/product/horizondialogue-plugin public feed: nuget.org Note: master branch may be unstable since it is in development, ..."/><meta property="og:image" content="https://dorgonman.github.io/HorizonUIPluginDemo/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="./static/icon.png"/><meta name="description" content="marketplace: www.unrealengine.com/marketplace/en-US/product/horizondialogue-plugin public feed: nuget.org Note: master branch may be unstable since it is in development, ..."/><meta name="generator" content="Quartz"/><link href="./index.css" rel="stylesheet" type="text/css" spa-preserve/><script src="./prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("./static/contentIndex.json").then(data => data.json())</script></head><body data-slug="project-readme"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href=".">HorizonUIPluginDemo Release</a></h2><div class="spacer mobile-only"></div><div class="search"><button class="search-button" id="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="search-layout" data-preview="true"></div></div></div></div><button class="darkmode" id="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button><div class="explorer desktop-only"><button type="button" id="explorer" data-behavior="collapse" data-collapsed="collapsed" data-savestate="true" data-tree="[]" aria-controls="explorer-content" aria-expanded="false"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-content"><ul class="overflow" id="explorer-ul"><li><div class="folder-outer open"><ul style="padding-left:0;" class="content" data-folderul><li><div class="folder-outer "><ul style="padding-left:0;" class="content" data-folderul></ul></div></li><li><a href="./testing" data-for="testing">Automation Test Results</a></li><li><a href="./coverage" data-for="coverage">Coverage Summary</a></li><li><a href="./project-readme" data-for="project-readme">project-readme</a></li><li><a href="./readme" data-for="readme">readme</a></li></ul></div></li><li id="explorer-end"></li></ul></div></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="./">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>project-readme</a></div></nav><h1 class="article-title">project-readme</h1><p show-comma="true" class="content-meta"><span>Jun 05, 2026</span><span>5 min read</span></p></div></div><article class="popover-hint"><p>marketplace: <a href="https://www.unrealengine.com/marketplace/en-US/product/horizondialogue-plugin" class="external">https://www.unrealengine.com/marketplace/en-US/product/horizondialogue-plugin<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://dev.azure.com/hsgame/UEHorizonPlugin/_build/latest?definitionId=32&amp;repoName=HorizonDialogueDemo&amp;branchName=main" class="external"><img src="https://dev.azure.com/hsgame/UEHorizonPlugin/_apis/build/status/HorizonDialogue/HorizonDialogueDemo-Shipping-CI?repoName=HorizonDialogueDemo&amp;branchName=main" alt="Build Status"/><svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>public feed: nuget.org</p>
+<p><a href="https://www.nuget.org/packages/HorizonDialogueDemo/" class="external"><img src="https://img.shields.io/nuget/v/HorizonDialogueDemo.svg" alt="nuget.org package in feed in "/><svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Note:</p>
+<p>master branch may be unstable since it is in development, please switch to tags, for example: editor/4.25.0</p>
+<hr/>
+<p>How to Run Demo Project before purchase:(Only for Win64 editor build, no source code)</p>
+<ol>
+<li>Double click install_game_package_from_nuget_org.cmd, and check if UnrealEditor-*.dll are installed to Binaries\Win64 and Plugins\HorizonDialoguePlugin\Binaries\Win64\</li>
+<li>Double click HorizonDialogueDemo.uproject</li>
+</ol>
+<hr/>
+<hr/>
+<pre><code>          HorizonDialoguePlugin
+                5.7.0
+     http://dorgon.horizon-studio.net
+      	dorgonman@hotmail.com
+</code></pre>
+<hr/>
+<p>The goal of this plugin is to provide a dialogue framework that can easily integrate story telling in your game using blueprint.</p>
+<hr/>
+<h2 id="system-requirements">System Requirements<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#system-requirements" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Supported UnrealEngine version: 4.22-5.4</p>
+<hr/>
+<h2 id="installation-guide">Installation Guide<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#installation-guide" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Put HorizonUIPlugin, HorizonTweenPlugin and HorizonDialoguelugin into YOUR_PROJECT/Plugins folder,
+and then add module to your project
+YOUR_PROJECT.Build.cs:
+PublicDependencyModuleNames.AddRange(new string[] { “HorizonUI”, “HorizonTween”, “HorizonFramework”, “HorizonDialogue”});</p>
+<hr/>
+<h2 id="user-guide">User Guide<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#user-guide" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Here is basic process of creating a DialogueScene.</p>
+<ol>
+<li>Create Dialogue Layout using UserWidget.</li>
+</ol>
+<p><img src="./ScreenShot/HorizonDialogue_screenshot_8.png" alt="Design your user widget"/></p>
+<ol start="2">
+<li>Set widgets that you want to be accessed by DialogueSystem as Variable.</li>
+</ol>
+<p><img src="./ScreenShot/HorizonDialogue_IsVariable.png" alt="Set Is Variable"/></p>
+<ol start="3">
+<li>Create Blueprint(TestScene_BP) that extends from HorizonDialogueScene and setup defualt widgets for DialogueScene.<br/>
+Note: The widget need set to Variable in step 2 in order to be selectable in drop-down list.</li>
+</ol>
+<p><img src="./ScreenShot/HorizonDialogue_setup_widget.png" alt="Setup widget"/></p>
+<ol start="4">
+<li>Add Dialogue Events in TestScene_BP, like following:</li>
+</ol>
+<p><img src="./ScreenShot/HorizonDialogue_screenshot_1.png" alt="Add Dialogue Events"/></p>
+<ol start="5">
+<li>Push BP_TestScene using HorizonSceneManger.</li>
+</ol>
+<p><img src="./ScreenShot/HorizonDialogue_start_dialogue.png" alt="Start DialogueScene"/></p>
+<hr/>
+<h2 id="technical-details">Technical Details<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#technical-details" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Features:</p>
+<ol>
+<li>
+<p>Support many DialogueEvent:</p>
+<ul>
+<li>
+<p>WidgetEvents: CreateDialogueMsg, CreateDialogueTalkerNameAndMsg, CreateDialogueMsgWithParam, CreateDialogueMsgWithParamEx, CreateDialogueTextBlock, CreateDialogueImage2D, CreateDialogueUserWidget, CreateDialogueFlipbook, CreateDialogueChoice, CreateDialogueSetWidgetList.</p>
+</li>
+<li>
+<p>ActionEvents: CreateDialogueWaitPendingAction, CreateDialogueWaitDuration, CreateDialogueWaitClick.</p>
+</li>
+<li>
+<p>SceneEvents: CreateDialogueChangeScene, CreateDialoguePopScene, CreateDialoguePushScene.</p>
+</li>
+<li>
+<p>SoundEvents: CreateDialogueSound.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Automatically widget visibility control: Target Widget will visible when DialogueEvent start and hide after finished,</p>
+</li>
+<li>
+<p>Every DialogueEvent has following callbacks: OnDialogueEventPreStart, OnDialogueEventStart, OnDialogueEventFinished. You can add any custom actions here.</p>
+</li>
+<li>
+<p>Control speed of Auto process or Skip DialogueEvents.</p>
+</li>
+<li>
+<p>DialogueHistoryManager and DialogueHistoryTileView</p>
+</li>
+</ol>
+<p>Code Modules: HorizonDialogue(Runtime), HorizonDialogueEditor(Editor), HorizonFramework(Runtime), HorizonFrameworkEditor(Editor), HorizonTween(Runtime), HorizonUI(Runtime)</p>
+<p>Network Replicated: No</p>
+<p>Supported Development Platforms: Win64, Mac, Linux</p>
+<p>Supported Target Build Platforms: All Platforms</p>
+<p>Tested Platform: Win64, Android</p>
+<p>Documentation: <a href="https://github.com/dorgonman/HorizonDialogueDemo" class="external">https://github.com/dorgonman/HorizonDialogueDemo<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Example Project: <a href="https://github.com/dorgonman/HorizonDialogueDemo" class="external">https://github.com/dorgonman/HorizonDialogueDemo<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Important/Additional Notes:</p>
+<p>This plugin integrated functions of my other plugins, all features and codes in following plugins are included:<br/>
+<a href="https://www.unrealengine.com/marketplace/en-US/slug/horizon-ui-plugin" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a><br/>
+<a href="https://www.unrealengine.com/marketplace/en-US/slug/horizontween-plugin" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a><br/>
+<a href="https://www.unrealengine.com/marketplace/en-US/slug/horizonframework-plugin" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<hr/>
+<h2 id="what-does-your-plugin-dowhat-is-the-intent-of-your-plugin">What does your plugin do/What is the intent of your plugin<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-does-your-plugin-dowhat-is-the-intent-of-your-plugin" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>The intent of this plugin is to provide a framework that can integrate story telling feature in games.</p>
+<p><a href="https://www.youtube.com/watch?v=z7MBoe3-o_M" class="external">DemoVideo<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a><br/>
+<a href="https://www.youtube.com/watch?v=hjI2RDx48yc&amp;feature=youtu.be" class="external">TutorialVideo<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<hr/>
+<h2 id="contact-and-support">Contact and Support<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#contact-and-support" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Email: <a href="mailto:dorgonman@hotmail.com" class="external">dorgonman@hotmail.com<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Discord: <a href="https://discord.gg/surfzAz" class="external">https://discord.gg/surfzAz<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<hr/>
+<h2 id="version-history">Version History<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#version-history" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>*5.7.0</p>
+<p>Update to 5.7.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.7.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.7.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.7.0</p>
+<p>*5.6.0</p>
+<p>Update to 5.6.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.6.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.6.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.6.0</p>
+<p>*5.5.0</p>
+<p>Update to 5.5.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.5.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.5.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.5.0</p>
+<p>*5.4.1</p>
+<pre><code>Update [HorizonFramework](https://github.com/dorgonman/HorizonFrameworkDemo) to 5.4.1
+    * [New] Implement Push/Change Scene by SoftClass
+    * [New] Implement Push/Change Scene using UserWidget Only, without Create Scene BP Asset
+    * [Optimization] include UE_INLINE_GENERATED_CPP_BY_NAME to all .cpp for increase compile time
+</code></pre>
+<p>*5.4.0</p>
+<p>Update to 5.4.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.4.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.4.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.4.0</p>
+<p>*5.3.1</p>
+<ul>
+<li>
+<p>[BugFix] Fix FHorizonDialogueEventMsgDataTable can’t assign DataTable</p>
+</li>
+<li>
+<p>[BugFix] Fix MsgFromDataTable crash</p>
+</li>
+<li>
+<p>[Refactor] RawPointer to TObjectPtr</p>
+</li>
+</ul>
+<p>*5.3.0</p>
+<p>Update to 5.3.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.3.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.3.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.3.0</p>
+<p>*5.2.1</p>
+<ul>
+<li>
+<p>[BugFix] Fix FHorizonDialogueEventMsgDataTable can’t assign DataTable</p>
+</li>
+<li>
+<p>[BugFix] Fix MsgFromDataTable crash</p>
+</li>
+</ul>
+<p>*5.2.0</p>
+<ul>
+<li>
+<p>[DialogueActionLibrary] Support UHorizonDialogueMsgTextBlock for Tween Widget Color Action</p>
+</li>
+<li>
+<p>[Refactor][Break][DialogueEvent] Fix AddTweenEvent param from pTweenEvent to InTweenEvent</p>
+</li>
+<li>
+<p>[DialogueHistoryTileView] Refactor and inherited from UHorizonTileView</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.2.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.2.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.2.0</p>
+</li>
+</ul>
+<p>*5.1.0</p>
+<ul>
+<li>
+<p>[DialogueQueueComponent] Expose member to protected so it can be modified by it’s child</p>
+</li>
+<li>
+<p>AB#2647 [DialogueFunctionLibrary] ShouldStopAutoOrSkipEventOnDialogueSceneRemoved for DialogueQueueComponent</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.1.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.1.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.1.0</p>
+</li>
+</ul>
+<p>*5.0.1</p>
+<ul>
+<li>
+<p>[BugFix][WaitDuration] Fix WaitDuration InitProcess not breaking</p>
+</li>
+<li>
+<p>[Refactor] Check nullptr before use for some functions</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.0.1</p>
+<ul>
+<li>[BugFix][HorizonDialogueMsgTextBlock] Fix MemoryLeak when parse segmentStr using FXmlFile</li>
+<li>[New][DialogueMsgTextBlock] Implement SpaceDecorator and Add Tag param to Segment</li>
+<li>[New][DialogueMsgTextBlock] Add BuildSegment call for Decorator class and rename BuildDecoration to BuildBlockDecoration</li>
+</ul>
+</li>
+</ul>
+<p>*5.0.0</p>
+<ul>
+<li>
+<p>[BugFix] Should call NotifyCustomizationModuleChanged when RegisterCustomClassLayout/UnRegisterCustomClassLayout</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.0.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.0.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 5.0.0</p>
+</li>
+</ul>
+<p>*4.27.1</p>
+<ul>
+<li>
+<p>[BugFix] Fix missing category in HorizonDialogueType</p>
+</li>
+<li>
+<p>[BugFix] Fix Sonarqube bug warning</p>
+</li>
+</ul>
+<p>*4.27.0</p>
+<ul>
+<li>
+<p>[BugFix] potentially uninitialized local pointer variable ‘pOutActor’ used</p>
+</li>
+<li>
+<p>[New][Event] Implement EventName for all DialogueEventParameter Implementation</p>
+</li>
+<li>
+<p>[Refactor] Don’t Add to DialogueEventImag if WidgetName is none when CreateDialogueTalkerNameAndMsgWithImage</p>
+</li>
+<li>
+<p>[New] Use FHorizonDialogueEventImageParameters for TalkWithImage and TalkWithImageSequence</p>
+</li>
+<li>
+<p>[BugFix] Crash if we promote input pin to variable for Custom SGraphNodePin</p>
+</li>
+<li>
+<p>[Performance] Implement DECLARE_HORIZONDIALOGUE_QUICK_SCOPE_CYCLE_COUNTER for performance measure</p>
+</li>
+<li>
+<p>[Submodule] Source\HorizonUI</p>
+</li>
+<li>
+<p>[BugFix] Hotfix Explicit PCH compile error</p>
+</li>
+<li>
+<p>[Optimization] Add PrivatePCHHeaderFile to .Build.cs to optimizae build speed</p>
+</li>
+<li>
+<p>[Refactor][DialogueQueue] Use DialogueScene to check if we need dequeue instead of SceneManager</p>
+</li>
+<li>
+<p>[New][HorizonDialogueQueueComponent] Use Default SceneManager</p>
+</li>
+<li>
+<p>[New][HorizonDialogueFunctionLibrary] Implement GetDialogueQueue</p>
+</li>
+<li>
+<p>[New] Implement HorizonDialogueQueueComponent with DialogueContext Support</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.27.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.27.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.27.0</p>
+</li>
+</ul>
+<p>*4.26.0</p>
+<ul>
+<li>
+<p>[New] Implement HorizonDialogueGraphPanelPinFactory that can show image and text in BP Nodes.</p>
+</li>
+<li>
+<p>[New] Implement New DialogueEvents: HorizonDialogueEventDisplayPaper2DActor, HorizonDialogueEventDisplayPaperFlipbookActor, HorizonDialogueEventDisplaySkeletalMeshActor, HorizonDialogueEventDisplayPaperSpriteActor, HorizonDialogueEventSetActorList and HorizonDialogueEventPlayLevelSequence.</p>
+</li>
+<li>
+<p>[Refactor] Use RemoveScene instead of PopScene when DialogueEventListFinished</p>
+</li>
+<li>
+<p>[BugFix][HorizonDialogueEngine] CreateDialogueMsgWithParam should Check if UserWidget exist</p>
+</li>
+<li>
+<p>[Refactor] bAutoEvent, bSkipEvent and Implement FHorizonDialogueDelegates::OnProcessSkipEventNative</p>
+</li>
+<li>
+<p>[BugFix][HorizonDialogueEventDisplayChoice] clear ChoiceButtonList before GetWidgetFromName</p>
+</li>
+<li>
+<p>[BugFix] FHorizonDialogueDelegates::OnDialogueEventPreStartNative should be called in DialogueEventStart</p>
+</li>
+<li>
+<p>[Refactor] Don’t need RestartEditor when bEnableHistory now</p>
+</li>
+<li>
+<p>[New] Implement GetTargetWidget for Dialogue Events</p>
+</li>
+<li>
+<p>[New] Implement FHorizonDialogueDelegates::OnDialogueEventFinished and FHorizonDialogueDelegates::OnChoiceButtonClickedNative</p>
+</li>
+<li>
+<p>[Refactor] Remove HorizonDialogueHistoryManager and move functions to HorizonDialogueSystem</p>
+</li>
+<li>
+<p>[New] Implement FHorizonDialogueDelegates::OnDialogueEventStartNative for all DialogueEvent</p>
+</li>
+<li>
+<p>AB#1675 AB#1109 [New][DialogueEvent] Implement TalkSequence, MsgSequence</p>
+</li>
+<li>
+<p>[Refactor][HorizonDialogueFunctionLibrary] SpawnSound should use const FHorizonDialogueEventSoundParameters</p>
+</li>
+<li>
+<p>[New] Implement and Refactor SoundSpawnMethod for Dialogue Event</p>
+</li>
+<li>
+<p>[New][HorizonDialogueEvent] Implement AddTagUnique, GetTags</p>
+</li>
+<li>
+<p>[New][HorizonDialogueEventDisplayChoice] Implement GetChoiceButtonList</p>
+</li>
+<li>
+<p>[New][HorizonDialogueEngine] Implement GetCurrentEvent</p>
+</li>
+<li>
+<p>[New][HorizonDialogueHistoryI] GetItemObject</p>
+</li>
+<li>
+<p>[BugFix][HorizonDialogueEventDisplayChoice] Fix Choice event logic for GoToEventByTag</p>
+</li>
+<li>
+<p>[New][HorizonDialogueEngine] Implement GoToEventIndex, GoToEventByTag</p>
+</li>
+<li>
+<p>[Refactor][HorizonDialogueHistoryManager] OnDialogueEventPreStart callback implementation adjust</p>
+</li>
+<li>
+<p>[Refactor] Coding style</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.27.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.27.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.27.0</p>
+</li>
+</ul>
+<p>*4.25.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.25</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.25</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.25</p>
+<p>*4.24.0</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonUIPluginDemo" class="external">HorizonUI<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.24</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonTweenDemo" class="external">HorizonTween<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.24</p>
+<p>Update <a href="https://github.com/dorgonman/HorizonFrameworkDemo" class="external">HorizonFramework<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> to 4.24</p>
+<p>*4.23.1</p>
+<pre><code>    BugFix: [HorizonDialogueScene] Fix Editor crash  
+</code></pre>
+<p>*4.23.0</p>
+<pre><code>    New: Update to 4.23  
+
+    BugFix: Fix using Flipbook in UHorizonDialogueMsgTextBlock  
+</code></pre>
+<p>*4.22.0</p>
+<pre><code>    NEW: First Version including core features.
+</code></pre></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false}"></div><button id="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" id="toc" class aria-controls="toc-content" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content" class><ul class="overflow"><li class="depth-0"><a href="#system-requirements" data-for="system-requirements">System Requirements</a></li><li class="depth-0"><a href="#installation-guide" data-for="installation-guide">Installation Guide</a></li><li class="depth-0"><a href="#user-guide" data-for="user-guide">User Guide</a></li><li class="depth-0"><a href="#technical-details" data-for="technical-details">Technical Details</a></li><li class="depth-0"><a href="#what-does-your-plugin-dowhat-is-the-intent-of-your-plugin" data-for="what-does-your-plugin-dowhat-is-the-intent-of-your-plugin">What does your plugin do/What is the intent of your plugin</a></li><li class="depth-0"><a href="#contact-and-support" data-for="contact-and-support">Contact and Support</a></li><li class="depth-0"><a href="#version-history" data-for="version-history">Version History</a></li></ul></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li><a href="./" class="internal">HorizonUIPluginDemo Technical Release</a></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.4.0</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function c(){let t=this.parentElement;t.classList.toggle("is-collapsed");let l=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=l+"px";let o=t,e=t.parentElement;for(;e;){if(!e.classList.contains("callout"))return;let n=e.classList.contains("is-collapsed")?e.scrollHeight:e.scrollHeight+o.scrollHeight;e.style.maxHeight=n+"px",o=e,e=e.parentElement}}function i(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let l=s.firstElementChild;if(l){l.addEventListener("click",c),window.addCleanup(()=>l.removeEventListener("click",c));let e=s.classList.contains("is-collapsed")?l.scrollHeight:s.scrollHeight;s.style.maxHeight=e+"px"}}}document.addEventListener("nav",i);window.addEventListener("resize",i);
+</script><script type="module">
+          let mermaidImport = undefined
+          document.addEventListener('nav', async () => {
+            if (document.querySelector("code.mermaid")) {
+              mermaidImport ||= await import('https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs')
+              const mermaid = mermaidImport.default
+              const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+              mermaid.initialize({
+                startOnLoad: false,
+                securityLevel: 'loose',
+                theme: darkMode ? 'dark' : 'default'
+              })
+
+              await mermaid.run({
+                querySelector: '.mermaid'
+              })
+            }
+          });
+          </script><script src="./postscript.js" type="module"></script></html>
