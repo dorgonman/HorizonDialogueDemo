@@ -1,3 +1,0 @@
-Missing report-site evidence: Coverage/<TestName>/native-html/index.html
-Missing report-site evidence: Result/imageCompare
-Missing report-site evidence: Result/ClientOutput.log
